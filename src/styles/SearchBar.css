@@ -1,0 +1,41 @@
+.search-bar-container {
+  --blur: 16px;
+  display: flex;
+  align-items: center;
+  padding: 2.5rem 0;
+  margin-top: 4rem;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  backdrop-filter: blur(var(--blur));
+}
+
+.main-bloc {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgba(255, 255, 255, 0.7);
+  padding: 10px;
+  border-radius: 5px;
+  width: 80%;
+  margin: 0 auto;
+  gap: 1rem;
+  position: relative;
+}
+
+#google-map-demo {
+  width: 100%;
+}
+
+.search-input {
+  flex-grow: 1;
+  border-radius: 5px;
+  margin-right: 10px;
+  max-width: 90%;
+}
+
+.search-button {
+  width: auto;
+  border-radius: 5px;
+  cursor: pointer;
+}
