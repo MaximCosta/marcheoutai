@@ -2,7 +2,7 @@
 # https://github.com/firebase/firebase-tools
 
 name: Deploy to Firebase Hosting on merge
-on:
+"on":
     push:
         branches:
             - main
@@ -22,10 +22,20 @@ jobs:
               run: npx eslint .
                   --config .eslintrc.js
                   --ext .js,.jsx,.ts,.tsx
+                  --format @microsoft/eslint-formatter-sarif
+                  --output-file eslint-results.sarif
               continue-on-error: false
 
-            - uses: actions/checkout@v3
-            - run: npm i && npm run build
+            - name: build
+              env:
+                  REACT_APP_MARCHEOUTAI_API_KEY: ${{ vars.REACT_APP_MARCHEOUTAI_API_KEY }}
+                  REACT_APP_MARCHEOUTAI_AUTH_DOMAIN: ${{ vars.REACT_APP_MARCHEOUTAI_AUTH_DOMAIN }}
+                  REACT_APP_MARCHEOUTAI_PROJECT_ID: ${{ vars.REACT_APP_MARCHEOUTAI_PROJECT_ID }}
+                  REACT_APP_MARCHEOUTAI_STORAGE_BUCKET: ${{ vars.REACT_APP_MARCHEOUTAI_STORAGE_BUCKET }}
+                  REACT_APP_MARCHEOUTAI_MESSAGING_SENDER_ID: ${{ vars.REACT_APP_MARCHEOUTAI_MESSAGING_SENDER_ID }}
+                  REACT_APP_MARCHEOUTAI_APP_ID: ${{ vars.REACT_APP_MARCHEOUTAI_APP_ID }}
+                  REACT_APP_MARCHEOUTAI_MEASUREMENT_ID: ${{ vars.REACT_APP_MARCHEOUTAI_MEASUREMENT_ID }}
+              run: npm i && npm run build
             - uses: FirebaseExtended/action-hosting-deploy@v0
               with:
                   repoToken: "${{ secrets.GITHUB_TOKEN }}"
