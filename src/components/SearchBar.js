@@ -10,7 +10,7 @@ import { debounce } from "@mui/material/utils";
 import Box from "@mui/material/Box";
 import "../styles/SearchBar.css";
 
-const GOOGLE_MAPS_API_KEY = 'AIzaSyAmeM7ViqIMbrhlPQadR9fjjN-cMXVOC2I';
+const GOOGLE_MAPS_API_KEY = process.env.REACT_APP_GOOGLE_API_KEY;
 
 const loadScript = (src, position, id) => {
   if (!position) {
