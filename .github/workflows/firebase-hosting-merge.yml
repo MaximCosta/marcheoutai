@@ -9,6 +9,7 @@ name: Deploy to Firebase Hosting on merge
 jobs:
     build_and_deploy:
         runs-on: ubuntu-latest
+        environment: REACT
         steps:
             - name: Checkout code
               uses: actions/checkout@v3
@@ -27,7 +28,7 @@ jobs:
               continue-on-error: false
               
             - name: Show Google API Key
-              run: echo ${{ secrets.REACT_APP_GOOGLE_API_KEY }} && echo ${{ vars.REACT.REACT_APP_MARCHEOUTAI_AUTH_DOMAIN }}
+              run: echo ${{ secrets.REACT_APP_GOOGLE_API_KEY }} && echo ${{ vars.REACT_APP_GOOGLE_API_KEY }}&& echo ${{ vars.REACT_APP_MARCHEOUTAI_AUTH_DOMAIN }}
 
             - name: build
               env:
