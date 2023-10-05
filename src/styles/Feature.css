@@ -1,0 +1,112 @@
+#features {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.section-title {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    position: relative;
+}
+
+.section-title h2 {
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 36px;
+}
+
+.section-title::after {
+    position: absolute;
+    content: "";
+    background: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+    height: 4px;
+    width: 60px;
+    margin-left: -30px;
+    margin-top: -15px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.feature {
+    flex: 0 0 calc(25% - 1rem); /* Display in a single line up to 1600px width */
+    max-width: calc(25% - 1rem); /* Display in a single line up to 1600px width */
+    margin-bottom: 2rem;
+    padding: 1rem;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.feature i {
+    font-size: 38px;
+    transition: all 0.5s;
+    color: #fff;
+    width: 100px;
+    height: 100px;
+    padding: 30px 30px;
+    border-radius: 50%;
+    background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
+}
+
+.feature i::before {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    margin-top: 1.5rem;
+}
+
+.fa {
+    top: 50%;
+    left: 50%;
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    transform: translate(0, 0);
+}
+
+.feature h3 {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+}
+
+.feature p {
+    width: 80%;
+    margin: auto;
+}
+
+/* Media Query for Responsive Layout */
+@media (min-width: 651px) and (max-width: 1600px) {
+    .row {
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .feature {
+        flex: 0 0 calc(50% - 1rem); /* Display 2 features per row */
+        max-width: calc(50% - 1rem); /* Display 2 features per row */
+    }
+}
+
+@media (max-width: 650px) {
+    .row {
+        flex-direction: column; /* Change to a single column layout */
+    }
+
+    .feature {
+        flex: 0 0 100%; /* Each feature takes full width */
+        max-width: 100%;
+    }
+}
+
