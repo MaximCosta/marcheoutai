@@ -5,6 +5,8 @@
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
+    "@fontsource/roboto": "^5.0.8",
+    "@microsoft/eslint-formatter-sarif": "^3.0.0",
     "@mui/icons-material": "^5.14.11",
     "@mui/material": "^5.14.11",
     "@mui/styled-engine": "^5.14.11",
@@ -24,7 +26,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "lint": "npx eslint . --config .eslintrc.js --ext .js,.jsx,.ts,.tsx"
   },
   "eslintConfig": {
     "extends": [
@@ -43,5 +46,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "eslint": "^8.50.0",
+    "eslint-plugin-react": "^7.33.2"
   }
 }
