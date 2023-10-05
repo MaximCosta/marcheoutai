@@ -1,0 +1,185 @@
+{
+    "Header": {
+      "title": "We Build the Future",
+      "paragraph": "Construction and Manufacturing is more than our business. It’s who we are."
+    },
+    "About": {
+      "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Why": [
+        "Lorem ipsum dolor",
+        "Tempor incididunt",
+        "Lorem ipsum dolor",
+        "Incididunt ut labore"
+      ],
+      "Why2": [
+        "Aliquip ex ea commodo",
+        "Lorem ipsum dolor",
+        "Exercitation ullamco",
+        "Lorem ipsum dolor"
+      ]
+    },
+    "Gallery": [
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/01-large.jpg",
+        "smallImage": "img/portfolio/01-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/02-large.jpg",
+        "smallImage": "img/portfolio/02-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/03-large.jpg",
+        "smallImage": "img/portfolio/03-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/04-large.jpg",
+        "smallImage": "img/portfolio/04-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/05-large.jpg",
+        "smallImage": "img/portfolio/05-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/06-large.jpg",
+        "smallImage": "img/portfolio/06-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/07-large.jpg",
+        "smallImage": "img/portfolio/07-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/08-large.jpg",
+        "smallImage": "img/portfolio/08-small.jpg"
+      },
+      {
+        "title": "Project Title",
+        "largeImage": "img/portfolio/09-large.jpg",
+        "smallImage": "img/portfolio/09-small.jpg"
+      }
+    ],
+    "Services": [
+      {
+        "icon": "fa fa-wordpress",
+        "name": "Lorem ipsum dolor",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      },
+      {
+        "icon": "fa fa-cart-arrow-down",
+        "name": "Consectetur adipiscing",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      },
+      {
+        "icon": "fa fa-cloud-download",
+        "name": "Lorem ipsum dolor",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      },
+      {
+        "icon": "fa fa-language",
+        "name": "Consectetur adipiscing",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      },
+      {
+        "icon": "fa fa-plane",
+        "name": "Lorem ipsum dolor",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      },
+      {
+        "icon": "fa fa-pie-chart",
+        "name": "Consectetur adipiscing",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      }
+    ],
+    "Testimonials": [
+      {
+        "img": "img/testimonials/01.jpg",
+        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "name": "John Doe"
+      },
+      {
+        "img": "img/testimonials/02.jpg",
+        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "name": "Johnathan Doe"
+      },
+      {
+        "img": "img/testimonials/03.jpg",
+        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "name": "John Doe"
+      },
+      {
+        "img": "img/testimonials/04.jpg",
+        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "name": "Johnathan Doe"
+      },
+      {
+        "img": "img/testimonials/05.jpg",
+        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "name": "John Doe"
+      },
+      {
+        "img": "img/testimonials/06.jpg",
+        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "name": "Johnathan Doe"
+      }
+    ],
+    "Team": [
+      {
+        "img": "img/team/01.jpg",
+        "name": "John Doe",
+        "job": "Director"
+      },
+      {
+        "img": "img/team/02.jpg",
+        "name": "Mike Doe",
+        "job": "Senior Designer"
+      },
+      {
+        "img": "img/team/03.jpg",
+        "name": "Jane Doe",
+        "job": "Senior Designer"
+      },
+      {
+        "img": "img/team/04.jpg",
+        "name": "Karen Doe",
+        "job": "Project Manager"
+      }
+    ],
+    "Contact": {
+      "address": "Ganesh Nagar, Akluj,Tal-Makshiras,dist. Solapur,413101",
+      "phone": "+91 8766673242 ",
+      "email": "mahabali.engg@gmail.com",
+      "facebook": "fb.com",
+      "twitter": "twitter.com",
+      "youtube": "youtube.com"
+    },
+    "Features": [
+      {
+        "icon": "fa-solid fa-shop",
+        "title": "Trouve ton marché",
+        "text": "Désormais, les utilisateurs peuvent facilement découvrir et explorer les marchés locaux à proximité, offrant ainsi une expérience d'achat authentique et engageante. Cette fonctionnalité donne vie à la vision d'une communauté connectée, encourageant le commerce local et offrant aux consommateurs une chance de soutenir les entrepreneurs de leur région. Explorez votre quartier de manière nouvelle et passionnante avec notre fonction de recherche de marchés locaux, renforçant ainsi les liens au sein de votre communauté tout en découvrant des trésors uniques à chaque coin de rue."
+      },
+      {
+        "icon": "fa-solid fa-address-card",
+        "title": "Trouve ton marchand",
+        "text": "Explorez une abondance de produits frais et authentiques provenant directement des agriculteurs et producteurs de votre région. Cultivez une relation directe avec votre source alimentaire grâce à notre fonction de recherche de producteurs locaux, transformant chaque achat en une expérience qui soutient l'agriculture locale tout en offrant des produits d'une fraîcheur exceptionnelle."
+      },
+      {
+        "icon": "fa-solid fa-carrot",
+        "title": "Trouve ton produit frais",
+        "text": "Votre guide infaillible pour des choix alimentaires sains et délicieux ! Explorez notre sélection de produits frais de qualité supérieure, triés sur le volet pour vous garantir fraîcheur et saveur. Que vous cherchiez des légumes croquants, des viandes tendres ou des produits laitiers crémeux, notre outil vous aide à dénicher les trésors culinaires qui feront briller votre table."
+      },
+      {
+        "icon": "fa-solid fa-wand-magic-sparkles",
+        "title": "Lorem ipsum",
+        "text": "In progress..."
+      }
+    ]
+  }
+  
