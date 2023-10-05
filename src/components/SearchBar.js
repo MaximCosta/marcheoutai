@@ -27,7 +27,6 @@ const loadScript = (src, position, id) => {
 const autocompleteService = { current: null };
 
 const SearchBar = ({ placeholder }) => {
-  console.log(GOOGLE_MAPS_API_KEY);
   const [value, setValue] = useState(null);
   const [inputValue, setInputValue] = useState("");
   const [options, setOptions] = useState([]);
