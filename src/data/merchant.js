@@ -1,4 +1,4 @@
-export const merchant = {
+export const merchantData = {
     "Serge Patrick Audollent": {
         Address: " Serge Patrick Audollent Ferme des Ecuets  01340 Attignat",
         tel: "0474309720",
@@ -90,6 +90,7 @@ export const merchant = {
             "7c22e737-1de8-4697-9",
             "1ac4392e-073b-4cbc-8",
         ],
+        zipcode: "01 Ain",
     },
     "Le jardin de Jean-Louis": {
         Address: " Le jardin de Jean-Louis 47 Chemin des communaux  01250 Simandre-sur-Suran",
@@ -184,6 +185,7 @@ export const merchant = {
             "c4342434-5448-4946-a",
             "bae17232-9736-427a-b",
         ],
+        zipcode: "01 Ain",
     },
     "Ferme maraîchère du petit Simandre": {
         Address: " Ferme maraîchère du petit Simandre 35 impasse du pecheur  01250 Simandre-sur-Suran",
@@ -292,6 +294,7 @@ export const merchant = {
             "5fefc504-b99b-4bd7-b",
             "1ac4392e-073b-4cbc-8",
         ],
+        zipcode: "01 Ain",
     },
     "Les jardins de Cize": {
         Address: " Les jardins de Cize chemin de l'église  01250 Cize",
@@ -403,6 +406,7 @@ export const merchant = {
             "89fbf48e-ad60-4c84-9",
             "f727d4f9-0a05-4eb9-8",
         ],
+        zipcode: "01 Ain",
     },
     "Rucher des Brotteaux de la rivière d Ain": {
         Address: " Rucher des Brotteaux de la rivière d Ain 447 route des combes  01160 Druillat",
@@ -476,6 +480,7 @@ export const merchant = {
             "65e22731-e95e-42dc-8",
             "e2f4e147-af76-48dd-8",
         ],
+        zipcode: "01 Ain",
     },
     "Rucher des charrons": {
         Address: " Rucher des charrons 103 chemin des charrons  01160 Priay",
@@ -548,6 +553,7 @@ export const merchant = {
             "2b8be3bb-0821-4c45-b",
             "b5d4a6a6-7131-40e8-8",
         ],
+        zipcode: "01 Ain",
     },
     "Le potager de Ceignes": {
         Address: " Le potager de Ceignes 162 Rue de la mairie  01430 Ceignes",
@@ -661,6 +667,7 @@ export const merchant = {
             "859f8042-833e-4975-b",
             "e2f4e147-af76-48dd-8",
         ],
+        zipcode: "01 Ain",
     },
     Sésame: {
         Address: " Sésame Rue Jean Puvelant  39160 Saint-Jean-d'Étreux",
@@ -746,6 +753,7 @@ export const merchant = {
             "f048f2f9-ac5a-4aba-8",
             "02e9bba2-17cc-4d4a-8",
         ],
+        zipcode: "39 Jura",
     },
     "Le rucher des nymphes": {
         Address: " Le rucher des nymphes 11 A route de la Gazagne  01270 Domsure",
@@ -830,6 +838,7 @@ export const merchant = {
             "23da6431-ee11-4994-9",
             "ee4f8799-d969-446f-a",
         ],
+        zipcode: "01 Ain",
     },
     "Les Jardins d'Aestiv": {
         Address: " Les Jardins d'Aestiv 2225 route de la Terrasse  01380 Bâgé-la-Ville",
@@ -911,6 +920,7 @@ export const merchant = {
             "28b8c875-7d40-4e66-b",
             "f589e365-ba31-4516-b",
         ],
+        zipcode: "01 Ain",
     },
     "Spirul'Ain": {
         Address: " Spirul'Ain Lieu-dit Rebusson  01330 Villars-les-Dombes",
@@ -977,6 +987,7 @@ export const merchant = {
             "3e242a93-b5aa-4ac2-8",
             "549c6436-a053-4fc2-8",
         ],
+        zipcode: "01 Ain",
     },
     "GAEC de Plan Poncieux": {
         Address: " GAEC de Plan Poncieux 66 montée de la plantee  01640 Boyeux-Saint-Jérôme",
@@ -1058,6 +1069,7 @@ export const merchant = {
             "e96f08ed-0ba7-4150-9",
             "32b37740-c957-4d1d-a",
         ],
+        zipcode: "01 Ain",
     },
     "La ferme des Maziers": {
         Address: " La ferme des Maziers 490 Route des Maziers  71480 Varennes-Saint-Sauveur",
@@ -1132,6 +1144,7 @@ export const merchant = {
             "e25e4e34-2441-4451-b",
             "2b8be3bb-0821-4c45-b",
         ],
+        zipcode: "71 Saône-et-Loire",
     },
     "Ferme de la petite forêt": {
         Address: " Ferme de la petite forêt La petite forêt  71480 Cuiseaux",
@@ -1197,6 +1210,7 @@ export const merchant = {
             "3cc432ef-b2af-485a-b",
             "b7691b68-ea95-4e2d-b",
         ],
+        zipcode: "71 Saône-et-Loire",
     },
     "Savon Emoi": {
         Address: " Savon Emoi Impasse du Cailleton  01090 Lurcy",
@@ -1258,6 +1272,7 @@ export const merchant = {
             "1793c3d4-5912-43b2-9",
             "bde41646-af09-4815-9",
         ],
+        zipcode: "01 Ain",
     },
     "Les Jardins de Suzon": {
         Address: " Les Jardins de Suzon 1 Impasse du moulin  39270 Nancuise",
@@ -1288,7 +1303,6 @@ export const merchant = {
             "légumes",
             "mâche",
             "maï",
-            "",
             "navet",
             "oignon",
             "patisson",
@@ -1379,6 +1393,7 @@ export const merchant = {
             "b74dbdd4-0c27-4d1a-a",
             "5087ddb9-7ea3-450d-b",
         ],
+        zipcode: "39 Jura",
     },
     "Julie Balagny": {
         Address: " Julie Balagny Haut de Poncie  69820 Fleurie",
@@ -1446,6 +1461,7 @@ export const merchant = {
             "0a2230c5-3ed7-4da1-8",
             "1e1da486-4433-4962-a",
         ],
+        zipcode: "69 Rhône",
     },
     "gaec les chèvres de M.Seguin": {
         Address: " gaec les chèvres de M.Seguin vaux saint sulpice  01110 Cormaranche-en-Bugey",
@@ -1521,6 +1537,7 @@ export const merchant = {
             "06a50824-d55c-4f03-9",
             "d0c32817-0265-401d-8",
         ],
+        zipcode: "01 Ain",
     },
     "la petite ferme de Chanon": {
         Address: " la petite ferme de Chanon chanon  39260 Martigna",
@@ -1615,6 +1632,7 @@ export const merchant = {
             "e96f08ed-0ba7-4150-9",
             "01e715e3-83b0-4b1e-a",
         ],
+        zipcode: "39 Jura",
     },
     "ferme du brillat": {
         Address: " ferme du brillat 2 rue de ronge  39260 Maisod",
@@ -1683,6 +1701,7 @@ export const merchant = {
             "bb70f666-4b8a-469d-8",
             "1bb9f5e6-3d13-45b7-b",
         ],
+        zipcode: "39 Jura",
     },
     "Domaine des Grottes": {
         Address: " Domaine des Grottes La Grande Maison  69460 Saint-Étienne-des-Oullières",
@@ -1750,6 +1769,7 @@ export const merchant = {
             "e96f08ed-0ba7-4150-9",
             "ed416075-44d1-4b9c-a",
         ],
+        zipcode: "69 Rhône",
     },
     "Crack Cafés": {
         Address: " Crack Cafés 306 avenue Henri  Deschamps  01700 Miribel",
@@ -1835,6 +1855,7 @@ export const merchant = {
             "cddb0b52-c5a4-4ea0-9",
             "c3e8ef3b-32dd-4803-9",
         ],
+        zipcode: "01 Ain",
     },
     "Savonnerie le Prieuré de Saint-Georges": {
         Address: " Savonnerie le Prieuré de Saint-Georges 1 Hameau de Saint-Georges  39270 Présilly",
@@ -1904,6 +1925,7 @@ export const merchant = {
             "fd169ea4-587f-45a8-a",
             "8b272777-8d25-4c4f-a",
         ],
+        zipcode: "39 Jura",
     },
     "Les Picoulettes": {
         Address: " Les Picoulettes Les faux moulins  71250 Blanot",
@@ -1972,6 +1994,7 @@ export const merchant = {
             "6956b41f-dca7-491f-9",
             "06a50824-d55c-4f03-9",
         ],
+        zipcode: "71 Saône-et-Loire",
     },
     "La Ferme Des Cabrotins": {
         Address: " La Ferme Des Cabrotins 129 chemin de la fontaine  39270 Arthenas",
@@ -2029,6 +2052,7 @@ export const merchant = {
             "d3528ce1-ba92-401a-b",
             "e96f08ed-0ba7-4150-9",
         ],
+        zipcode: "39 Jura",
     },
     "Les Jardins de Grusse": {
         Address: " Les Jardins de Grusse 5 En Séchon  39190 Grusse",
@@ -2113,6 +2137,7 @@ export const merchant = {
             "2c74ba62-616c-4428-8",
             "01e715e3-83b0-4b1e-a",
         ],
+        zipcode: "39 Jura",
     },
     "VIN WICKY GILLES": {
         Address: " VIN WICKY GILLES 13 rue principale  39190 Sainte-Agnès",
@@ -2186,6 +2211,7 @@ export const merchant = {
             "78b8d2d1-eb3e-4f1f-9",
             "01e715e3-83b0-4b1e-a",
         ],
+        zipcode: "39 Jura",
     },
     "Earl du rousset": {
         Address: " Earl du rousset Rousset  71520 Bourgvilain",
@@ -2245,6 +2271,7 @@ export const merchant = {
             "a7b60434-becf-4be4-8",
             "cc2d474b-f84f-43e1-b",
         ],
+        zipcode: "71 Saône-et-Loire",
     },
     "Les jardins de Boyer": {
         Address: " Les jardins de Boyer rue de limone  71700 Boyer",
@@ -2354,6 +2381,7 @@ export const merchant = {
             "1485aace-1cab-4d0f-8",
             "1e1da486-4433-4962-a",
         ],
+        zipcode: "71 Saône-et-Loire",
     },
     "Mon matelas-nature": {
         Address: " Mon matelas-nature 23 rue des Chênes Verts ZA les Serpollières,  38460 Saint-Romain-de-Jalionas",
@@ -2427,6 +2455,7 @@ export const merchant = {
             "9d889b4d-4e91-45ba-9",
             "fbdde269-2737-4949-b",
         ],
+        zipcode: "38 Isère",
     },
     Talichet: {
         Address: " Talichet 410 chemin du moulin Berthet  69480 Lucenay",
@@ -2547,6 +2576,7 @@ export const merchant = {
             "7b033df4-ddb8-4c37-8",
             "cbe4cc1d-6e55-4b90-9",
         ],
+        zipcode: "69 Rhône",
     },
     "La Crème de Jano": {
         Address: " La Crème de Jano 1 bis Allée de la combe 69380 LISSIEU  69380 Lissieu",
@@ -2614,6 +2644,7 @@ export const merchant = {
             "6e4f5183-64ca-4ac7-b",
             "c5ba7716-f287-4d5c-9",
         ],
+        zipcode: "69 Rhône",
     },
     "PRODUCTEUR MARTINANT PHILIPPE": {
         Address: " PRODUCTEUR MARTINANT PHILIPPE 190 ROUTE DE SAINT PIERRE  69480 Morancé",
@@ -2684,6 +2715,7 @@ export const merchant = {
             "41f3230c-b960-40a0-9",
             "d99fb42a-66f0-43b8-9",
         ],
+        zipcode: "69 Rhône",
     },
     "Les Saveurs de Saint-Ex": {
         Address: " Les Saveurs de Saint-Ex 136 rue de l'Aéropostale  69124 Colombier-Saugnieu",
@@ -2773,6 +2805,7 @@ export const merchant = {
             "e25e4e34-2441-4451-b",
             "78b8d2d1-eb3e-4f1f-9",
         ],
+        zipcode: "69 Rhône",
     },
     "Brasserie Pico-Nino": {
         Address: " Brasserie Pico-Nino 67 Route de Bellecombe  39570 Macornay",
@@ -2849,6 +2882,7 @@ export const merchant = {
             "9ca50974-e3f7-4d72-8",
             "7b25a8a8-cf6b-4d9e-a",
         ],
+        zipcode: "39 Jura",
     },
     "CHEZ FOUÉE'TARD": {
         Address: " CHEZ FOUÉE'TARD le crazot  71370 Baudrières",
@@ -2919,6 +2953,7 @@ export const merchant = {
             "0a2230c5-3ed7-4da1-8",
             "78b8d2d1-eb3e-4f1f-9",
         ],
+        zipcode: "71 Saône-et-Loire",
     },
     "GREDAM Brasserie Artisanale Bio de la Vallée D'Azergues": {
         Address:
@@ -2978,6 +3013,7 @@ export const merchant = {
             "a4adc1fd-b35f-4161-a",
             "4f568df1-b9f2-4643-9",
         ],
+        zipcode: "69 Rhône",
     },
     "L'Affoleuse": {
         Address: " L'Affoleuse Lieu-dit Vers Bœuf  69870 Saint-Cyr-le-Chatoux",
@@ -3049,6 +3085,7 @@ export const merchant = {
             "9455a6b4-7fa0-4bd6-a",
             "6fc014e9-33c1-4dff-a",
         ],
+        zipcode: "69 Rhône",
     },
     "Ferme d'en Fremier": {
         Address: " Ferme d'en Fremier Ferme d'en FremierChemin Saugette  39570 Revigny",
@@ -3122,6 +3159,7 @@ export const merchant = {
             "206e8e2f-5758-4f9c-a",
             "06a50824-d55c-4f03-9",
         ],
+        zipcode: "39 Jura",
     },
     Champibresse: {
         Address: " Champibresse 20 route principale  71460 Bresse-sur-Grosne",
@@ -3178,6 +3216,7 @@ export const merchant = {
             "2c74ba62-616c-4428-8",
             "ed416075-44d1-4b9c-a",
         ],
+        zipcode: "71 Saône-et-Loire",
     },
     "L'Etoile Verte": {
         Address: " L'Etoile Verte Chef Lieu  73310 Motz",
@@ -3252,6 +3291,7 @@ export const merchant = {
             "9d889b4d-4e91-45ba-9",
             "8a666f77-2d3e-43cc-8",
         ],
+        zipcode: "73 Savoie",
     },
     "Le Motz gourmand": {
         Address: " Le Motz gourmand 368 route des vignes  73310 Motz",
@@ -3343,6 +3383,7 @@ export const merchant = {
             "e25e4e34-2441-4451-b",
             "5087ddb9-7ea3-450d-b",
         ],
+        zipcode: "73 Savoie",
     },
     "Les Ruchers de Stephanie": {
         Address: " Les Ruchers de Stephanie 368 Route des vignes  73310 Motz",
@@ -3409,6 +3450,7 @@ export const merchant = {
             "8a10450c-83b4-4936-9",
             "c4342434-5448-4946-a",
         ],
+        zipcode: "73 Savoie",
     },
     "Re-Bon": {
         Address: " Re-Bon 150 rue Edouard Branly  39000 Lons-le-Saunier",
@@ -3496,6 +3538,7 @@ export const merchant = {
             "7c22e737-1de8-4697-9",
             "4f568df1-b9f2-4643-9",
         ],
+        zipcode: "39 Jura",
     },
     "Béatrice Bouffort": {
         Address: " Béatrice Bouffort 61 route du Chef Lieu  74520 Savigny",
@@ -3569,6 +3612,7 @@ export const merchant = {
             "152b105a-1c6e-41af-9",
             "c2c4c5fc-56b5-43f1-9",
         ],
+        zipcode: "74 Haute-Savoie",
     },
     "Ferme de la Chèvre d'Or": {
         Address: " Ferme de la Chèvre d'Or Les Augères  71220 Sivignon",
@@ -3638,6 +3682,7 @@ export const merchant = {
             "4238ed95-916f-477f-8",
             "036e22d6-1dc1-4597-9",
         ],
+        zipcode: "71 Saône-et-Loire",
     },
     "GUINET PRODUCTEUR": {
         Address: " GUINET PRODUCTEUR 3 route de Toussieu  69800 Saint-Priest",
@@ -3734,6 +3779,7 @@ export const merchant = {
             "7a8b7e37-626d-49c8-9",
             "1e1da486-4433-4962-a",
         ],
+        zipcode: "69 Rhône",
     },
     "Coeur Nature": {
         Address: " Coeur Nature 2021c route des hameaux  74270 Minzier",
@@ -3813,6 +3859,7 @@ export const merchant = {
             "7a8b7e37-626d-49c8-9",
             "3412c0c5-7171-4876-8",
         ],
+        zipcode: "74 Haute-Savoie",
     },
     "Distill'Rêve": {
         Address: " Distill'Rêve 251 chemin sur la tour  74270 Contamine-Sarzin",
@@ -3895,6 +3942,7 @@ export const merchant = {
             "a4adc1fd-b35f-4161-a",
             "05d79170-b4de-4329-a",
         ],
+        zipcode: "74 Haute-Savoie",
     },
     "La Ferme du Bois de Jehan": {
         Address: " La Ferme du Bois de Jehan 7, Le Bourg  71330 Bosjean",
@@ -4027,6 +4075,7 @@ export const merchant = {
             "43927f33-e82e-4cb5-b",
             "9d4d9e9c-b3f1-4fe4-9",
         ],
+        zipcode: "71 Saône-et-Loire",
     },
     "Ferme Triomphe": {
         Address: " Ferme Triomphe Impasse Triomphe  69620 Saint-Vérand",
@@ -4094,6 +4143,7 @@ export const merchant = {
             "2d73016a-c7a8-4266-9",
             "384a005f-f399-48c7-a",
         ],
+        zipcode: "69 Rhône",
     },
     "Les Trésors d'Abeilles Nathalie Masse": {
         Address: " Les Trésors d'Abeilles Nathalie Masse 461 route de Magny  74150 Moye",
@@ -4172,6 +4222,7 @@ export const merchant = {
             "dfce319d-1c0c-433b-8",
             "b9180f81-3ba1-4b3e-8",
         ],
+        zipcode: "74 Haute-Savoie",
     },
     "LE FOURNIL DES PAYSANS": {
         Address: " LE FOURNIL DES PAYSANS 120 Rue du Grand Pré  74330 Mésigny",
@@ -4236,6 +4287,7 @@ export const merchant = {
             "f589e365-ba31-4516-b",
             "5fefc504-b99b-4bd7-b",
         ],
+        zipcode: "74 Haute-Savoie",
     },
     "aude FILLON Aude-natura": {
         Address: " aude FILLONAude-natura 52 rue du Musée  71800 Châtenay",
@@ -4318,6 +4370,7 @@ export const merchant = {
             "fd169ea4-587f-45a8-a",
             "e2f4e147-af76-48dd-8",
         ],
+        zipcode: "71 Saône-et-Loire",
     },
     "Ferme des Landes": {
         Address: " Ferme des Landes Les Landes  71220 Saint-Martin-de-Salencey",
@@ -4370,6 +4423,7 @@ export const merchant = {
             "23da6431-ee11-4994-9",
             "fbf9e7ff-bed3-4d29-a",
         ],
+        zipcode: "71 Saône-et-Loire",
     },
     "Eau de Rose Créations": {
         Address: " Eau de Rose Créations 12 Allée Samuel Champlain  38090 Villefontaine",
@@ -4437,6 +4491,7 @@ export const merchant = {
             "3412c0c5-7171-4876-8",
             "05d79170-b4de-4329-a",
         ],
+        zipcode: "38 Isère",
     },
     "La ferme bio de la Grande Terre": {
         Address: " La ferme bio de la Grande Terre La grande terre  71460 Saint-Marcelin-de-Cray",
@@ -4516,6 +4571,7 @@ export const merchant = {
             "1ccec9f5-8466-44f6-9",
             "927cd85f-1417-4fb5-a",
         ],
+        zipcode: "71 Saône-et-Loire",
     },
     "Le Rucher du Popey": {
         Address: " Le Rucher du Popey 734 route de Solémy  69490 Saint-Romain-de-Popey",
@@ -4592,6 +4648,7 @@ export const merchant = {
             "c2c4c5fc-56b5-43f1-9",
             "b7691b68-ea95-4e2d-b",
         ],
+        zipcode: "69 Rhône",
     },
     "La ferme aquaponique du Pays de Gex": {
         Address: " La ferme aquaponique du Pays de Gex 120 Rue du Stade  01210 Versonnex",
@@ -4686,6 +4743,7 @@ export const merchant = {
             "a01c1f11-2d45-4b0f-9",
             "03858e30-7f99-4f75-8",
         ],
+        zipcode: "01 Ain",
     },
     "La ferme du bois Cavnil": {
         Address: " La ferme du bois Cavnil 720 route du chamolay  38630 Les Avenières",
@@ -4760,6 +4818,7 @@ export const merchant = {
             "fbdde269-2737-4949-b",
             "927cd85f-1417-4fb5-a",
         ],
+        zipcode: "38 Isère",
     },
     "Symphonie des Vergers": {
         Address: " Symphonie des Vergers 870 Route du Gravillon  69550 Cublize",
@@ -4831,6 +4890,7 @@ export const merchant = {
             "8a10450c-83b4-4936-9",
             "f1e7292a-ceea-4afc-9",
         ],
+        zipcode: "69 Rhône",
     },
     Otourdesplantes: {
         Address: " Otourdesplantes Ilay 7 route des Cascades  39150 La Chaux-du-Dombief",
@@ -4888,6 +4948,7 @@ export const merchant = {
             "4238ed95-916f-477f-8",
             "c5ba7716-f287-4d5c-9",
         ],
+        zipcode: "39 Jura",
     },
     "la pouletterie de Christine": {
         Address: " la pouletterie de Christine 23 chemin de balmont  69690 Bibost",
@@ -4975,6 +5036,7 @@ export const merchant = {
             "87b16858-c0c5-4666-a",
             "5e0f317c-dfc1-4eaa-9",
         ],
+        zipcode: "69 Rhône",
     },
     "Bouchet freres": {
         Address: " Bouchet freres Féchy  74350 Cruseilles",
@@ -5073,6 +5135,7 @@ export const merchant = {
             "9e1b0d98-e499-4e24-a",
             "1bb9f5e6-3d13-45b7-b",
         ],
+        zipcode: "74 Haute-Savoie",
     },
     "le miel de papi": {
         Address: " le miel de papi 222 chemin des moyettes le noiret 74350 cruseilles  74350 Cruseilles",
@@ -5126,6 +5189,7 @@ export const merchant = {
             "e7c5d865-faa1-41d1-9",
             "78b8d2d1-eb3e-4f1f-9",
         ],
+        zipcode: "74 Haute-Savoie",
     },
     "Bulle de m'Alice": {
         Address: " Bulle de m'Alice 8 rue Emiland Gauthey  71390 Bissey-sous-Cruchaud",
@@ -5207,6 +5271,7 @@ export const merchant = {
             "206e8e2f-5758-4f9c-a",
             "eca59891-d8d6-4352-8",
         ],
+        zipcode: "71 Saône-et-Loire",
     },
     "lardellier edouard": {
         Address: " lardellier edouard sottizon  69690 Courzieu",
@@ -5326,6 +5391,7 @@ export const merchant = {
             "264304ef-6607-4f4b-9",
             "9235d007-7289-43f1-8",
         ],
+        zipcode: "69 Rhône",
     },
     "La Ferme de la Roche": {
         Address: " La Ferme de la Roche La Roche  71390 Sassangy",
@@ -5387,6 +5453,7 @@ export const merchant = {
             "8f4accb7-efd2-4723-b",
             "3a39c336-0c27-4dd3-a",
         ],
+        zipcode: "71 Saône-et-Loire",
     },
     "LA FERME D ANTAN": {
         Address: " LA FERME D ANTAN RUE DE L'AUBERGE  42750 Maizilly",
@@ -5459,6 +5526,7 @@ export const merchant = {
             "c4342434-5448-4946-a",
             "1ac4392e-073b-4cbc-8",
         ],
+        zipcode: "42 Loire",
     },
     "Sébastien Varmer Bermond": {
         Address: " Sébastien Varmer Bermond 27 chemin des Césardes  74600 Seynod",
@@ -5535,6 +5603,7 @@ export const merchant = {
             "4298f4bc-ac2e-47f1-a",
             "8d7ee3fc-7f50-44f7-9",
         ],
+        zipcode: "74 Haute-Savoie",
     },
     "ChampiMonts du Lyonnais": {
         Address: " ChampiMonts du Lyonnais 404 chemin du Rozier  69770 Villechenève",
@@ -5599,6 +5668,7 @@ export const merchant = {
             "1e51241e-0704-42a8-a",
             "d0533766-d7de-4150-a",
         ],
+        zipcode: "69 Rhône",
     },
     "Les Plumes de Fontenailles": {
         Address: " Les Plumes de Fontenailles Fontenailles  71220 Martigny-le-Comte",
@@ -5674,6 +5744,7 @@ export const merchant = {
             "8d7ee3fc-7f50-44f7-9",
             "b9180f81-3ba1-4b3e-8",
         ],
+        zipcode: "71 Saône-et-Loire",
     },
     "Epicerie, deProduits de Savoie La 2cv Rouge": {
         Address: " Epicerie, de  Produits de Savoie La 2cv Rouge Chemin des Jobys  71220 Martigny-le-Comte",
@@ -5800,6 +5871,7 @@ export const merchant = {
             "58f2388c-539c-48f0-9",
             "f1e7292a-ceea-4afc-9",
         ],
+        zipcode: "71 Saône-et-Loire",
     },
     "Les Jardins du Salève": {
         Address: " Les Jardins du Salève 360 chemin de la Tour  74930 Arbusigny",
@@ -5872,6 +5944,7 @@ export const merchant = {
             "e570bdc6-4a38-45c1-a",
             "58f2388c-539c-48f0-9",
         ],
+        zipcode: "74 Haute-Savoie",
     },
     "FLEURS & MIEL": {
         Address: " FLEURS & MIEL 37 rue Cassiopée  74000 Annecy",
@@ -5943,6 +6016,7 @@ export const merchant = {
             "3098e3a6-5647-4515-a",
             "03858e30-7f99-4f75-8",
         ],
+        zipcode: "74 Haute-Savoie",
     },
     "Vert de terre 74": {
         Address: " Vert de terre 74 5 rue du onze novembre  74000 Annecy",
@@ -6052,6 +6126,7 @@ export const merchant = {
             "d99fb42a-66f0-43b8-9",
             "d0c32817-0265-401d-8",
         ],
+        zipcode: "74 Haute-Savoie",
     },
     "GAEC DU MEIX LANTIN": {
         Address: " GAEC DU MEIX LANTIN 4 rue du cimetiere  71590 Gergy",
@@ -6123,6 +6198,7 @@ export const merchant = {
             "b7691b68-ea95-4e2d-b",
             "7cf85155-6fe6-478f-8",
         ],
+        zipcode: "71 Saône-et-Loire",
     },
     "L'effet papillon": {
         Address: " L'effet papillon 6, chemin de la chapelle de Naz  74560 Monnetier-Mornex",
@@ -6261,6 +6337,7 @@ export const merchant = {
             "af34ed7d-4e63-4b0a-9",
             "bedd30a4-f294-40ea-b",
         ],
+        zipcode: "74 Haute-Savoie",
     },
     "Le Spirulinier Comtois": {
         Address: " Le Spirulinier Comtois 1 rue du 19 mars 1962  39230 Sergenaux",
@@ -6337,6 +6414,7 @@ export const merchant = {
             "a30edda6-3250-4771-b",
             "8b272777-8d25-4c4f-a",
         ],
+        zipcode: "39 Jura",
     },
     "Aux Légumes de Sornin": {
         Address: " Aux Légumes de Sornin 46 route du Vieux Bourg  42750 Saint-Denis-de-Cabanne",
@@ -6428,6 +6506,7 @@ export const merchant = {
             "78b8d2d1-eb3e-4f1f-9",
             "bde41646-af09-4815-9",
         ],
+        zipcode: "42 Loire",
     },
     "Roses de Montagny": {
         Address: " Roses de Montagny Roche  42840 Montagny",
@@ -6491,6 +6570,7 @@ export const merchant = {
             "149306aa-d693-4c27-8",
             "6fc014e9-33c1-4dff-a",
         ],
+        zipcode: "42 Loire",
     },
     "Christophe Delay": {
         Address: " Christophe Delay Les Combes  38780 Estrablin",
@@ -6585,6 +6665,7 @@ export const merchant = {
             "d99fb42a-66f0-43b8-9",
             "10e49dd4-0650-4fec-a",
         ],
+        zipcode: "38 Isère",
     },
     "Pascal Gay": {
         Address: " Pascal Gay Les Légers  73100 Montcel",
@@ -6656,6 +6737,7 @@ export const merchant = {
             "d2f7c482-c3c4-4026-9",
             "ed416075-44d1-4b9c-a",
         ],
+        zipcode: "73 Savoie",
     },
     "Le Pota'Djé": {
         Address: " Le Pota'Djé 30 chem de bournand  38730 Doissin",
@@ -6762,6 +6844,7 @@ export const merchant = {
             "ddad5d6c-fb1c-4a78-b",
             "d17f0be6-4007-4c18-9",
         ],
+        zipcode: "38 Isère",
     },
     Jumens: {
         Address: " Jumens 147 chemin des Gayères  38690 Biol",
@@ -6831,6 +6914,7 @@ export const merchant = {
             "23443798-59fb-44ed-9",
             "de3488bb-0d6a-4d20-a",
         ],
+        zipcode: "38 Isère",
     },
     "La Ferme Buissonnière": {
         Address: " La Ferme Buissonnière 10, chemin de Ruens  38690 Biol",
@@ -6911,6 +6995,7 @@ export const merchant = {
             "cfaec864-62b8-4438-a",
             "03858e30-7f99-4f75-8",
         ],
+        zipcode: "38 Isère",
     },
     "Le Jardin Du Coin": {
         Address: " Le Jardin Du Coin 11 RUE MARAT  71230 Saint-Vallier",
@@ -6943,7 +7028,6 @@ export const merchant = {
             "légumes",
             "mâche",
             "maï",
-            "",
             "navet",
             "oignon",
             "panais",
@@ -7032,6 +7116,7 @@ export const merchant = {
             "b13e083d-adf6-4063-a",
             "4907e1bc-054e-4c86-a",
         ],
+        zipcode: "71 Saône-et-Loire",
     },
     "Lady B Nature": {
         Address: " Lady B Nature 12 rue du stade  39120 Petit-Noir",
@@ -7105,6 +7190,7 @@ export const merchant = {
             "d3528ce1-ba92-401a-b",
             "7cf85155-6fe6-478f-8",
         ],
+        zipcode: "39 Jura",
     },
     "Marc Ollagnier": {
         Address: " Marc Ollagnier Thurigneux  69440 Saint-Maurice-sur-Dargoire",
@@ -7190,6 +7276,7 @@ export const merchant = {
             "a4adc1fd-b35f-4161-a",
             "be069719-9b53-443e-8",
         ],
+        zipcode: "69 Rhône",
     },
     "EARL VIANDE DES PRAIRIES": {
         Address: " EARL VIANDE DES PRAIRIES Treval  71110 Saint-Julien-de-Jonzy",
@@ -7265,6 +7352,7 @@ export const merchant = {
             "eca59891-d8d6-4352-8",
             "ddd66ace-de8b-40f2-9",
         ],
+        zipcode: "71 Saône-et-Loire",
     },
     "Gaec des sources": {
         Address: " Gaec des sources La mollerie  71340 Saint-Bonnet-de-Cray",
@@ -7323,6 +7411,7 @@ export const merchant = {
             "206e8e2f-5758-4f9c-a",
             "9c5f42f1-dee6-49f4-a",
         ],
+        zipcode: "71 Saône-et-Loire",
     },
     "Brasserie des Voirons": {
         Address: " Brasserie des Voirons 91 chemin du Château  74380 Lucinges",
@@ -7399,6 +7488,7 @@ export const merchant = {
             "1e1da486-4433-4962-a",
             "5e0f317c-dfc1-4eaa-9",
         ],
+        zipcode: "74 Haute-Savoie",
     },
     "Les Escargots d'Estelle": {
         Address: " Les Escargots d'Estelle Lieu-dit Ocle  71450 Blanzy",
@@ -7460,6 +7550,7 @@ export const merchant = {
             "7b38ec3f-2e07-4a55-b",
             "bde41646-af09-4815-9",
         ],
+        zipcode: "71 Saône-et-Loire",
     },
     "Le rucher du Djé": {
         Address: " Le rucher du Djé la tuilerie  39800 Aumont",
@@ -7538,6 +7629,7 @@ export const merchant = {
             "1fba8491-fc45-43bf-9",
             "d2f7c482-c3c4-4026-9",
         ],
+        zipcode: "39 Jura",
     },
     "La Ferme de Fati": {
         Address: " La Ferme de Fati 1655 route du Liers  38260 Nantoin",
@@ -7605,6 +7697,7 @@ export const merchant = {
             "32b37740-c957-4d1d-a",
             "05d79170-b4de-4329-a",
         ],
+        zipcode: "38 Isère",
     },
     "La Charrette Bleue": {
         Address: " La Charrette Bleue 6 chemin du Château  39120 Le Deschaux",
@@ -7686,6 +7779,7 @@ export const merchant = {
             "43cd54a5-1a3c-4b7d-b",
             "a5f2f735-53f4-47ae-9",
         ],
+        zipcode: "39 Jura",
     },
     "Charcuterie d'antan": {
         Address: " Charcuterie d'antan Les Ignareux  69590 Larajasse",
@@ -7752,6 +7846,7 @@ export const merchant = {
             "2b280495-7ad1-4102-8",
             "b5d4a6a6-7131-40e8-8",
         ],
+        zipcode: "69 Rhône",
     },
     HortiBuis: {
         Address: " HortiBuis 486 chemin des Guillermets  38122 Cour-et-Buis",
@@ -7821,6 +7916,7 @@ export const merchant = {
             "ddd66ace-de8b-40f2-9",
             "ed416075-44d1-4b9c-a",
         ],
+        zipcode: "38 Isère",
     },
     "EIRL Le fruit de l'olivier grec": {
         Address: " EIRL Le fruit de l'olivier grec 1041 Route de la Noaille  42190 Saint-Pierre-la-Noaille",
@@ -7895,6 +7991,7 @@ export const merchant = {
             "1793c3d4-5912-43b2-9",
             "5fefc504-b99b-4bd7-b",
         ],
+        zipcode: "42 Loire",
     },
     "Ferme des Sablons": {
         Address: " Ferme des Sablons 4 rue du bas  21250 Bousselange",
@@ -7966,6 +8063,7 @@ export const merchant = {
             "1fac9ece-b8e6-4563-8",
             "1fba8491-fc45-43bf-9",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "Abeille étoile": {
         Address: " Abeille étoile 191Chemin d'Attignat Oncin 73520 St Béron  73520 Saint-Béron",
@@ -8041,6 +8139,7 @@ export const merchant = {
             "d17f0be6-4007-4c18-9",
             "a4adc1fd-b35f-4161-a",
         ],
+        zipcode: "73 Savoie",
     },
     "Stéphane Oteguy": {
         Address: " Stéphane Oteguy Chemin chez Maurice  38138 Les Côtes-d'Arey",
@@ -8120,6 +8219,7 @@ export const merchant = {
             "f727d4f9-0a05-4eb9-8",
             "5f0bc4c4-a1c4-48ff-a",
         ],
+        zipcode: "38 Isère",
     },
     "Laboratoire Daliane": {
         Address: " Laboratoire Daliane Chez Perai  74130 Faucigny",
@@ -8189,6 +8289,7 @@ export const merchant = {
             "a5f2f735-53f4-47ae-9",
             "cc098c88-7763-4ed9-a",
         ],
+        zipcode: "74 Haute-Savoie",
     },
     "Le petit horticulteur": {
         Address: " Le petit horticulteur 22b route de Beaune  21820 Labergement-lès-Seurre",
@@ -8295,6 +8396,7 @@ export const merchant = {
             "206e8e2f-5758-4f9c-a",
             "5087ddb9-7ea3-450d-b",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "Le Verger des Familles": {
         Address: " Le Verger des Familles 59 rue Chauchien  21590 Santenay",
@@ -8364,6 +8466,7 @@ export const merchant = {
             "1fba8491-fc45-43bf-9",
             "5067d163-3fa2-406e-b",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "Ferme de la Berthe": {
         Address: " Ferme de la Berthe La Berthe  73360 Saint-Franc",
@@ -8473,6 +8576,7 @@ export const merchant = {
             "3a39c336-0c27-4dd3-a",
             "6956b41f-dca7-491f-9",
         ],
+        zipcode: "73 Savoie",
     },
     "Petite Nature": {
         Address: " Petite Nature 695 chemin de Charrière Neuve  73000 Chambéry",
@@ -8497,7 +8601,6 @@ export const merchant = {
             "haricot vert",
             "mâche",
             "maï",
-            "",
             "navet",
             "oignon",
             "panais",
@@ -8564,6 +8667,7 @@ export const merchant = {
             "03858e30-7f99-4f75-8",
             "4f568df1-b9f2-4643-9",
         ],
+        zipcode: "73 Savoie",
     },
     "L'atelier de Claire et Gabriel": {
         Address: " L'atelier de Claire et Gabriel 896 route de la Labiaz 73000 CHAMBERY  73000 Chambéry",
@@ -8650,6 +8754,7 @@ export const merchant = {
             "206e8e2f-5758-4f9c-a",
             "05d79170-b4de-4329-a",
         ],
+        zipcode: "73 Savoie",
     },
     "Maison Belmaraicher": {
         Address: " Maison Belmaraicher 426 chemin de la foret  74140 Sciez",
@@ -8790,6 +8895,7 @@ export const merchant = {
             "2a1f2d10-d125-4411-9",
             "206e8e2f-5758-4f9c-a",
         ],
+        zipcode: "74 Haute-Savoie",
     },
     "Le Fournil du Chêne vert": {
         Address: " Le Fournil du Chêne vert 470 route de chez le Cadet  74420 Saint-André-de-Boëge",
@@ -8874,6 +8980,7 @@ export const merchant = {
             "bde41646-af09-4815-9",
             "bb38c461-eb40-441d-8",
         ],
+        zipcode: "74 Haute-Savoie",
     },
     "La Brasserie la Fardoloise": {
         Address: " La Brasserie la Fardoloise 3 Avenue du 8 mai 1945  42140 Chazelles-sur-Lyon",
@@ -8949,6 +9056,7 @@ export const merchant = {
             "7b712be5-0033-4339-a",
             "bae17232-9736-427a-b",
         ],
+        zipcode: "42 Loire",
     },
     "Ferme de la Source": {
         Address: " Ferme de la Source Le Chapitre  71300 Saint-Berain-sous-Sanvignes",
@@ -9030,6 +9138,7 @@ export const merchant = {
             "f3b4d95b-1a0f-483f-b",
             "4f568df1-b9f2-4643-9",
         ],
+        zipcode: "71 Saône-et-Loire",
     },
     "La Ferme de la Source": {
         Address: " La Ferme de la Source 163 Rue de la Menoge  74420 Boëge",
@@ -9161,6 +9270,7 @@ export const merchant = {
             "f9212d19-7bf1-4198-a",
             "bae17232-9736-427a-b",
         ],
+        zipcode: "74 Haute-Savoie",
     },
     "Les ruchers d'Amélie": {
         Address: " Les ruchers d'Amélie 234 chemin de chez Pallud  74250 Viuz-en-Sallaz",
@@ -9234,6 +9344,7 @@ export const merchant = {
             "2b8be3bb-0821-4c45-b",
             "6e4f5183-64ca-4ac7-b",
         ],
+        zipcode: "74 Haute-Savoie",
     },
     "gaec mathieu-chevalier@orange.fr": {
         Address: " gaec mathieu-chevalier@orange.fr les charmes  71430 Saint-Vincent-Bragny",
@@ -9297,6 +9408,7 @@ export const merchant = {
             "f3b4d95b-1a0f-483f-b",
             "8b272777-8d25-4c4f-a",
         ],
+        zipcode: "71 Saône-et-Loire",
     },
     "EARL DES RIAUX": {
         Address: " EARL DES RIAUX les riaux  71710 Charmoy",
@@ -9386,6 +9498,7 @@ export const merchant = {
             "8d7ee3fc-7f50-44f7-9",
             "8b272777-8d25-4c4f-a",
         ],
+        zipcode: "71 Saône-et-Loire",
     },
     "La Grande Buissonière": {
         Address: " La Grande Buissonière 219 route de BeaurepaireGrande Neuve  38270 Pisieu",
@@ -9466,6 +9579,7 @@ export const merchant = {
             "3f3c2b8a-5c42-4618-8",
             "bb38c461-eb40-441d-8",
         ],
+        zipcode: "38 Isère",
     },
     "élevage de la plaine": {
         Address: " élevage de la plaine 9 rue auguste couvreur  39410 Saint-Aubin",
@@ -9539,6 +9653,7 @@ export const merchant = {
             "e570bdc6-4a38-45c1-a",
             "8b272777-8d25-4c4f-a",
         ],
+        zipcode: "39 Jura",
     },
     "Jean Javillier & Fils": {
         Address: " Jean Javillier & Fils 6 rue Charles Giraud  21190 Meursault",
@@ -9608,6 +9723,7 @@ export const merchant = {
             "384a005f-f399-48c7-a",
             "859f8042-833e-4975-b",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "Domaine Polette": {
         Address: " Domaine Polette 16 route Saint Jean de Losne  21250 Pagny-le-Château",
@@ -9682,6 +9798,7 @@ export const merchant = {
             "b5d4a6a6-7131-40e8-8",
             "10e49dd4-0650-4fec-a",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "Gaec de la Ferme de Tontenant": {
         Address: " Gaec de la Ferme de Tontenant Ferme de Tontenant  21250 Pagny-le-Château",
@@ -9759,6 +9876,7 @@ export const merchant = {
             "a4adc1fd-b35f-4161-a",
             "be069719-9b53-443e-8",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "Spiruline des Fontaines SASU": {
         Address: " Spiruline des Fontaines SASU Chemin de Solosary  38150 La Chapelle-de-Surieu",
@@ -9840,6 +9958,7 @@ export const merchant = {
             "ddad5d6c-fb1c-4a78-b",
             "ddd66ace-de8b-40f2-9",
         ],
+        zipcode: "38 Isère",
     },
     "Domaine Eric De Suremain": {
         Address: " Domaine Eric De Suremain Château de Monthelie  21190 Monthelie",
@@ -9924,6 +10043,7 @@ export const merchant = {
             "c4342434-5448-4946-a",
             "5e0f317c-dfc1-4eaa-9",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "La ferme du Grand Pas": {
         Address: " La ferme du Grand Pas Route de montmarlon  39110 Lemuy",
@@ -9999,6 +10119,7 @@ export const merchant = {
             "94da843f-6b8f-491d-a",
             "bae17232-9736-427a-b",
         ],
+        zipcode: "39 Jura",
     },
     "Confidences d'Abeilles": {
         Address: " Confidences d'Abeilles 319 chemin des plantées  74210 Faverges",
@@ -10062,6 +10183,7 @@ export const merchant = {
             "cd15077f-c259-43f9-8",
             "1ccec9f5-8466-44f6-9",
         ],
+        zipcode: "74 Haute-Savoie",
     },
     "La Ferme Fruitière": {
         Address: " La Ferme Fruitière Rue du Bernon  21250 Broin",
@@ -10135,6 +10257,7 @@ export const merchant = {
             "f1e7292a-ceea-4afc-9",
             "32b37740-c957-4d1d-a",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "Les Jardins du Coteau": {
         Address: " Les Jardins du Coteau 39 chemin de Trefond  38500 Saint-Cassien",
@@ -10260,6 +10383,7 @@ export const merchant = {
             "eca59891-d8d6-4352-8",
             "9235d007-7289-43f1-8",
         ],
+        zipcode: "38 Isère",
     },
     "La Tacoulienne": {
         Address: " La Tacoulienne 10, le trièvoz  38140 Charnècles",
@@ -10328,6 +10452,7 @@ export const merchant = {
             "9eaf1bfe-bf4d-4b89-9",
             "3eac1d4b-1355-417f-a",
         ],
+        zipcode: "38 Isère",
     },
     "Chaussures Lady": {
         Address: " Chaussures Lady 410 le grand chemin  38140 Charnècles",
@@ -10399,6 +10524,7 @@ export const merchant = {
             "d17f0be6-4007-4c18-9",
             "e90c828b-b2ab-4e21-8",
         ],
+        zipcode: "38 Isère",
     },
     "Les jardins du Crot monial": {
         Address: " Les jardins du Crot monial Le Crot Monial  71320 Saint-Eugène",
@@ -10473,6 +10599,7 @@ export const merchant = {
             "8a10450c-83b4-4936-9",
             "eca59891-d8d6-4352-8",
         ],
+        zipcode: "71 Saône-et-Loire",
     },
     "Ferme de la Chenevière": {
         Address: " Ferme de la Chenevière La Chassagne  21340 Aubigny-la-Ronce",
@@ -10546,6 +10673,7 @@ export const merchant = {
             "5f0bc4c4-a1c4-48ff-a",
             "859f8042-833e-4975-b",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "Ferme de Neuvelle": {
         Address: " Ferme de Neuvelle Rue des Rossignols  21550 Ladoix-Serrigny",
@@ -10660,6 +10788,7 @@ export const merchant = {
             "bc115352-fc0c-4010-8",
             "859f8042-833e-4975-b",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "Le Jardin de Chazey": {
         Address: " Le Jardin de Chazey 4 Allée de Chazey  71130 Gueugnon",
@@ -10756,6 +10885,7 @@ export const merchant = {
             "87204ba0-b4d8-48bf-b",
             "7b712be5-0033-4339-a",
         ],
+        zipcode: "71 Saône-et-Loire",
     },
     Happyjuraculteur: {
         Address: " Happyjuraculteur 8 impasse bellevue  39600 Port-Lesney",
@@ -10835,6 +10965,7 @@ export const merchant = {
             "2c74ba62-616c-4428-8",
             "bb38c461-eb40-441d-8",
         ],
+        zipcode: "39 Jura",
     },
     "Ax'Honey": {
         Address: " Ax'Honey 1 chemin de Ham  02480 Bray-Saint-Christophe",
@@ -10915,6 +11046,7 @@ export const merchant = {
             "6c3a21f0-d155-487e-8",
             "cc2d474b-f84f-43e1-b",
         ],
+        zipcode: "02 Aisne",
     },
     "La Poirendeux": {
         Address: " La Poirendeux 82 avenue Jean Moulin  02700 Tergnier",
@@ -11064,6 +11196,7 @@ export const merchant = {
             "e12bc812-b9a7-4053-8",
             "7cf85155-6fe6-478f-8",
         ],
+        zipcode: "02 Aisne",
     },
     "Ferme de la Maison Rouge": {
         Address: " Ferme de la Maison Rouge Hameau de la Maison Rouge  02120 Lesquielles-Saint-Germain",
@@ -11145,6 +11278,7 @@ export const merchant = {
             "8d7ee3fc-7f50-44f7-9",
             "8b272777-8d25-4c4f-a",
         ],
+        zipcode: "02 Aisne",
     },
     "La Graineterie d'HANNAPES": {
         Address: " La Graineterie d'HANNAPES 27 RUE DU 8 MAI 1945  02510 Hannapes",
@@ -11220,6 +11354,7 @@ export const merchant = {
             "3ad4d76a-7fcd-4058-9",
             "65e22731-e95e-42dc-8",
         ],
+        zipcode: "02 Aisne",
     },
     "A la Carrière du Bienheureux": {
         Address: " A la Carrière du Bienheureux 28 Rue Georges Clemenceau, 02410 Saint-Gobain  02410 Saint-Gobain",
@@ -11292,6 +11427,7 @@ export const merchant = {
             "8826eddc-64fd-4fff-9",
             "1e1da486-4433-4962-a",
         ],
+        zipcode: "02 Aisne",
     },
     "L'Arbre à pain - boulangerie, biscuiterie biologique et naturelle": {
         Address:
@@ -11364,6 +11500,7 @@ export const merchant = {
             "703da75a-8e6a-4ea2-a",
             "1ac4392e-073b-4cbc-8",
         ],
+        zipcode: "02 Aisne",
     },
     "Le Rucher de Leaya": {
         Address: " Le Rucher de Leaya 48 Bis Grand Rue  59400 Séranvillers-Forenville",
@@ -11450,6 +11587,7 @@ export const merchant = {
             "10e49dd4-0650-4fec-a",
             "de3488bb-0d6a-4d20-a",
         ],
+        zipcode: "59 Nord",
     },
     "La Ferme de la Pâturelle": {
         Address: " La Ferme de la Pâturelle 1 ET 51, rue Henri Berthe  02300 Quierzy",
@@ -11513,6 +11651,7 @@ export const merchant = {
             "a01c1f11-2d45-4b0f-9",
             "1ac4392e-073b-4cbc-8",
         ],
+        zipcode: "02 Aisne",
     },
     "Le rucher des Bambins": {
         Address: " Le rucher des Bambins 47 Rue Jean Baptiste LEBAS  59214 Quiévy",
@@ -11587,6 +11726,7 @@ export const merchant = {
             "5f0bc4c4-a1c4-48ff-a",
             "8d7ee3fc-7f50-44f7-9",
         ],
+        zipcode: "59 Nord",
     },
     "Chèvrerie Myrtille & Compagnie": {
         Address: " Chèvrerie Myrtille & Compagnie Lieu dit Falloise  02290 Nouvron-Vingré",
@@ -11659,6 +11799,7 @@ export const merchant = {
             "6127346f-6ba0-4f74-b",
             "3f3c2b8a-5c42-4618-8",
         ],
+        zipcode: "02 Aisne",
     },
     "Plaine de Vie": {
         Address: " Plaine de Vie 4 rue de Marcelcave  80170 Bayonvillers",
@@ -11733,6 +11874,7 @@ export const merchant = {
             "549c6436-a053-4fc2-8",
             "e12bc812-b9a7-4053-8",
         ],
+        zipcode: "80 Somme",
     },
     "Les Volailles Fermières de Montaigu": {
         Address: " Les Volailles Fermières de Montaigu 21 rue de Laon  02820 Montaigu",
@@ -11801,6 +11943,7 @@ export const merchant = {
             "9455a6b4-7fa0-4bd6-a",
             "03858e30-7f99-4f75-8",
         ],
+        zipcode: "02 Aisne",
     },
     "EARL CAUFFET DEGAUCHY": {
         Address: " EARL CAUFFET DEGAUCHY 2 GRANDE RUE  60350 Hautefontaine",
@@ -11930,6 +12073,7 @@ export const merchant = {
             "8826eddc-64fd-4fff-9",
             "6c3a21f0-d155-487e-8",
         ],
+        zipcode: "60 Oise",
     },
     "La ferme de Brice": {
         Address: " La ferme de Brice 8 rue du Carrier  02200 Acy",
@@ -12026,6 +12170,7 @@ export const merchant = {
             "cc2d474b-f84f-43e1-b",
             "cfaec864-62b8-4438-a",
         ],
+        zipcode: "02 Aisne",
     },
     "le safran de limé": {
         Address: " le safran de limé 385, rue d'applincourt  02220 Limé",
@@ -12096,6 +12241,7 @@ export const merchant = {
             "2c74ba62-616c-4428-8",
             "bedd30a4-f294-40ea-b",
         ],
+        zipcode: "02 Aisne",
     },
     "Pépinière pour Jardins-Forêts": {
         Address: " Pépinière pour Jardins-Forêts Chemin blanc  62111 Pommier",
@@ -12166,6 +12312,7 @@ export const merchant = {
             "e90c828b-b2ab-4e21-8",
             "ddd66ace-de8b-40f2-9",
         ],
+        zipcode: "62 Pas-de-Calais",
     },
     "Le Verger Biologique d'Ohain": {
         Address: " Le Verger Biologique d'Ohain 15 rue du Gros Tilleul  59132 Ohain",
@@ -12244,6 +12391,7 @@ export const merchant = {
             "de3488bb-0d6a-4d20-a",
             "c5ba7716-f287-4d5c-9",
         ],
+        zipcode: "59 Nord",
     },
     "Cidrerie du pays des Coudriers": {
         Address: " Cidrerie du pays des Coudriers 1 rue des Chaudronniers  80260 Saint-Gratien",
@@ -12314,6 +12462,7 @@ export const merchant = {
             "cc098c88-7763-4ed9-a",
             "8d7ee3fc-7f50-44f7-9",
         ],
+        zipcode: "80 Somme",
     },
     "La cahute fermière": {
         Address: " La cahute fermière 1 avenue régis pollet ZAC des Hauts de France 629790  62970 Courcelles-lès-Lens",
@@ -12460,6 +12609,7 @@ export const merchant = {
             "af34ed7d-4e63-4b0a-9",
             "ed416075-44d1-4b9c-a",
         ],
+        zipcode: "62 Pas-de-Calais",
     },
     "Tania Distribution": {
         Address: " Tania Distribution 36 avenue de Compiègne  02600 Villers-Cotterêts  02600 Villers-Cotterêts",
@@ -12515,6 +12665,7 @@ export const merchant = {
             "a7b60434-becf-4be4-8",
             "e96f08ed-0ba7-4150-9",
         ],
+        zipcode: "02 Aisne",
     },
     "GAEC Les paniculteurs": {
         Address: " GAEC Les paniculteurs 5 impasse du hameauVal de Maison  80260 Talmas",
@@ -12592,6 +12743,7 @@ export const merchant = {
             "65e22731-e95e-42dc-8",
             "b5d4a6a6-7131-40e8-8",
         ],
+        zipcode: "80 Somme",
     },
     "Cadeau Vin": {
         Address: " Cadeau Vin - 114 rue Jules Barni  80000 Amiens",
@@ -12671,6 +12823,7 @@ export const merchant = {
             "f3b4d95b-1a0f-483f-b",
             "3f3c2b8a-5c42-4618-8",
         ],
+        zipcode: "80 Somme",
     },
     "Au Bon Jardinet D'Audrey": {
         Address: " Au Bon Jardinet D'Audrey 101 rue Francois Dujardin  02470 Neuilly-Saint-Front",
@@ -12786,6 +12939,7 @@ export const merchant = {
             "a7b60434-becf-4be4-8",
             "149306aa-d693-4c27-8",
         ],
+        zipcode: "02 Aisne",
     },
     "Les potagers de la folie": {
         Address: " Les potagers de la folie 02130  02130 Villers-sur-Fère",
@@ -12808,7 +12962,6 @@ export const merchant = {
             "panais",
             "oignon",
             "navet",
-            "",
             "mâche",
             "légumes",
             "haricot vert",
@@ -12895,6 +13048,7 @@ export const merchant = {
             "2a7ed06e-4f7d-44d0-b",
             "ddd66ace-de8b-40f2-9",
         ],
+        zipcode: "02 Aisne",
     },
     "Eliane Nollet": {
         Address: " Eliane Nollet 60 Grande Rue  80470 Argœuves",
@@ -12983,6 +13137,7 @@ export const merchant = {
             "a4adc1fd-b35f-4161-a",
             "bde41646-af09-4815-9",
         ],
+        zipcode: "80 Somme",
     },
     "Le Tilleux": {
         Address: " Le Tilleux 37 rue des Hayes  60480 Thieux",
@@ -13071,6 +13226,7 @@ export const merchant = {
             "d68538be-0255-4a22-b",
             "8475e20f-195a-44b5-a",
         ],
+        zipcode: "60 Oise",
     },
     "faiseux de pains picards": {
         Address: " faiseux de pains picards 29c rt de conty  80160 Bosquel",
@@ -13152,6 +13308,7 @@ export const merchant = {
             "6339e04e-86f1-492c-a",
             "2c74ba62-616c-4428-8",
         ],
+        zipcode: "80 Somme",
     },
     "la micro brasserie des hauts de france": {
         Address: " la micro brasserie des hauts de france Rue de la gare  60840 Nointel",
@@ -13231,6 +13388,7 @@ export const merchant = {
             "a4adc1fd-b35f-4161-a",
             "10e49dd4-0650-4fec-a",
         ],
+        zipcode: "60 Oise",
     },
     "François Jadot": {
         Address: " François Jadot 71 ruelle de l'Eglise  08300 Écly",
@@ -13302,6 +13460,7 @@ export const merchant = {
             "e25e4e34-2441-4451-b",
             "1793c3d4-5912-43b2-9",
         ],
+        zipcode: "08 Ardennes",
     },
     "Romuald Botte": {
         Address: " Romuald Botte 22 rue Roger Salengro  59496 Hantay",
@@ -13385,6 +13544,7 @@ export const merchant = {
             "bde41646-af09-4815-9",
             "cfaec864-62b8-4438-a",
         ],
+        zipcode: "59 Nord",
     },
     "galland william": {
         Address: " galland william 5 grande rue  80310 Fourdrinoy",
@@ -13480,6 +13640,7 @@ export const merchant = {
             "7961c730-e82f-43b6-9",
             "206e8e2f-5758-4f9c-a",
         ],
+        zipcode: "80 Somme",
     },
     "EARL de Breteuil": {
         Address: " EARL de Breteuil 2 Rue Bailla  08300 Le Châtelet-sur-Retourne",
@@ -13564,6 +13725,7 @@ export const merchant = {
             "7a8b7e37-626d-49c8-9",
             "d2f7c482-c3c4-4026-9",
         ],
+        zipcode: "08 Ardennes",
     },
     "Ferme de la Croix Saint Claude": {
         Address: " Ferme de la Croix Saint Claude 19 de la rue de Jemmapes, 59800 Lille  59000 Lille",
@@ -13671,6 +13833,7 @@ export const merchant = {
             "a30edda6-3250-4771-b",
             "06a50824-d55c-4f03-9",
         ],
+        zipcode: "59 Nord",
     },
     "MAISON BONNES HERBES": {
         Address: " MAISON BONNES HERBES 13 RUE DU PRESSOIR  60360 Le Gallet",
@@ -13740,6 +13903,7 @@ export const merchant = {
             "1e1da486-4433-4962-a",
             "b9180f81-3ba1-4b3e-8",
         ],
+        zipcode: "60 Oise",
     },
     "Ardinat Faust": {
         Address: " Ardinat Faust 18 rue Bailly  51700 Vandières",
@@ -13807,6 +13971,7 @@ export const merchant = {
             "1e1da486-4433-4962-a",
             "cc2d474b-f84f-43e1-b",
         ],
+        zipcode: "51 Marne",
     },
     "pierre olivier plants": {
         Address: " pierre olivier plants 69 rue des glaieuls  62400 Béthune",
@@ -13836,7 +14001,6 @@ export const merchant = {
             "haricot vert",
             "légumes",
             "mâche",
-            "",
             "navet",
             "oignon",
             "patisson",
@@ -13916,6 +14080,7 @@ export const merchant = {
             "5fefc504-b99b-4bd7-b",
             "ed416075-44d1-4b9c-a",
         ],
+        zipcode: "62 Pas-de-Calais",
     },
     "LE RUCHER DES HAUTS DE FRANCE": {
         Address: " LE RUCHER DES HAUTS DE FRANCE 39 Rue des MARTYRS 62232 ANNEZIN  62232 Annezin",
@@ -13987,6 +14152,7 @@ export const merchant = {
             "f3b4d95b-1a0f-483f-b",
             "206e8e2f-5758-4f9c-a",
         ],
+        zipcode: "62 Pas-de-Calais",
     },
     "Ferme Cimetiere": {
         Address: " Ferme Cimetiere 35 rue des Champs  59390 Toufflers",
@@ -14127,6 +14293,7 @@ export const merchant = {
             "bde41646-af09-4815-9",
             "e12bc812-b9a7-4053-8",
         ],
+        zipcode: "59 Nord",
     },
     "Talents de ferme": {
         Address: " Talents de ferme Avenue de l'Abbé Pierre  59118 Wambrechies",
@@ -14254,6 +14421,7 @@ export const merchant = {
             "582fdf5d-cad8-402a-a",
             "9c559e1b-e467-4f03-8",
         ],
+        zipcode: "59 Nord",
     },
     "Exploitation Jolibois (micro ferme)": {
         Address: " Exploitation Jolibois (micro ferme) Route départementale 901  80270 Warlus",
@@ -14323,6 +14491,7 @@ export const merchant = {
             "3f4ff324-e4cc-42c3-9",
             "3b3d794c-4b1b-4bfd-8",
         ],
+        zipcode: "80 Somme",
     },
     "Brasserie Exiguë": {
         Address: " Brasserie Exiguë 91 bis rue du général de Gaulle 59253 La Gorgue  59253 La Gorgue",
@@ -14388,6 +14557,7 @@ export const merchant = {
             "cedc970e-02b6-4c03-9",
             "3b3d794c-4b1b-4bfd-8",
         ],
+        zipcode: "59 Nord",
     },
     "La Ferme du Val de Poix": {
         Address: " La Ferme du Val de Poix 1 rue des Meigneux  80290 Sainte-Segrée",
@@ -14458,6 +14628,7 @@ export const merchant = {
             "036e22d6-1dc1-4597-9",
             "ed416075-44d1-4b9c-a",
         ],
+        zipcode: "80 Somme",
     },
     "Les Savons de Catherine": {
         Address: " Les Savons de Catherine 2 chemin de lonzais  03170 Bizeneuille",
@@ -14542,6 +14713,7 @@ export const merchant = {
             "a28cf12a-9df3-4450-b",
             "e25e4e34-2441-4451-b",
         ],
+        zipcode: "03 Allier",
     },
     Koopmann: {
         Address: " Koopmann Crevant  03190 Louroux-Hodement",
@@ -14618,6 +14790,7 @@ export const merchant = {
             "ec20d22a-f711-4320-9",
             "a30edda6-3250-4771-b",
         ],
+        zipcode: "03 Allier",
     },
     "ASINERIE DE LA VIOUNE": {
         Address: " ASINERIE DE LA VIOUNE la vilaine  03600 Hyds",
@@ -14698,6 +14871,7 @@ export const merchant = {
             "05d79170-b4de-4329-a",
             "c5ba7716-f287-4d5c-9",
         ],
+        zipcode: "03 Allier",
     },
     "Bertrand Paties": {
         Address: " Bertrand Paties Les Denis  03390 Beaune-d'Allier",
@@ -14756,6 +14930,7 @@ export const merchant = {
             "7961c730-e82f-43b6-9",
             "de3488bb-0d6a-4d20-a",
         ],
+        zipcode: "03 Allier",
     },
     "Spiruline des Volcans": {
         Address: " Spiruline des Volcans Villargeat  63700 Lapeyrouse",
@@ -14829,6 +15004,7 @@ export const merchant = {
             "8826eddc-64fd-4fff-9",
             "b9180f81-3ba1-4b3e-8",
         ],
+        zipcode: "63 Puy-de-Dôme",
     },
     "Poulets bio LEMONNIER": {
         Address: " Poulets bio LEMONNIER Lapeyrouse  63700 Lapeyrouse",
@@ -14905,6 +15081,7 @@ export const merchant = {
             "e96f08ed-0ba7-4150-9",
             "ddd66ace-de8b-40f2-9",
         ],
+        zipcode: "63 Puy-de-Dôme",
     },
     "Le Chant des Pierres": {
         Address: " Le Chant des Pierres Les Bourses  03350 Theneuille",
@@ -14980,6 +15157,7 @@ export const merchant = {
             "4907e1bc-054e-4c86-a",
             "b9180f81-3ba1-4b3e-8",
         ],
+        zipcode: "03 Allier",
     },
     "E.A.R.L. de Gourneix": {
         Address: " E.A.R.L. de Gourneix 1 Gourneix  23130 Saint-Loup",
@@ -15051,6 +15229,7 @@ export const merchant = {
             "7a8b7e37-626d-49c8-9",
             "1485aace-1cab-4d0f-8",
         ],
+        zipcode: "23 Creuse",
     },
     "GAEC DE LA LICORNE": {
         Address: " GAEC DE LA LICORNE La Grange à Jean, Péraclos 03450 CHOUVIGNY  03450 Chouvigny",
@@ -15124,6 +15303,7 @@ export const merchant = {
             "7b38ec3f-2e07-4a55-b",
             "e095d8c7-5da9-4945-8",
         ],
+        zipcode: "03 Allier",
     },
     "L'ilot nature": {
         Address: " L'ilot nature Les avertis  03330 Bellenaves",
@@ -15192,6 +15372,7 @@ export const merchant = {
             "5d760ab3-7fd5-4645-8",
             "be069719-9b53-443e-8",
         ],
+        zipcode: "03 Allier",
     },
     "au levain serein": {
         Address: " au levain serein Le bourg  23700 Dontreix",
@@ -15266,6 +15447,7 @@ export const merchant = {
             "3f3c2b8a-5c42-4618-8",
             "5fefc504-b99b-4bd7-b",
         ],
+        zipcode: "23 Creuse",
     },
     "Ferme de la Berge": {
         Address: " Ferme de la Berge Grandvaux  03360 Ainay-le-Château",
@@ -15346,6 +15528,7 @@ export const merchant = {
             "bec4ed08-b2c6-4c82-a",
             "3b3d794c-4b1b-4bfd-8",
         ],
+        zipcode: "03 Allier",
     },
     "Abeilles du Berry": {
         Address: " Abeilles du Berry 3 rue du bourg d'en bas  36160 Sazeray",
@@ -15417,6 +15600,7 @@ export const merchant = {
             "206e8e2f-5758-4f9c-a",
             "32b37740-c957-4d1d-a",
         ],
+        zipcode: "36 Indre",
     },
     "Vannerie boyer": {
         Address: " Vannerie boyer boutillon  18210 Saint-Pierre-les-Étieux",
@@ -15494,6 +15678,7 @@ export const merchant = {
             "a85cb157-95a7-4724-8",
             "dacbc345-dff3-4de7-8",
         ],
+        zipcode: "18 Cher",
     },
     "Vinaigerie la Gabare": {
         Address: " Vinaigerie la Gabare Muravaux  23700 Chard",
@@ -15567,6 +15752,7 @@ export const merchant = {
             "0f88be4a-9867-4139-b",
             "85ec7f6f-e36c-4aee-b",
         ],
+        zipcode: "23 Creuse",
     },
     "Au jardin de Marie": {
         Address: " Au jardin de Marie 2 chemin de larat  03140 Chareil-Cintrat",
@@ -15675,6 +15861,7 @@ export const merchant = {
             "23443798-59fb-44ed-9",
             "f1e7292a-ceea-4afc-9",
         ],
+        zipcode: "03 Allier",
     },
     "Le Jardin du Gour": {
         Address: " Le Jardin du Gour Le Hameau des Sattes  63410 Charbonnières-les-Vieilles",
@@ -15753,6 +15940,7 @@ export const merchant = {
             "dc0022dd-d70a-4017-b",
             "715712f4-a4c1-47f7-9",
         ],
+        zipcode: "63 Puy-de-Dôme",
     },
     "Catherine & Vincent Segretain": {
         Address: " Catherine & Vincent Segretain Péry  63410 Charbonnières-les-Vieilles",
@@ -15827,6 +16015,7 @@ export const merchant = {
             "65e22731-e95e-42dc-8",
             "de3488bb-0d6a-4d20-a",
         ],
+        zipcode: "63 Puy-de-Dôme",
     },
     "LA FERME DES GRILLONS": {
         Address: " LA FERME DES GRILLONS Le grelet  03320 Lurcy-Lévis",
@@ -15905,6 +16094,7 @@ export const merchant = {
             "c2c4c5fc-56b5-43f1-9",
             "3a3c518e-01ec-43ff-b",
         ],
+        zipcode: "03 Allier",
     },
     "Jean-Paul Bouc": {
         Address: " Jean-Paul Bouc Chemin de la Vallée  03210 Saint-Menoux",
@@ -15975,6 +16165,7 @@ export const merchant = {
             "e095d8c7-5da9-4945-8",
             "f1e7292a-ceea-4afc-9",
         ],
+        zipcode: "03 Allier",
     },
     "Judith Sell": {
         Address: " Judith Sell Les Béguets  03210 Saint-Menoux",
@@ -16050,6 +16241,7 @@ export const merchant = {
             "1e1da486-4433-4962-a",
             "cc2d474b-f84f-43e1-b",
         ],
+        zipcode: "03 Allier",
     },
     "La Savonnerie Bourbonnaise": {
         Address: " La Savonnerie Bourbonnaise Le Vieux Cheval  03210 Agonges",
@@ -16101,6 +16293,7 @@ export const merchant = {
             "ddd66ace-de8b-40f2-9",
             "7cf85155-6fe6-478f-8",
         ],
+        zipcode: "03 Allier",
     },
     "Ludovic Labbe": {
         Address: " Ludovic Labbe Saint Rassand  03210 Agonges",
@@ -16166,6 +16359,7 @@ export const merchant = {
             "7961c730-e82f-43b6-9",
             "206e8e2f-5758-4f9c-a",
         ],
+        zipcode: "03 Allier",
     },
     "La ferme des cotes": {
         Address: " La ferme des cotes 11 route de l'église  23200 Saint-Médard-la-Rochette",
@@ -16238,6 +16432,7 @@ export const merchant = {
             "dd5f1478-35af-494a-8",
             "9c5f42f1-dee6-49f4-a",
         ],
+        zipcode: "23 Creuse",
     },
     "lady ale": {
         Address: " lady ale 24 faubourg de paris  03500 Saint-Pourçain-sur-Sioule",
@@ -16317,6 +16512,7 @@ export const merchant = {
             "cddb0b52-c5a4-4ea0-9",
             "01e715e3-83b0-4b1e-a",
         ],
+        zipcode: "03 Allier",
     },
     "Les Sabots d'Argile": {
         Address: " Les Sabots d'Argile La Ferme des Rondards  03210 Marigny",
@@ -16391,6 +16587,7 @@ export const merchant = {
             "d0533766-d7de-4150-a",
             "23443798-59fb-44ed-9",
         ],
+        zipcode: "03 Allier",
     },
     "SABIO D'ARGILE": {
         Address: " SABIO D'ARGILE Les Rondards  03210 Marigny",
@@ -16473,6 +16670,7 @@ export const merchant = {
             "f3b4d95b-1a0f-483f-b",
             "23443798-59fb-44ed-9",
         ],
+        zipcode: "03 Allier",
     },
     "Biquette Savon": {
         Address: " Biquette Savon Tralaigue  23260 Saint-Oradoux-près-Crocq",
@@ -16544,6 +16742,7 @@ export const merchant = {
             "b7691b68-ea95-4e2d-b",
             "d0c32817-0265-401d-8",
         ],
+        zipcode: "23 Creuse",
     },
     Milidiou: {
         Address: " Milidiou route de montpensier  63260 Aigueperse",
@@ -16624,6 +16823,7 @@ export const merchant = {
             "3eac1d4b-1355-417f-a",
             "c3e8ef3b-32dd-4803-9",
         ],
+        zipcode: "63 Puy-de-Dôme",
     },
     "Karine et la savonnerie de BRAY": {
         Address: " Karine et la savonnerie de BRAY Le bourg  18190 Venesmes",
@@ -16692,6 +16892,7 @@ export const merchant = {
             "af34ed7d-4e63-4b0a-9",
             "9e1b0d98-e499-4e24-a",
         ],
+        zipcode: "18 Cher",
     },
     "Evelyne Plique": {
         Address: " Evelyne Plique Le Grand Chenil  36230 Sarzay",
@@ -16776,6 +16977,7 @@ export const merchant = {
             "d99fb42a-66f0-43b8-9",
             "1ac4392e-073b-4cbc-8",
         ],
+        zipcode: "36 Indre",
     },
     "Le jardin des discrètes": {
         Address: " Le jardin des discrètes 18 la Salle  23500 Felletin",
@@ -16862,6 +17064,7 @@ export const merchant = {
             "927cd85f-1417-4fb5-a",
             "60f37375-dd24-4f11-8",
         ],
+        zipcode: "23 Creuse",
     },
     fieltroadictart: {
         Address: " fieltroadictart route saincoins 70  18350 Blet",
@@ -16922,6 +17125,7 @@ export const merchant = {
             "2180b696-e168-4bad-8",
             "f589e365-ba31-4516-b",
         ],
+        zipcode: "18 Cher",
     },
     "Imbert Florian": {
         Address: " Imbert Florian Pessat  63200 Pessat-Villeneuve",
@@ -16992,6 +17196,7 @@ export const merchant = {
             "bec4ed08-b2c6-4c82-a",
             "7b25a8a8-cf6b-4d9e-a",
         ],
+        zipcode: "63 Puy-de-Dôme",
     },
     "LA FERME DE PAULINE": {
         Address: " LA FERME DE PAULINE PENISSON  18600 Neuvy-le-Barrois",
@@ -17067,6 +17272,7 @@ export const merchant = {
             "be069719-9b53-443e-8",
             "e96f08ed-0ba7-4150-9",
         ],
+        zipcode: "18 Cher",
     },
     "Laboratoire des Sources": {
         Address: " Laboratoire des Sources 26 avenue Croix Saint-Martin  03200 Vichy",
@@ -17146,6 +17352,7 @@ export const merchant = {
             "152b105a-1c6e-41af-9",
             "06a50824-d55c-4f03-9",
         ],
+        zipcode: "03 Allier",
     },
     CONTRETEMPS: {
         Address: " CONTRETEMPS Piquat  63210 Saint-Pierre-Roche",
@@ -17217,6 +17424,7 @@ export const merchant = {
             "a4adc1fd-b35f-4161-a",
             "9c5f42f1-dee6-49f4-a",
         ],
+        zipcode: "63 Puy-de-Dôme",
     },
     "domaine des Vernins": {
         Address: " domaine des Vernins 1, Les Vernins  58390 Dornes",
@@ -17250,7 +17458,6 @@ export const merchant = {
             "lentilles",
             "mâche",
             "maï",
-            "",
             "navet",
             "oignon",
             "panais",
@@ -17340,6 +17547,7 @@ export const merchant = {
             "a4adc1fd-b35f-4161-a",
             "eca59891-d8d6-4352-8",
         ],
+        zipcode: "58 Nièvre",
     },
     "Brut de Safran": {
         Address: " Brut de Safran 5 avenue de la gare  03260 Magnet",
@@ -17403,6 +17611,7 @@ export const merchant = {
             "a7b60434-becf-4be4-8",
             "23443798-59fb-44ed-9",
         ],
+        zipcode: "03 Allier",
     },
     "Le Biau Jardin": {
         Address: " Le Biau Jardin Le Moulin du Roi  63360 Gerzat",
@@ -17492,6 +17701,7 @@ export const merchant = {
             "cddb0b52-c5a4-4ea0-9",
             "4f568df1-b9f2-4643-9",
         ],
+        zipcode: "63 Puy-de-Dôme",
     },
     "ferme du Creuset": {
         Address: " ferme du Creuset Le Creuset 58300 Neuville lès Decize  58300 Neuville-lès-Decize",
@@ -17568,6 +17778,7 @@ export const merchant = {
             "cc098c88-7763-4ed9-a",
             "d17f0be6-4007-4c18-9",
         ],
+        zipcode: "58 Nièvre",
     },
     "SCEA Brebis des Côteaux": {
         Address: " SCEA Brebis des Côteaux Les Regaults  58300 Toury-Lurcy",
@@ -17651,6 +17862,7 @@ export const merchant = {
             "eca59891-d8d6-4352-8",
             "cfaec864-62b8-4438-a",
         ],
+        zipcode: "58 Nièvre",
     },
     "Elevage Gasteau": {
         Address: " Elevage Gasteau Chez Jamet  63820 Laqueuille",
@@ -17711,6 +17923,7 @@ export const merchant = {
             "57ddf2e7-e7a6-4ffb-b",
             "8b272777-8d25-4c4f-a",
         ],
+        zipcode: "63 Puy-de-Dôme",
     },
     "Guillaume Marquet": {
         Address: " Guillaume Marquet 5 rue du Café OPME  63540 Romagnat",
@@ -17793,6 +18006,7 @@ export const merchant = {
             "9c5f42f1-dee6-49f4-a",
             "1ac4392e-073b-4cbc-8",
         ],
+        zipcode: "63 Puy-de-Dôme",
     },
     "Dominique Champru": {
         Address: " Dominique Champru Genestoux  63290 Puy-Guillaume",
@@ -17874,6 +18088,7 @@ export const merchant = {
             "4907e1bc-054e-4c86-a",
             "78b8d2d1-eb3e-4f1f-9",
         ],
+        zipcode: "63 Puy-de-Dôme",
     },
     "Les Logrillons": {
         Address: " Les Logrillons 6, les mignons  03220 Vaumas",
@@ -17941,6 +18156,7 @@ export const merchant = {
             "50cc9b64-4165-490e-9",
             "dd5f1478-35af-494a-8",
         ],
+        zipcode: "03 Allier",
     },
     "FERME DES VERITES": {
         Address: " FERME DES VERITES La chaussée  03120 Saint-Prix",
@@ -18003,6 +18219,7 @@ export const merchant = {
             "c3f1eb23-18d2-4bfb-a",
             "af34ed7d-4e63-4b0a-9",
         ],
+        zipcode: "03 Allier",
     },
     "Antoine Gillier": {
         Address: " Antoine Gillier Les Charmes  03220 Saint-Léon",
@@ -18065,6 +18282,7 @@ export const merchant = {
             "2180b696-e168-4bad-8",
             "ddd66ace-de8b-40f2-9",
         ],
+        zipcode: "03 Allier",
     },
     "L'Abeille de Sologne": {
         Address: " L'Abeille de Sologne 19, rue André Chénier  18000 Bourges",
@@ -18127,6 +18345,7 @@ export const merchant = {
             "cb1bcba7-2f92-4174-9",
             "0f6df93b-b1ff-4bb2-9",
         ],
+        zipcode: "18 Cher",
     },
     "La Pereire": {
         Address: " La Pereire Chadrat  63450 Saint-Saturnin",
@@ -18194,6 +18413,7 @@ export const merchant = {
             "1e1da486-4433-4962-a",
             "10e49dd4-0650-4fec-a",
         ],
+        zipcode: "63 Puy-de-Dôme",
     },
     "micro ferme du bourbonnais": {
         Address: " micro ferme du bourbonnais 450 route de saligny  03290 Dompierre-sur-Besbre",
@@ -18332,6 +18552,7 @@ export const merchant = {
             "195fdd48-2623-43e0-8",
             "2b280495-7ad1-4102-8",
         ],
+        zipcode: "03 Allier",
     },
     "Dou Chanlat": {
         Address: " Dou Chanlat Rue de Chanlat  63190 Moissat",
@@ -18421,6 +18642,7 @@ export const merchant = {
             "759b2411-41da-4ff0-a",
             "2b8be3bb-0821-4c45-b",
         ],
+        zipcode: "63 Puy-de-Dôme",
     },
     "Le Jardin aux Baies": {
         Address: " Le Jardin aux Baies 34 route des Narrons  36200 Argenton-sur-Creuse",
@@ -18485,6 +18707,7 @@ export const merchant = {
             "6fc014e9-33c1-4dff-a",
             "4f568df1-b9f2-4643-9",
         ],
+        zipcode: "36 Indre",
     },
     "LE CHARME DES POULETS D'ICI": {
         Address: " LE CHARME DES POULETS D'ICI 18 rue du charme  58300 Devay",
@@ -18565,6 +18788,7 @@ export const merchant = {
             "8475e20f-195a-44b5-a",
             "d17f0be6-4007-4c18-9",
         ],
+        zipcode: "58 Nièvre",
     },
     "EARL SAILLARD - Ferme des Rauches": {
         Address: " EARL SAILLARD - Ferme des Rauches Ferme des Rauches Rue de la Loire  18320 Beffes",
@@ -18673,6 +18897,7 @@ export const merchant = {
             "bb38c461-eb40-441d-8",
             "01e715e3-83b0-4b1e-a",
         ],
+        zipcode: "18 Cher",
     },
     "Natur'et Jardin": {
         Address: " Natur'et Jardin Rue du val de L Indre  36250 Saint-Maur",
@@ -18747,6 +18972,7 @@ export const merchant = {
             "b74dbdd4-0c27-4d1a-a",
             "d2f7c482-c3c4-4026-9",
         ],
+        zipcode: "36 Indre",
     },
     "Thomas & Amélie Fhal": {
         Address: " Thomas & Amélie Fhal Ferme de Champeau  87120 Saint-Amand-le-Petit",
@@ -18825,6 +19051,7 @@ export const merchant = {
             "e96f08ed-0ba7-4150-9",
             "cfaec864-62b8-4438-a",
         ],
+        zipcode: "87 Haute-Vienne",
     },
     "LAFORET ferme auberge le vieux logis": {
         Address: ' LAFORET ferme auberge le vieux logis lieu dit " VINZELLES"  03130 Lenax',
@@ -18888,6 +19115,7 @@ export const merchant = {
             "1e865792-8632-4a4f-9",
             "85ec7f6f-e36c-4aee-b",
         ],
+        zipcode: "03 Allier",
     },
     "les ruchers villaréens": {
         Address: " les ruchers villaréens 1 rue du tramway  36250 Villers-les-Ormes",
@@ -18962,6 +19190,7 @@ export const merchant = {
             "cc2d474b-f84f-43e1-b",
             "bb38c461-eb40-441d-8",
         ],
+        zipcode: "36 Indre",
     },
     "Mille Fleurs": {
         Address: " Mille Fleurs Fouillat  63810 Cros",
@@ -19035,6 +19264,7 @@ export const merchant = {
             "715712f4-a4c1-47f7-9",
             "94da843f-6b8f-491d-a",
         ],
+        zipcode: "63 Puy-de-Dôme",
     },
     "Brasserie Gaïa Bière du Sancy": {
         Address: " Brasserie Gaïa Bière du Sancy Ravel  63113 Picherande",
@@ -19095,6 +19325,7 @@ export const merchant = {
             "5067d163-3fa2-406e-b",
             "3a3c518e-01ec-43ff-b",
         ],
+        zipcode: "63 Puy-de-Dôme",
     },
     "Léval François et Véronique": {
         Address: " Léval François et Véronique Les Dauphins  71160 Saint-Agnan",
@@ -19158,6 +19389,7 @@ export const merchant = {
             "23443798-59fb-44ed-9",
             "1ac4392e-073b-4cbc-8",
         ],
+        zipcode: "71 Saône-et-Loire",
     },
     "Les coteaux de valveranne": {
         Address: " Les coteaux de valveranne Chemin de pimayon  04100 Manosque",
@@ -19233,6 +19465,7 @@ export const merchant = {
             "9e1b0d98-e499-4e24-a",
             "2b8be3bb-0821-4c45-b",
         ],
+        zipcode: "04 Alpes-de-Haute-Provence",
     },
     "El Romero": {
         Address: " El Romero La Cabane  04300 Saint-Martin-les-Eaux",
@@ -19318,6 +19551,7 @@ export const merchant = {
             "60f37375-dd24-4f11-8",
             "1ac4392e-073b-4cbc-8",
         ],
+        zipcode: "04 Alpes-de-Haute-Provence",
     },
     "La Ferme de la Bertine": {
         Address: " La Ferme de la Bertine La Bertine  04300 Saint-Maime",
@@ -19397,6 +19631,7 @@ export const merchant = {
             "eb0f17dd-37f2-4507-9",
             "d2f7c482-c3c4-4026-9",
         ],
+        zipcode: "04 Alpes-de-Haute-Provence",
     },
     "Ferme de la Buissière": {
         Address: " Ferme de la Buissière La BuissièreChemin du Largue  04110 Reillanne",
@@ -19471,6 +19706,7 @@ export const merchant = {
             "1793c3d4-5912-43b2-9",
             "5087ddb9-7ea3-450d-b",
         ],
+        zipcode: "04 Alpes-de-Haute-Provence",
     },
     "La Bouillote": {
         Address: " La Bouillote Chemin de Pissaï  04700 La Brillanne",
@@ -19489,7 +19725,6 @@ export const merchant = {
             "panais",
             "oignon",
             "navet",
-            "",
             "mâche",
             "haricot vert",
             "fève",
@@ -19564,6 +19799,7 @@ export const merchant = {
             "d3528ce1-ba92-401a-b",
             "1ac4392e-073b-4cbc-8",
         ],
+        zipcode: "04 Alpes-de-Haute-Provence",
     },
     "Lure Lubéron": {
         Address: " Lure Lubéron Le Moulin Brun  04110 Aubenas-les-Alpes",
@@ -19594,7 +19830,6 @@ export const merchant = {
             "épinard",
             "fenouil",
             "haricot vert",
-            "",
             "navet",
             "panais",
             "patisson",
@@ -19680,6 +19915,7 @@ export const merchant = {
             "d17f0be6-4007-4c18-9",
             "b9180f81-3ba1-4b3e-8",
         ],
+        zipcode: "04 Alpes-de-Haute-Provence",
     },
     "La rue des biscuits": {
         Address: " La rue des biscuits Lieu dit la gare (à coté de U Express)  04280 Céreste",
@@ -19749,6 +19985,7 @@ export const merchant = {
             "1e1da486-4433-4962-a",
             "e25e4e34-2441-4451-b",
         ],
+        zipcode: "04 Alpes-de-Haute-Provence",
     },
     "Catherine Joly": {
         Address: " Catherine Joly Les Clavelons  04110 Vachères",
@@ -19820,6 +20057,7 @@ export const merchant = {
             "eca59891-d8d6-4352-8",
             "9c559e1b-e467-4f03-8",
         ],
+        zipcode: "04 Alpes-de-Haute-Provence",
     },
     "Huile d'olive la Maréchale": {
         Address: " Huile d'olive la Maréchale Campagne la Maréchale  04700 Lurs",
@@ -19889,6 +20127,7 @@ export const merchant = {
             "23443798-59fb-44ed-9",
             "ed416075-44d1-4b9c-a",
         ],
+        zipcode: "04 Alpes-de-Haute-Provence",
     },
     Pieroux: {
         Address: " Pieroux Rue du FaubourgLe Village  84750 Viens",
@@ -19968,6 +20207,7 @@ export const merchant = {
             "02e9bba2-17cc-4d4a-8",
             "2b8be3bb-0821-4c45-b",
         ],
+        zipcode: "84 Vaucluse",
     },
     "Brasserie Viensoise": {
         Address: " Brasserie Viensoise Chemin des Faysses  84750 Viens",
@@ -20035,6 +20275,7 @@ export const merchant = {
             "4907e1bc-054e-4c86-a",
             "d3528ce1-ba92-401a-b",
         ],
+        zipcode: "84 Vaucluse",
     },
     "Le Diamant Noir": {
         Address: " Le Diamant Noir lieu dit la pourpette, Chemin de la lachaude  84240 La Tour-d'Aigues",
@@ -20099,6 +20340,7 @@ export const merchant = {
             "e96f08ed-0ba7-4150-9",
             "32b37740-c957-4d1d-a",
         ],
+        zipcode: "84 Vaucluse",
     },
     "Marc Salerno": {
         Address: " Marc Salerno Chemin du RéalCampagne le Campement  84120 La Bastidonne",
@@ -20181,6 +20423,7 @@ export const merchant = {
             "d68538be-0255-4a22-b",
             "e095d8c7-5da9-4945-8",
         ],
+        zipcode: "84 Vaucluse",
     },
     "La ferme du Clos des Escargots": {
         Address: " La ferme du Clos des Escargots 277C chemin des Escargots  83560 La Verdière",
@@ -20253,6 +20496,7 @@ export const merchant = {
             "b13e083d-adf6-4063-a",
             "cd15077f-c259-43f9-8",
         ],
+        zipcode: "83 Var",
     },
     "Domaines les Tuiles Bleues": {
         Address: " Domaines les Tuiles Bleues Les Tuiles Bleues  84240 Sannes",
@@ -20326,6 +20570,7 @@ export const merchant = {
             "ec20d22a-f711-4320-9",
             "3b3d794c-4b1b-4bfd-8",
         ],
+        zipcode: "84 Vaucluse",
     },
     "Domaine Allois": {
         Address: " Domaine Allois Hameau du Boisset  84750 Caseneuve",
@@ -20402,6 +20647,7 @@ export const merchant = {
             "a0a25c89-a063-4c91-8",
             "eca59891-d8d6-4352-8",
         ],
+        zipcode: "84 Vaucluse",
     },
     "Jean-Pierre Palancher": {
         Address: " Jean-Pierre Palancher La Corrège  84120 Pertuis",
@@ -20477,6 +20723,7 @@ export const merchant = {
             "3f3c2b8a-5c42-4618-8",
             "06a50824-d55c-4f03-9",
         ],
+        zipcode: "84 Vaucluse",
     },
     "Le jardin de Saint Blaise": {
         Address: " Le jardin de Saint Blaise Route de Riez  04410 Puimoisson",
@@ -20540,6 +20787,7 @@ export const merchant = {
             "dd5f1478-35af-494a-8",
             "8b272777-8d25-4c4f-a",
         ],
+        zipcode: "04 Alpes-de-Haute-Provence",
     },
     "Michel Isouard": {
         Address: " Michel Isouard Le Plan  84160 Vaugines",
@@ -20614,6 +20862,7 @@ export const merchant = {
             "b74dbdd4-0c27-4d1a-a",
             "5fefc504-b99b-4bd7-b",
         ],
+        zipcode: "84 Vaucluse",
     },
     "Confiserie Le Coulon": {
         Address: " Confiserie Le Coulon 24 quai de la Liberté  84400 Apt",
@@ -20694,6 +20943,7 @@ export const merchant = {
             "fd8f3e50-56f0-4440-9",
             "7b38ec3f-2e07-4a55-b",
         ],
+        zipcode: "84 Vaucluse",
     },
     "GAEC les reines de Provence": {
         Address: " GAEC les reines de Provence La combe  04200 Châteauneuf-Val-Saint-Donat",
@@ -20768,6 +21018,7 @@ export const merchant = {
             "def9908b-aac6-44d0-9",
             "03858e30-7f99-4f75-8",
         ],
+        zipcode: "04 Alpes-de-Haute-Provence",
     },
     "Richard Soyer": {
         Address: " Richard Soyer La JeannetteLe Grand Valat  84400 Villars",
@@ -20844,6 +21095,7 @@ export const merchant = {
             "121ad8e0-7b74-4122-8",
             "ddad5d6c-fb1c-4a78-b",
         ],
+        zipcode: "84 Vaucluse",
     },
     "Les Deux Rivières": {
         Address: " Les Deux Rivières 19 rue Condorcet  84160 Cadenet",
@@ -20902,6 +21154,7 @@ export const merchant = {
             "1fba8491-fc45-43bf-9",
             "c2c4c5fc-56b5-43f1-9",
         ],
+        zipcode: "84 Vaucluse",
     },
     "Denis Catalano": {
         Address: " Denis Catalano Le rieu neuf  84490 Saint-Saturnin-lès-Apt",
@@ -20985,6 +21238,7 @@ export const merchant = {
             "a01c1f11-2d45-4b0f-9",
             "1ac4392e-073b-4cbc-8",
         ],
+        zipcode: "84 Vaucluse",
     },
     "Ferme des Fabrigoules": {
         Address: " Ferme des Fabrigoules route de la Palud, Les Fabrigoules  04360 Moustiers-Sainte-Marie",
@@ -21051,6 +21305,7 @@ export const merchant = {
             "e12bc812-b9a7-4053-8",
             "87b16858-c0c5-4666-a",
         ],
+        zipcode: "04 Alpes-de-Haute-Provence",
     },
     "Marie Beysson": {
         Address: " Marie Beysson Perrotet  84400 Gargas",
@@ -21125,6 +21380,7 @@ export const merchant = {
             "63755168-878e-4a50-8",
             "01e715e3-83b0-4b1e-a",
         ],
+        zipcode: "84 Vaucluse",
     },
     "le potager de celeste": {
         Address: " le potager de celeste 346 chemin beyssan 84400 gargas  84400 Gargas",
@@ -21158,7 +21414,6 @@ export const merchant = {
             "fenouil",
             "fève",
             "mâche",
-            "",
             "navet",
             "oignon",
             "patisson",
@@ -21239,6 +21494,7 @@ export const merchant = {
             "bedd30a4-f294-40ea-b",
             "3f3c2b8a-5c42-4618-8",
         ],
+        zipcode: "84 Vaucluse",
     },
     "Les Terres Longues": {
         Address: " Les Terres Longues Chemin du Plan  83630 Moissac-Bellevue",
@@ -21321,6 +21577,7 @@ export const merchant = {
             "ee4f8799-d969-446f-a",
             "eca59891-d8d6-4352-8",
         ],
+        zipcode: "83 Var",
     },
     "L'Escargot Bleu": {
         Address: " L'Escargot Bleu Chemin du Vierard  83670 Pontevès",
@@ -21393,6 +21650,7 @@ export const merchant = {
             "270076d2-0756-424e-8",
             "be069719-9b53-443e-8",
         ],
+        zipcode: "83 Var",
     },
     "LE MOULIN DE JARJAYES": {
         Address: " LE MOULIN DE JARJAYES LE MOULIN DE JARJAYES  04200 Noyers-sur-Jabron",
@@ -21459,6 +21717,7 @@ export const merchant = {
             "2c74ba62-616c-4428-8",
             "bb38c461-eb40-441d-8",
         ],
+        zipcode: "04 Alpes-de-Haute-Provence",
     },
     "Lou Capeou": {
         Address: " Lou Capeou La Ferme Chemin de l'Aubère  13090 Aix-en-Provence",
@@ -21532,6 +21791,7 @@ export const merchant = {
             "d3528ce1-ba92-401a-b",
             "3f3c2b8a-5c42-4618-8",
         ],
+        zipcode: "13 Bouches-du-Rhône",
     },
     "Le panier d'Émilie": {
         Address: " Le panier d'Émilie Zac du Pied Rousset  84220 Roussillon",
@@ -21599,6 +21859,7 @@ export const merchant = {
             "7a8b7e37-626d-49c8-9",
             "3ad4d76a-7fcd-4058-9",
         ],
+        zipcode: "84 Vaucluse",
     },
     "Michel Favre": {
         Address: " Michel Favre La Gardette  04200 Les Omergues",
@@ -21677,6 +21938,7 @@ export const merchant = {
             "270076d2-0756-424e-8",
             "c5ba7716-f287-4d5c-9",
         ],
+        zipcode: "04 Alpes-de-Haute-Provence",
     },
     "Provence-bio: Loic Godderis": {
         Address: " Provence-bio: Loic Godderis 125 allée des Bastides, apt 13  83470 Saint-Maximin-la-Sainte-Baume",
@@ -21786,6 +22048,7 @@ export const merchant = {
             "3f3c2b8a-5c42-4618-8",
             "a4adc1fd-b35f-4161-a",
         ],
+        zipcode: "83 Var",
     },
     "GRAINES DE PRODUCTEURS EN DIRECT DE NOS FERMES": {
         Address:
@@ -21975,6 +22238,7 @@ export const merchant = {
             "cedc970e-02b6-4c03-9",
             "3ad4d76a-7fcd-4058-9",
         ],
+        zipcode: "83 Var",
     },
     "Aroma'Plantes": {
         Address: " Aroma'Plantes La Parente  84390 Sault",
@@ -22051,6 +22315,7 @@ export const merchant = {
             "ede0e2ff-7da1-4be1-8",
             "8b7e6d8a-0a39-4dbf-9",
         ],
+        zipcode: "84 Vaucluse",
     },
     "Terre des Lavandes": {
         Address: " Terre des Lavandes Hameau de Brouville  84390 Sault",
@@ -22117,6 +22382,7 @@ export const merchant = {
             "e96f08ed-0ba7-4150-9",
             "de3488bb-0d6a-4d20-a",
         ],
+        zipcode: "84 Vaucluse",
     },
     "Ferme de la Lauve": {
         Address: " Ferme de la Lauve Chemin de la Haute Mude  83690 Sillans-la-Cascade",
@@ -22196,6 +22462,7 @@ export const merchant = {
             "9235d007-7289-43f1-8",
             "8b272777-8d25-4c4f-a",
         ],
+        zipcode: "83 Var",
     },
     "Les Jardins du Jas": {
         Address: " Les Jardins du Jas Sillans-la-Cascade  83690 Sillans-la-Cascade",
@@ -22301,6 +22568,7 @@ export const merchant = {
             "dacbc345-dff3-4de7-8",
             "3cc432ef-b2af-485a-b",
         ],
+        zipcode: "83 Var",
     },
     "La Maison du Miel": {
         Address: " La Maison du Miel Hameau de Kirbon  13530 Trets",
@@ -22379,6 +22647,7 @@ export const merchant = {
             "af34ed7d-4e63-4b0a-9",
             "4298f4bc-ac2e-47f1-a",
         ],
+        zipcode: "13 Bouches-du-Rhône",
     },
     "La Savonnerie du Regagnas": {
         Address: " La Savonnerie du Regagnas 13 Avenue Mirabeau  13530 Trets",
@@ -22447,6 +22716,7 @@ export const merchant = {
             "b63a812e-c786-4d49-8",
             "635ad985-ced9-4a50-9",
         ],
+        zipcode: "13 Bouches-du-Rhône",
     },
     "LE DOMAINE D'ARAGON": {
         Address: " LE DOMAINE D'ARAGON L'Adrech  04200 Entrepierres",
@@ -22512,6 +22782,7 @@ export const merchant = {
             "036e22d6-1dc1-4597-9",
             "e25e4e34-2441-4451-b",
         ],
+        zipcode: "04 Alpes-de-Haute-Provence",
     },
     "jardin l'orée d'argens": {
         Address: " jardin l'orée d'argens 2136 quartier la paremiane  83570 Correns",
@@ -22636,6 +22907,7 @@ export const merchant = {
             "ffab0110-b9fc-4c63-8",
             "23443798-59fb-44ed-9",
         ],
+        zipcode: "83 Var",
     },
     "rayons de provence": {
         Address: " rayons de provence chemin des tuileries  13590 Meyreuil",
@@ -22706,6 +22978,7 @@ export const merchant = {
             "270076d2-0756-424e-8",
             "1ac4392e-073b-4cbc-8",
         ],
+        zipcode: "13 Bouches-du-Rhône",
     },
     "Verdon Roses et Arômes": {
         Address: " Verdon Roses et Arômes Les Chauvets  04120 La Palud-sur-Verdon",
@@ -22761,6 +23034,7 @@ export const merchant = {
             "ffab0110-b9fc-4c63-8",
             "23443798-59fb-44ed-9",
         ],
+        zipcode: "04 Alpes-de-Haute-Provence",
     },
     "Ferme de la Grandchane": {
         Address: " Ferme de la Grandchane La Grandchane  26560 Séderon",
@@ -22827,6 +23101,7 @@ export const merchant = {
             "2d7dfdd1-4079-4119-a",
             "60f37375-dd24-4f11-8",
         ],
+        zipcode: "26 Drôme",
     },
     "Elisabeth Toutlemonde et Jean-Louis Millet": {
         Address: " Elisabeth Toutlemonde et Jean-Louis Millet Les Gardiols  84360 Mérindol",
@@ -22903,6 +23178,7 @@ export const merchant = {
             "bbccb762-fae3-422a-a",
             "1793c3d4-5912-43b2-9",
         ],
+        zipcode: "84 Vaucluse",
     },
     "Bruno Cayron": {
         Address: " Bruno Cayron Le Cayre de ValjancelleQuartier des Poudaspres  83170 Tourves",
@@ -23003,6 +23279,7 @@ export const merchant = {
             "1bb9f5e6-3d13-45b7-b",
             "5e0f317c-dfc1-4eaa-9",
         ],
+        zipcode: "83 Var",
     },
     "Ma micropousse Culinaire": {
         Address: " Ma micropousse Culinaire Square Centre 2  26560 Éourres",
@@ -23060,6 +23337,7 @@ export const merchant = {
             "ee4f8799-d969-446f-a",
             "d0c32817-0265-401d-8",
         ],
+        zipcode: "26 Drôme",
     },
     "Miel les demoiselles": {
         Address: " Miel les demoiselles HAMEAU LES MARTINS  84220 Gordes",
@@ -23113,6 +23391,7 @@ export const merchant = {
             "de3488bb-0d6a-4d20-a",
             "d0c32817-0265-401d-8",
         ],
+        zipcode: "84 Vaucluse",
     },
     "La Manouche": {
         Address: " La Manouche 901 chemin de Lombarde  84570 Méthamis",
@@ -23182,6 +23461,7 @@ export const merchant = {
             "c4342434-5448-4946-a",
             "8b272777-8d25-4c4f-a",
         ],
+        zipcode: "84 Vaucluse",
     },
     "Pasta'Durance": {
         Address: " Pasta'Durance Le village  04200 Valernes",
@@ -23263,6 +23543,7 @@ export const merchant = {
             "9235d007-7289-43f1-8",
             "7cf85155-6fe6-478f-8",
         ],
+        zipcode: "04 Alpes-de-Haute-Provence",
     },
     "LA FERME EN FOLIE": {
         Address: " LA FERME EN FOLIE Quartier du Pimaquet Occidentale  83570 Entrecasteaux",
@@ -23345,6 +23626,7 @@ export const merchant = {
             "0defd424-00b8-4e45-a",
             "9c5f42f1-dee6-49f4-a",
         ],
+        zipcode: "83 Var",
     },
     "Angela Tripmaker-Ventre": {
         Address: " Angela Tripmaker-Ventre Quartier de la Bourdonnière  13122 Ventabren",
@@ -23409,6 +23691,7 @@ export const merchant = {
             "dc095690-84b8-4827-8",
             "7a484fe0-2195-4c56-8",
         ],
+        zipcode: "13 Bouches-du-Rhône",
     },
     "L'Ours Orange": {
         Address: " L'Ours Orange 361 CARRAIRE DE CARLI  13105 Mimet",
@@ -23479,6 +23762,7 @@ export const merchant = {
             "d0533766-d7de-4150-a",
             "d3528ce1-ba92-401a-b",
         ],
+        zipcode: "13 Bouches-du-Rhône",
     },
     "Domaine Grange de Louiset": {
         Address: " Domaine Grange de Louiset Les Gaps  84410 Flassan",
@@ -23554,6 +23838,7 @@ export const merchant = {
             "78b8d2d1-eb3e-4f1f-9",
             "bae17232-9736-427a-b",
         ],
+        zipcode: "84 Vaucluse",
     },
     "Aleyria cosmétiques": {
         Address: " Aleyria cosmétiques 9, Avenue de Lombardie  13880 Velaux",
@@ -23621,6 +23906,7 @@ export const merchant = {
             "7b033df4-ddb8-4c37-8",
             "cfaec864-62b8-4438-a",
         ],
+        zipcode: "13 Bouches-du-Rhône",
     },
     "Catherine Taillefer": {
         Address: " Catherine Taillefer Chemin de Chinardon - Tour de Pinet  84210 Venasque",
@@ -23704,6 +23990,7 @@ export const merchant = {
             "dd5f1478-35af-494a-8",
             "03858e30-7f99-4f75-8",
         ],
+        zipcode: "84 Vaucluse",
     },
     "Cerises2B & EARL Bezert": {
         Address: " Cerises2B & EARL Bezert 30 place de l'église  84210 Venasque",
@@ -23796,6 +24083,7 @@ export const merchant = {
             "5fefc504-b99b-4bd7-b",
             "bae17232-9736-427a-b",
         ],
+        zipcode: "84 Vaucluse",
     },
     "Ferme de Somecure": {
         Address: " Ferme de Somecure Somecure  26170 Montauban-sur-l'Ouvèze",
@@ -23848,6 +24136,7 @@ export const merchant = {
             "a30edda6-3250-4771-b",
             "e25e4e34-2441-4451-b",
         ],
+        zipcode: "26 Drôme",
     },
     "Les Vallons": {
         Address: " Les Vallons 1650 chemin de Fioussac  83136 La Roquebrussanne",
@@ -23935,6 +24224,7 @@ export const merchant = {
             "bae17232-9736-427a-b",
             "87b16858-c0c5-4666-a",
         ],
+        zipcode: "83 Var",
     },
     "Les 7 Soleils Ferme Ecologique": {
         Address: " Les 7 Soleils Ferme Ecologique 161 chemin de Saint-Etienne  84210 Le Beaucet",
@@ -24007,6 +24297,7 @@ export const merchant = {
             "4298f4bc-ac2e-47f1-a",
             "eca59891-d8d6-4352-8",
         ],
+        zipcode: "84 Vaucluse",
     },
     "Catherine et Robert Blanc": {
         Address: " Catherine et Robert Blanc 3 allée des Framboisiers  05300 Lagrand",
@@ -24093,6 +24384,7 @@ export const merchant = {
             "05d79170-b4de-4329-a",
             "7cf85155-6fe6-478f-8",
         ],
+        zipcode: "05 Hautes-Alpes",
     },
     "Nougats Silvain": {
         Address: " Nougats Silvain 4 place neuve  84210 Saint-Didier",
@@ -24165,6 +24457,7 @@ export const merchant = {
             "b96a8dd9-37fc-4934-b",
             "d0533766-d7de-4150-a",
         ],
+        zipcode: "84 Vaucluse",
     },
     "Le chaudron des abeilles": {
         Address: " Le chaudron des abeilles 618 chemin du Gineste  83780 Flayosc",
@@ -24226,6 +24519,7 @@ export const merchant = {
             "3eac1d4b-1355-417f-a",
             "57ddf2e7-e7a6-4ffb-b",
         ],
+        zipcode: "83 Var",
     },
     "Frédéric de Tomasi": {
         Address: " Frédéric de Tomasi CD 10 Le Vieux MasPrés Les Baïses  13680 Lançon-Provence",
@@ -24298,6 +24592,7 @@ export const merchant = {
             "e90c828b-b2ab-4e21-8",
             "5fefc504-b99b-4bd7-b",
         ],
+        zipcode: "13 Bouches-du-Rhône",
     },
     "Le Primeur des Tilleuls": {
         Address: " Le Primeur des Tilleuls n°1200 avenue du plan de campagne  13170 Les Pennes-Mirabeau",
@@ -24386,6 +24681,7 @@ export const merchant = {
             "549c6436-a053-4fc2-8",
             "5fefc504-b99b-4bd7-b",
         ],
+        zipcode: "13 Bouches-du-Rhône",
     },
     "la ferme au naturel": {
         Address: " la ferme au naturel 46 chemin d empallieres 13170  13170 Les Pennes-Mirabeau",
@@ -24467,6 +24763,7 @@ export const merchant = {
             "3e242a93-b5aa-4ac2-8",
             "02e9bba2-17cc-4d4a-8",
         ],
+        zipcode: "13 Bouches-du-Rhône",
     },
     Sarnette: {
         Address: " Sarnette 1100 Chemin du Grand RouletLes Vignères  84300 Cavaillon",
@@ -24542,6 +24839,7 @@ export const merchant = {
             "9455a6b4-7fa0-4bd6-a",
             "bf29f45a-4db5-4f10-9",
         ],
+        zipcode: "84 Vaucluse",
     },
     "La Cacalose": {
         Address: " La Cacalose 725 chemin de la Cacalose  84210 Pernes-les-Fontaines",
@@ -24606,6 +24904,7 @@ export const merchant = {
             "63755168-878e-4a50-8",
             "cc098c88-7763-4ed9-a",
         ],
+        zipcode: "84 Vaucluse",
     },
     "LA FERME D'AMOURS": {
         Address: " LA FERME D'AMOURS CHEMIN PLAN DU CHAPITRE  83890 Besse-sur-Issole",
@@ -24679,6 +24978,7 @@ export const merchant = {
             "5067d163-3fa2-406e-b",
             "d99fb42a-66f0-43b8-9",
         ],
+        zipcode: "83 Var",
     },
     "Le Pré Saint-Jean": {
         Address: " Le Pré Saint-Jean Les Sias  26170 La Roche-sur-le-Buis",
@@ -24757,6 +25057,7 @@ export const merchant = {
             "e90c828b-b2ab-4e21-8",
             "06a50824-d55c-4f03-9",
         ],
+        zipcode: "26 Drôme",
     },
     "La ferme de l'Etoile": {
         Address: " La ferme de l'Etoile 111 bd Notre Dame de Santa Cruz, 13014, Marseille  13014 Marseille 14e",
@@ -24835,6 +25136,7 @@ export const merchant = {
             "bec4ed08-b2c6-4c82-a",
             "f589e365-ba31-4516-b",
         ],
+        zipcode: "13 Bouches-du-Rhône",
     },
     "Créa'Cosm": {
         Address: " Créa'Cosm Chemin du Pèbre d'Ai  83136 Rocbaron",
@@ -24912,6 +25214,7 @@ export const merchant = {
             "ecb5b7cf-dc99-40d5-a",
             "195fdd48-2623-43e0-8",
         ],
+        zipcode: "83 Var",
     },
     "Héliane & Magali Bertrand": {
         Address: " Héliane & Magali Bertrand La Villemiane2483 route de Saint Didier  84200 Carpentras",
@@ -24970,6 +25273,7 @@ export const merchant = {
             "04e83ced-0f17-4ee1-8",
             "ddad5d6c-fb1c-4a78-b",
         ],
+        zipcode: "84 Vaucluse",
     },
     "Mas des Grands Cyprès": {
         Address: " Mas des Grands Cyprès 1846 route de Fontaine de Vaucluse  84250 Le Thor",
@@ -25062,6 +25366,7 @@ export const merchant = {
             "3e242a93-b5aa-4ac2-8",
             "23443798-59fb-44ed-9",
         ],
+        zipcode: "84 Vaucluse",
     },
     Galas: {
         Address: " Galas 151 cours Gambetta  84250 Le Thor",
@@ -25161,6 +25466,7 @@ export const merchant = {
             "00cc6c01-a75b-4ff7-8",
             "1793c3d4-5912-43b2-9",
         ],
+        zipcode: "84 Vaucluse",
     },
     "Ludwig Hauwelle Safranier": {
         Address: " Ludwig Hauwelle Safranier 2160 route de sarrians  84170 Monteux",
@@ -25220,6 +25526,7 @@ export const merchant = {
             "64dc03f2-fd74-4046-a",
             "03858e30-7f99-4f75-8",
         ],
+        zipcode: "84 Vaucluse",
     },
     "Le Jardin du Papet": {
         Address: " Le Jardin du Papet Chemin des Martellières  13940 Mollégès",
@@ -25299,6 +25606,7 @@ export const merchant = {
             "270076d2-0756-424e-8",
             "b5d4a6a6-7131-40e8-8",
         ],
+        zipcode: "13 Bouches-du-Rhône",
     },
     "L'art des Vergers": {
         Address: " L'art des Vergers 723 D24 13670 Saint andiol  13670 Saint-Andiol",
@@ -25427,6 +25735,7 @@ export const merchant = {
             "cd15077f-c259-43f9-8",
             "03858e30-7f99-4f75-8",
         ],
+        zipcode: "13 Bouches-du-Rhône",
     },
     lesescargotsdevalerie: {
         Address: " les  escargots  de  valerie chemin  dereveillac  84510 Caumont-sur-Durance",
@@ -25507,6 +25816,7 @@ export const merchant = {
             "2d73016a-c7a8-4266-9",
             "f1e7292a-ceea-4afc-9",
         ],
+        zipcode: "84 Vaucluse",
     },
     "Domaine Saint Roch": {
         Address: " Domaine Saint Roch 167 route d'Aubignan  84190 Beaumes-de-Venise",
@@ -25585,6 +25895,7 @@ export const merchant = {
             "c2c883b4-8522-4368-9",
             "9c5f42f1-dee6-49f4-a",
         ],
+        zipcode: "84 Vaucluse",
     },
     "Herbiolys Laboratoire": {
         Address: " Herbiolys Laboratoire Le Clos des PasserellesPlan de Lardier  05110 Lardier-et-Valença",
@@ -25645,6 +25956,7 @@ export const merchant = {
             "7b033df4-ddb8-4c37-8",
             "cddb0b52-c5a4-4ea0-9",
         ],
+        zipcode: "05 Hautes-Alpes",
     },
     "Joëlle Duc": {
         Address: " Joëlle Duc Fromagerie des MontaudsPlan Cavalier  83590 Gonfaron",
@@ -25714,6 +26026,7 @@ export const merchant = {
             "6471cad5-cd37-4438-8",
             "32b37740-c957-4d1d-a",
         ],
+        zipcode: "83 Var",
     },
     "Le Jardin de Masset": {
         Address: " Le Jardin de Masset Chemin de la Tasque  84260 Sarrians",
@@ -25767,6 +26080,7 @@ export const merchant = {
             "1d7c9e32-a317-43f7-8",
             "46427942-a3ad-4828-b",
         ],
+        zipcode: "84 Vaucluse",
     },
     "Domaine TRUCCO": {
         Address: " Domaine TRUCCO Rd 554 n°1293 les Tourettes  83210 Solliès-Toucas",
@@ -25849,6 +26163,7 @@ export const merchant = {
             "9e1b0d98-e499-4e24-a",
             "e96f08ed-0ba7-4150-9",
         ],
+        zipcode: "83 Var",
     },
     "les Ruches du Mas de Nuke": {
         Address:
@@ -25921,6 +26236,7 @@ export const merchant = {
             "549c6436-a053-4fc2-8",
             "c4342434-5448-4946-a",
         ],
+        zipcode: "83 Var",
     },
     "Vincent Moutte": {
         Address: " Vincent Moutte 101 chemin des Poissonniers  83270 Saint-Cyr-sur-Mer",
@@ -25974,6 +26290,7 @@ export const merchant = {
             "1e51241e-0704-42a8-a",
             "78b8d2d1-eb3e-4f1f-9",
         ],
+        zipcode: "83 Var",
     },
     "GAEC Sassatelli": {
         Address: " GAEC Sassatelli route de la cadiere d66  83270 Saint-Cyr-sur-Mer",
@@ -26001,7 +26318,6 @@ export const merchant = {
             "fève",
             "haricot vert",
             "mâche",
-            "",
             "navet",
             "oignon",
             "petits pois",
@@ -26073,6 +26389,7 @@ export const merchant = {
             "23443798-59fb-44ed-9",
             "b9180f81-3ba1-4b3e-8",
         ],
+        zipcode: "83 Var",
     },
     "DOMAINE DE L ESTAGNOL": {
         Address:
@@ -26156,6 +26473,7 @@ export const merchant = {
             "9455a6b4-7fa0-4bd6-a",
             "d3528ce1-ba92-401a-b",
         ],
+        zipcode: "83 Var",
     },
     "Le Gatillier": {
         Address: " Le Gatillier La Commanderie  06750 Valderoure",
@@ -26221,6 +26539,7 @@ export const merchant = {
             "2b280495-7ad1-4102-8",
             "10e49dd4-0650-4fec-a",
         ],
+        zipcode: "06 Alpes-Maritimes",
     },
     "Philippe et Marie-Christine Mathieu": {
         Address: " Philippe et Marie-Christine Mathieu La ferme des Aygues  26110 Montaulieu",
@@ -26318,6 +26637,7 @@ export const merchant = {
             "fd8f3e50-56f0-4440-9",
             "e12bc812-b9a7-4053-8",
         ],
+        zipcode: "26 Drôme",
     },
     "Paul Greco": {
         Address: " Paul Greco Les Roustans  26110 Châteauneuf-de-Bordette",
@@ -26390,6 +26710,7 @@ export const merchant = {
             "5e0f317c-dfc1-4eaa-9",
             "8b272777-8d25-4c4f-a",
         ],
+        zipcode: "26 Drôme",
     },
     "La Césarde": {
         Address: " La Césarde Saint Quenin  26110 Châteauneuf-de-Bordette",
@@ -26462,6 +26783,7 @@ export const merchant = {
             "d3528ce1-ba92-401a-b",
             "eca59891-d8d6-4352-8",
         ],
+        zipcode: "26 Drôme",
     },
     "Mas de Gourgonnier": {
         Address: " Mas de Gourgonnier Le Destet  13890 Mouriès",
@@ -26533,6 +26855,7 @@ export const merchant = {
             "f589e365-ba31-4516-b",
             "b74dbdd4-0c27-4d1a-a",
         ],
+        zipcode: "13 Bouches-du-Rhône",
     },
     "Les Vergers de Saint-Rémy": {
         Address: " Les Vergers de Saint-Rémy Mas de Beuil  13210 Saint-Rémy-de-Provence",
@@ -26616,6 +26939,7 @@ export const merchant = {
             "cbe4cc1d-6e55-4b90-9",
             "6e4f5183-64ca-4ac7-b",
         ],
+        zipcode: "13 Bouches-du-Rhône",
     },
     "Patrice Reynaud": {
         Address: " Patrice Reynaud Chemin des Veranes  13210 Saint-Rémy-de-Provence",
@@ -26679,6 +27003,7 @@ export const merchant = {
             "8de00e70-be31-44d1-b",
             "f727d4f9-0a05-4eb9-8",
         ],
+        zipcode: "13 Bouches-du-Rhône",
     },
     "Fromagerie Roumanille": {
         Address: " Fromagerie Roumanille 196 petite route des jardins  13210 Saint-Rémy-de-Provence",
@@ -26746,6 +27071,7 @@ export const merchant = {
             "3412c0c5-7171-4876-8",
             "8a10450c-83b4-4936-9",
         ],
+        zipcode: "13 Bouches-du-Rhône",
     },
     "fromagerie roumanille": {
         Address:
@@ -26814,6 +27140,7 @@ export const merchant = {
             "e2f4e147-af76-48dd-8",
             "eca59891-d8d6-4352-8",
         ],
+        zipcode: "13 Bouches-du-Rhône",
     },
     "Le Nid de l'Anguille": {
         Address: " Le Nid de l'Anguille 230 traverse du Dauphine  83150 Bandol",
@@ -26904,6 +27231,7 @@ export const merchant = {
             "dd5f1478-35af-494a-8",
             "3098e3a6-5647-4515-a",
         ],
+        zipcode: "83 Var",
     },
     "Hélène Bertrand": {
         Address: " Hélène Bertrand 8 rue Longchambon  84000 Avignon",
@@ -26974,6 +27302,7 @@ export const merchant = {
             "1ccec9f5-8466-44f6-9",
             "ddd66ace-de8b-40f2-9",
         ],
+        zipcode: "84 Vaucluse",
     },
     "Domaine du Serre des Moines": {
         Address: " Domaine du Serre des Moines Saint-Laurent  84110 Villedieu",
@@ -27047,6 +27376,7 @@ export const merchant = {
             "c94c4c55-8225-4cfd-9",
             "9455a6b4-7fa0-4bd6-a",
         ],
+        zipcode: "84 Vaucluse",
     },
     "Christian & Jocelyne Charlin": {
         Address: " Christian & Jocelyne Charlin 1601 chemin Saint-Augustin Les Moutonne  83260 La Crau",
@@ -27127,6 +27457,7 @@ export const merchant = {
             "cc2d474b-f84f-43e1-b",
             "1ac4392e-073b-4cbc-8",
         ],
+        zipcode: "83 Var",
     },
     "La ferme de Louise": {
         Address: " La ferme de Louise Les sayons  05130 Jarjayes",
@@ -27204,6 +27535,7 @@ export const merchant = {
             "4907e1bc-054e-4c86-a",
             "de3488bb-0d6a-4d20-a",
         ],
+        zipcode: "05 Hautes-Alpes",
     },
     "Cap Spiruline": {
         Address: " Cap Spiruline 2168 Chemin de la Maronne, 83130 La Garde  83130 La Garde",
@@ -27274,6 +27606,7 @@ export const merchant = {
             "149306aa-d693-4c27-8",
             "b5d4a6a6-7131-40e8-8",
         ],
+        zipcode: "83 Var",
     },
     "terroir aveyronnais": {
         Address: " terroir aveyronnais 131 domaine des 2 collines  83520 Roquebrune-sur-Argens",
@@ -27350,6 +27683,7 @@ export const merchant = {
             "e2f4e147-af76-48dd-8",
             "9c559e1b-e467-4f03-8",
         ],
+        zipcode: "83 Var",
     },
     Oshun: {
         Address: " Oshun 865 avenue de Bruxelles ZA les PayesJean Monnet Nord  83500 La Seyne-sur-Mer",
@@ -27437,6 +27771,7 @@ export const merchant = {
             "bae17232-9736-427a-b",
             "1ac4392e-073b-4cbc-8",
         ],
+        zipcode: "83 Var",
     },
     Tomelea: {
         Address: " Tomelea 223 avenue Estienne d'Orves  83500 La Seyne-sur-Mer",
@@ -27501,6 +27836,7 @@ export const merchant = {
             "a5f2f735-53f4-47ae-9",
             "c4342434-5448-4946-a",
         ],
+        zipcode: "83 Var",
     },
     "Miellerie de la Haute Correo": {
         Address: " Miellerie de la Haute Correo Route de Rabou D503  05400 La Roche-des-Arnauds",
@@ -27577,6 +27913,7 @@ export const merchant = {
             "10e49dd4-0650-4fec-a",
             "06a50824-d55c-4f03-9",
         ],
+        zipcode: "05 Hautes-Alpes",
     },
     "Les jardins d'Helios": {
         Address:
@@ -27651,6 +27988,7 @@ export const merchant = {
             "dfce319d-1c0c-433b-8",
             "bb38c461-eb40-441d-8",
         ],
+        zipcode: "06 Alpes-Maritimes",
     },
     COMADA: {
         Address: " COMADA le beau vezé rte la moutonne  83320 Carqueiranne",
@@ -27709,6 +28047,7 @@ export const merchant = {
             "2b8be3bb-0821-4c45-b",
             "c4342434-5448-4946-a",
         ],
+        zipcode: "83 Var",
     },
     "Pauline PERDRIX - Ferme des Sagnes": {
         Address: " Pauline PERDRIX - Ferme des Sagnes Les Sagnes  26310 Beaumont-en-Diois",
@@ -27786,6 +28125,7 @@ export const merchant = {
             "e2c32052-6800-4e43-8",
             "43cd54a5-1a3c-4b7d-b",
         ],
+        zipcode: "26 Drôme",
     },
     "Bernard Piat et Solange Jouve": {
         Address: " Bernard Piat et Solange Jouve Marafit  26470 Volvent",
@@ -27863,6 +28203,7 @@ export const merchant = {
             "a4adc1fd-b35f-4161-a",
             "de3488bb-0d6a-4d20-a",
         ],
+        zipcode: "26 Drôme",
     },
     "BEE by BY Apiculture": {
         Address: " BEE by BY Apiculture 777, Route de Bollène  84100 Uchaux",
@@ -27940,6 +28281,7 @@ export const merchant = {
             "aa043fb5-5d63-4f30-9",
             "b5d4a6a6-7131-40e8-8",
         ],
+        zipcode: "84 Vaucluse",
     },
     "Patrice Mery": {
         Address: " Patrice Mery Domaine des Treilles  26770 Montbrison",
@@ -27993,6 +28335,7 @@ export const merchant = {
             "7961c730-e82f-43b6-9",
             "f1e7292a-ceea-4afc-9",
         ],
+        zipcode: "26 Drôme",
     },
     "Brasserie du Désert": {
         Address: " Brasserie du Désert Maison Couspeau  26340 Saint-Nazaire-le-Désert",
@@ -28057,6 +28400,7 @@ export const merchant = {
             "7b25a8a8-cf6b-4d9e-a",
             "87b16858-c0c5-4666-a",
         ],
+        zipcode: "26 Drôme",
     },
     "le safran d'Athos": {
         Address: " le safran d'Athos 758 chemin de la roustide  30300 Beaucaire",
@@ -28132,6 +28476,7 @@ export const merchant = {
             "e12bc812-b9a7-4053-8",
             "87b16858-c0c5-4666-a",
         ],
+        zipcode: "30 Gard",
     },
     "Terre de Lune": {
         Address: " Terre de Lune 1201 Route de Ravel et Ferriers  26410 Boulc",
@@ -28190,6 +28535,7 @@ export const merchant = {
             "69e2eee6-a7e9-4545-a",
             "cd15077f-c259-43f9-8",
         ],
+        zipcode: "26 Drôme",
     },
     "DOMAINE DIEU-LE-FIT": {
         Address: " DOMAINE DIEU-LE-FIT 242 chemin des espassiens  26790 La Baume-de-Transit",
@@ -28252,6 +28598,7 @@ export const merchant = {
             "ee4f8799-d969-446f-a",
             "9c5f42f1-dee6-49f4-a",
         ],
+        zipcode: "26 Drôme",
     },
     "LES RUCHERS DE CIPIERES": {
         Address: " LES RUCHERS DE CIPIERES LE VERGER 2235 route de GREOLIERES  06620 Cipières",
@@ -28315,6 +28662,7 @@ export const merchant = {
             "00cc6c01-a75b-4ff7-8",
             "01e715e3-83b0-4b1e-a",
         ],
+        zipcode: "06 Alpes-Maritimes",
     },
     "Delacroix Kerhoas": {
         Address: " Delacroix Kerhoas 28 route de la Gare  30390 Théziers",
@@ -28370,6 +28718,7 @@ export const merchant = {
             "7961c730-e82f-43b6-9",
             "01e715e3-83b0-4b1e-a",
         ],
+        zipcode: "30 Gard",
     },
     "Azur Naturel": {
         Address: " Azur Naturel 115 chemin des hautes ribes  06130 Grasse",
@@ -28445,6 +28794,7 @@ export const merchant = {
             "7b38ec3f-2e07-4a55-b",
             "eca59891-d8d6-4352-8",
         ],
+        zipcode: "06 Alpes-Maritimes",
     },
     "Azur Naturel & Spiruline de Grasse": {
         Address: " Azur Naturel & Spiruline de Grasse 115 chemin des Hautes Ribes  06130 Grasse",
@@ -28520,6 +28870,7 @@ export const merchant = {
             "3a3c518e-01ec-43ff-b",
             "eca59891-d8d6-4352-8",
         ],
+        zipcode: "06 Alpes-Maritimes",
     },
     "Jean-Marc Llorens": {
         Address: " Jean-Marc Llorens La Croix du Sud  30300 Fourques",
@@ -28583,6 +28934,7 @@ export const merchant = {
             "3098e3a6-5647-4515-a",
             "32b37740-c957-4d1d-a",
         ],
+        zipcode: "30 Gard",
     },
     "Jeanne Body": {
         Address: " Jeanne Body Les Boidans  26410 Menglon",
@@ -28660,6 +29012,7 @@ export const merchant = {
             "8475e20f-195a-44b5-a",
             "87b16858-c0c5-4666-a",
         ],
+        zipcode: "26 Drôme",
     },
     "Pierre Toutblanc": {
         Address: " Pierre Toutblanc Le Village  26410 Menglon",
@@ -28722,6 +29075,7 @@ export const merchant = {
             "3e242a93-b5aa-4ac2-8",
             "e12bc812-b9a7-4053-8",
         ],
+        zipcode: "26 Drôme",
     },
     "Un Jardin en Provence": {
         Address: " Un Jardin en Provence Impasse Bellefeuille  84500 Bollène",
@@ -28794,6 +29148,7 @@ export const merchant = {
             "3b3d794c-4b1b-4bfd-8",
             "d0c32817-0265-401d-8",
         ],
+        zipcode: "84 Vaucluse",
     },
     "La Folie des glandeurs": {
         Address: " La Folie des glandeurs Chemin des Combes 180  26410 Glandage",
@@ -28893,6 +29248,7 @@ export const merchant = {
             "fbdde269-2737-4949-b",
             "7961c730-e82f-43b6-9",
         ],
+        zipcode: "26 Drôme",
     },
     "Pierre-Emmanuelle Somer": {
         Address: " Pierre-Emmanuelle Somer L'Olive  06910 Roquestéron-Grasse",
@@ -28975,6 +29331,7 @@ export const merchant = {
             "d99fb42a-66f0-43b8-9",
             "bae17232-9736-427a-b",
         ],
+        zipcode: "06 Alpes-Maritimes",
     },
     "Distillerie Solaure": {
         Address: " Distillerie Solaure Quartier la Louine  26310 Barnave",
@@ -29046,6 +29403,7 @@ export const merchant = {
             "3b3d794c-4b1b-4bfd-8",
             "5e0f317c-dfc1-4eaa-9",
         ],
+        zipcode: "26 Drôme",
     },
     "Farigoule & Cie": {
         Address: " Farigoule & Cie Route du plateau  26130 Clansayes",
@@ -29112,6 +29470,7 @@ export const merchant = {
             "ec20d22a-f711-4320-9",
             "a01c1f11-2d45-4b0f-9",
         ],
+        zipcode: "26 Drôme",
     },
     "Bosquet des Merles": {
         Address: " Bosquet des Merles Les Junchas  26460 Bourdeaux",
@@ -29189,6 +29548,7 @@ export const merchant = {
             "3f3c2b8a-5c42-4618-8",
             "cfaec864-62b8-4438-a",
         ],
+        zipcode: "26 Drôme",
     },
     "Les Jardins de Raphaël": {
         Address: " Les Jardins de Raphaël La Valadière, 185B chemin Le Gât  26230 Chantemerle-lès-Grignan",
@@ -29319,6 +29679,7 @@ export const merchant = {
             "5d760ab3-7fd5-4645-8",
             "33a93d59-5719-48de-8",
         ],
+        zipcode: "26 Drôme",
     },
     "Les Herbes du Soleil": {
         Address: " Les Herbes du Soleil Rue de la Gare  26410 Châtillon-en-Diois",
@@ -29393,6 +29754,7 @@ export const merchant = {
             "c94c4c55-8225-4cfd-9",
             "aa043fb5-5d63-4f30-9",
         ],
+        zipcode: "26 Drôme",
     },
     Gayral: {
         Address: " Gayral Pont du Fossé  05260 Saint-Jean-Saint-Nicolas",
@@ -29483,6 +29845,7 @@ export const merchant = {
             "87b16858-c0c5-4666-a",
             "4f568df1-b9f2-4643-9",
         ],
+        zipcode: "05 Hautes-Alpes",
     },
     "Bio-Jardin": {
         Address: " Bio-Jardin Le LiouR.N. 94 - Baratier  05200 Embrun",
@@ -29567,6 +29930,7 @@ export const merchant = {
             "8a10450c-83b4-4936-9",
             "eca59891-d8d6-4352-8",
         ],
+        zipcode: "05 Hautes-Alpes",
     },
     "Fruit des abeilles": {
         Address: ' Fruit des abeilles "le vieux chalet"38 Route de chalvet  05200 Embrun',
@@ -29634,6 +29998,7 @@ export const merchant = {
             "759b2411-41da-4ff0-a",
             "de3488bb-0d6a-4d20-a",
         ],
+        zipcode: "05 Hautes-Alpes",
     },
     "Les Ruches d'Orcières": {
         Address: " Les Ruches d'Orcières Bousensayes  05170 Orcières",
@@ -29702,6 +30067,7 @@ export const merchant = {
             "7e64c21e-245e-478e-8",
             "eca59891-d8d6-4352-8",
         ],
+        zipcode: "05 Hautes-Alpes",
     },
     "Sorbet Vagabond": {
         Address: " Sorbet Vagabond Château Bas  38710 Tréminis",
@@ -29784,6 +30150,7 @@ export const merchant = {
             "cc2d474b-f84f-43e1-b",
             "06a50824-d55c-4f03-9",
         ],
+        zipcode: "38 Isère",
     },
     "Brasserie du Trièves": {
         Address: " Brasserie du Trièves Place du Vercors  38710 Mens",
@@ -29858,6 +30225,7 @@ export const merchant = {
             "b5d4a6a6-7131-40e8-8",
             "6e4f5183-64ca-4ac7-b",
         ],
+        zipcode: "38 Isère",
     },
     Plantamarine: {
         Address: " Plantamarine Ferme des Trois Cols  38930 Le Monestier-du-Percy",
@@ -29925,6 +30293,7 @@ export const merchant = {
             "aa043fb5-5d63-4f30-9",
             "f1e7292a-ceea-4afc-9",
         ],
+        zipcode: "38 Isère",
     },
     "Les Mille Verts": {
         Address: " Les Mille Verts Le Villard  05290 Vallouise",
@@ -29997,6 +30366,7 @@ export const merchant = {
             "f048f2f9-ac5a-4aba-8",
             "03858e30-7f99-4f75-8",
         ],
+        zipcode: "05 Hautes-Alpes",
     },
     "Ferme du Mont Inaccessible/Banchet": {
         Address: " Ferme du Mont Inaccessible/Banchet Trezanne  38930 Saint-Martin-de-Clelles",
@@ -30073,6 +30443,7 @@ export const merchant = {
             "a4adc1fd-b35f-4161-a",
             "8d7ee3fc-7f50-44f7-9",
         ],
+        zipcode: "38 Isère",
     },
     "GAEC de FUGIERES": {
         Address: " GAEC de FUGIERES 2535 route du tabor, fugieres  38350 Saint-Honoré",
@@ -30138,6 +30509,7 @@ export const merchant = {
             "1793c3d4-5912-43b2-9",
             "c4342434-5448-4946-a",
         ],
+        zipcode: "38 Isère",
     },
     "La Ferme du Bez": {
         Address: " La Ferme du Bez La Ferme du Bez  26410 Saint-Roman",
@@ -30202,6 +30574,7 @@ export const merchant = {
             "d0533766-d7de-4150-a",
             "aa043fb5-5d63-4f30-9",
         ],
+        zipcode: "26 Drôme",
     },
     "Terre du Vallon": {
         Address: " Terre du Vallon Chemin de Chapias  26150 Die",
@@ -30262,6 +30635,7 @@ export const merchant = {
             "ffab0110-b9fc-4c63-8",
             "03858e30-7f99-4f75-8",
         ],
+        zipcode: "26 Drôme",
     },
     "AMBIX DISTILLATION": {
         Address: " AMBIX DISTILLATION 21 CH DU BOIS DE CORNAGE  38220 Vizille",
@@ -30348,6 +30722,7 @@ export const merchant = {
             "7a484fe0-2195-4c56-8",
             "9c5f42f1-dee6-49f4-a",
         ],
+        zipcode: "38 Isère",
     },
     "Lumière du Soleil": {
         Address: " Lumière du Soleil Qua Pierre Grosse  26150 Ponet-et-Saint-Auban",
@@ -30415,6 +30790,7 @@ export const merchant = {
             "543d0fef-a76d-4cb0-8",
             "dfe5e7c0-f350-4630-8",
         ],
+        zipcode: "26 Drôme",
     },
     Canola: {
         Address: " Canola 933 chemin des Roux  38410 Vaulnaveys-le-Haut",
@@ -30494,6 +30870,7 @@ export const merchant = {
             "759b2411-41da-4ff0-a",
             "d2f7c482-c3c4-4026-9",
         ],
+        zipcode: "38 Isère",
     },
     "GAEC d'Allicoud": {
         Address: " GAEC d'Allicoud 54 chemin du murier  38410 Saint-Martin-d'Uriage",
@@ -30566,6 +30943,7 @@ export const merchant = {
             "e9e7635a-77a7-438a-9",
             "4f568df1-b9f2-4643-9",
         ],
+        zipcode: "38 Isère",
     },
     "Oda Schmidt et Jochen Haun": {
         Address: " Oda Schmidt et Jochen Haun Les Tourettes  26150 Vachères-en-Quint",
@@ -30640,6 +31018,7 @@ export const merchant = {
             "7b25a8a8-cf6b-4d9e-a",
             "b74dbdd4-0c27-4d1a-a",
         ],
+        zipcode: "26 Drôme",
     },
     "Viva l'Abeille": {
         Address: " Viva l'Abeille 29 bis rue Normandie Niemen  38400 Saint-Martin-d'Hères",
@@ -30699,6 +31078,7 @@ export const merchant = {
             "e90c828b-b2ab-4e21-8",
             "87b16858-c0c5-4666-a",
         ],
+        zipcode: "38 Isère",
     },
     "Les Balcons de la Drome": {
         Address: " Les Balcons de la Drome Le Château  26340 Aubenasson",
@@ -30769,6 +31149,7 @@ export const merchant = {
             "3f60be62-8517-47d0-8",
             "dacbc345-dff3-4de7-8",
         ],
+        zipcode: "26 Drôme",
     },
     "Laurent Deshayes": {
         Address: " Laurent Deshayes Le Deves  26460 Mornans",
@@ -30838,6 +31219,7 @@ export const merchant = {
             "7b033df4-ddb8-4c37-8",
             "5fefc504-b99b-4bd7-b",
         ],
+        zipcode: "26 Drôme",
     },
     Zingaran: {
         Address: " Zingaran Hameau de l'Hauche  26460 Truinas",
@@ -30897,6 +31279,7 @@ export const merchant = {
             "1793c3d4-5912-43b2-9",
             "b9180f81-3ba1-4b3e-8",
         ],
+        zipcode: "26 Drôme",
     },
     "Les Pains du Vercors": {
         Address: " Les Pains du Vercors 110 chemin de dedain dessus  38880 Autrans",
@@ -30964,6 +31347,7 @@ export const merchant = {
             "549c6436-a053-4fc2-8",
             "b7691b68-ea95-4e2d-b",
         ],
+        zipcode: "38 Isère",
     },
     "Thierry Salavin": {
         Address: " Thierry Salavin 8 bis route de Grenoble  38120 Saint-Égrève",
@@ -31035,6 +31419,7 @@ export const merchant = {
             "d99fb42a-66f0-43b8-9",
             "03858e30-7f99-4f75-8",
         ],
+        zipcode: "38 Isère",
     },
     "La Ferme de Baume Rousse": {
         Address: " La Ferme de Baume Rousse La Ferme de Baume Rousse  26400 Cobonne",
@@ -31109,6 +31494,7 @@ export const merchant = {
             "b0df27cd-ce20-43e6-9",
             "cc098c88-7763-4ed9-a",
         ],
+        zipcode: "26 Drôme",
     },
     "Façon Chocolat": {
         Address: " Façon Chocolat 32 rue Archinard  26400 Crest",
@@ -31175,6 +31561,7 @@ export const merchant = {
             "ee4f8799-d969-446f-a",
             "fbf9e7ff-bed3-4d29-a",
         ],
+        zipcode: "26 Drôme",
     },
     "Stéphane Chauplannaz": {
         Address: " Stéphane Chauplannaz Lauberge  26400 Divajeu",
@@ -31253,6 +31640,7 @@ export const merchant = {
             "3b3d794c-4b1b-4bfd-8",
             "87b16858-c0c5-4666-a",
         ],
+        zipcode: "26 Drôme",
     },
     "la grange aux confitures": {
         Address: " la grange aux confitures las Ziouzoulos  06420 Isola",
@@ -31337,6 +31725,7 @@ export const merchant = {
             "384a005f-f399-48c7-a",
             "de3488bb-0d6a-4d20-a",
         ],
+        zipcode: "06 Alpes-Maritimes",
     },
     "Voyage en Saveurs": {
         Address: " Voyage en Saveurs ZA Brunelle Parc Ecosite  26400 Eurre",
@@ -31430,6 +31819,7 @@ export const merchant = {
             "bc115352-fc0c-4010-8",
             "1e1da486-4433-4962-a",
         ],
+        zipcode: "26 Drôme",
     },
     "ZENOLEA Huilerie et Savonnerie du Vercors": {
         Address: " ZENOLEA Huilerie et Savonnerie du Vercors 670 CHEMIN DU GIRARD 38160 CHATTE  38160 Chatte",
@@ -31517,6 +31907,7 @@ export const merchant = {
             "6fc014e9-33c1-4dff-a",
             "ed416075-44d1-4b9c-a",
         ],
+        zipcode: "38 Isère",
     },
     "Lou Cayou": {
         Address: " Lou Cayou 1325 Chemin Les Près Nouveaux  26450 Roynac",
@@ -31602,6 +31993,7 @@ export const merchant = {
             "ddad5d6c-fb1c-4a78-b",
             "2c74ba62-616c-4428-8",
         ],
+        zipcode: "26 Drôme",
     },
     "Cyril Meyer-Guenego": {
         Address: " Cyril Meyer-Guenego Allée de la chapelle  38470 Notre-Dame-de-l'Osier",
@@ -31680,6 +32072,7 @@ export const merchant = {
             "fbf9e7ff-bed3-4d29-a",
             "65e22731-e95e-42dc-8",
         ],
+        zipcode: "38 Isère",
     },
     "Petits pois, carottes et compagnie": {
         Address: " Petits pois, carottes et compagnie Promenade de la Chapelle  38470 Notre-Dame-de-l'Osier",
@@ -31794,6 +32187,7 @@ export const merchant = {
             "c2c4c5fc-56b5-43f1-9",
             "7b033df4-ddb8-4c37-8",
         ],
+        zipcode: "38 Isère",
     },
     "Les ruches de Chambaran": {
         Address: " Les ruches de Chambaran 2835 route de Lyon  38160 Chevrières",
@@ -31867,6 +32261,7 @@ export const merchant = {
             "cddb0b52-c5a4-4ea0-9",
             "6fc014e9-33c1-4dff-a",
         ],
+        zipcode: "38 Isère",
     },
     "La Ferme du Revollet": {
         Address: " La Ferme du Revollet 501 route de Vinay  38470 Vatilieu",
@@ -31944,6 +32339,7 @@ export const merchant = {
             "8f4accb7-efd2-4723-b",
             "4907e1bc-054e-4c86-a",
         ],
+        zipcode: "38 Isère",
     },
     "Les biquettes du laga": {
         Address: " Les biquettes du laga 430 chemin de laga  26160 Saint-Gervais-sur-Roubion",
@@ -32023,6 +32419,7 @@ export const merchant = {
             "1793c3d4-5912-43b2-9",
             "c4342434-5448-4946-a",
         ],
+        zipcode: "26 Drôme",
     },
     "didier Julian Volailles et animaux d'ornement": {
         Address: " didier Julian Volailles et animaux d'ornement Route de la Morge  38430 Moirans",
@@ -32085,6 +32482,7 @@ export const merchant = {
             "e90c828b-b2ab-4e21-8",
             "8b272777-8d25-4c4f-a",
         ],
+        zipcode: "38 Isère",
     },
     "Didier Julian Volailles": {
         Address: " Didier Julian Volailles Moirans , 38430  38430 Moirans",
@@ -32159,6 +32557,7 @@ export const merchant = {
             "6e4f5183-64ca-4ac7-b",
             "01e715e3-83b0-4b1e-a",
         ],
+        zipcode: "38 Isère",
     },
     "Ferme du Roubion": {
         Address: " Ferme du Roubion 135 route de Cléon  26160 Bonlieu-sur-Roubion",
@@ -32227,6 +32626,7 @@ export const merchant = {
             "c2c883b4-8522-4368-9",
             "e90c828b-b2ab-4e21-8",
         ],
+        zipcode: "26 Drôme",
     },
     "Ferme des Volonteux": {
         Address:
@@ -32372,6 +32772,7 @@ export const merchant = {
             "8f66ceee-bc5a-44d0-8",
             "5420097f-6604-43c7-b",
         ],
+        zipcode: "26 Drôme",
     },
     "earl milhan": {
         Address: " earl milhan 900 chemin de la boulinarde beaumont les valence  26760 Beaumont-lès-Valence",
@@ -32463,6 +32864,7 @@ export const merchant = {
             "3a39c336-0c27-4dd3-a",
             "c4342434-5448-4946-a",
         ],
+        zipcode: "26 Drôme",
     },
     "Coccinelle de REV": {
         Address: " Coccinelle de REV 225 Chemin de Boisse  26160 Rochefort-en-Valdaine",
@@ -32530,6 +32932,7 @@ export const merchant = {
             "0b94923b-010a-46ed-8",
             "ffab0110-b9fc-4c63-8",
         ],
+        zipcode: "26 Drôme",
     },
     "Cosmétiques Petit Péché Mignon": {
         Address: " Cosmétiques Petit Péché Mignon Béranger  73440 Saint-Martin-de-Belleville",
@@ -32592,6 +32995,7 @@ export const merchant = {
             "8b7e6d8a-0a39-4dbf-9",
             "e2f4e147-af76-48dd-8",
         ],
+        zipcode: "73 Savoie",
     },
     "EARL La ferme de Serpolet": {
         Address: " EARL La ferme de Serpolet Rue de la Patache  26750 Saint-Michel-sur-Savasse",
@@ -32724,6 +33128,7 @@ export const merchant = {
             "f1e7292a-ceea-4afc-9",
             "6fc014e9-33c1-4dff-a",
         ],
+        zipcode: "26 Drôme",
     },
     "Jean-Louis Puggeri": {
         Address: " Jean-Louis Puggeri Chemin de CrémâtLa Raiola  06000 Nice",
@@ -32799,6 +33204,7 @@ export const merchant = {
             "e095d8c7-5da9-4945-8",
             "bf29f45a-4db5-4f10-9",
         ],
+        zipcode: "06 Alpes-Maritimes",
     },
     "Ferme de la Sousta": {
         Address: " Ferme de la Sousta 832, chemin des pins  06390 Contes",
@@ -32909,6 +33315,7 @@ export const merchant = {
             "384a005f-f399-48c7-a",
             "149306aa-d693-4c27-8",
         ],
+        zipcode: "06 Alpes-Maritimes",
     },
     "Hervé et Anne Guerault": {
         Address: " Hervé et Anne Guerault 131 chemin de la colle Moulin  06140 Tourrettes-sur-Loup",
@@ -32986,6 +33393,7 @@ export const merchant = {
             "19873dc7-c2ae-4cda-9",
             "04e83ced-0f17-4ee1-8",
         ],
+        zipcode: "06 Alpes-Maritimes",
     },
     "Jacqueline Belino": {
         Address: " Jacqueline Belino 3105 chemin Saint-Pancrace  06440 L'Escarène",
@@ -33077,6 +33485,7 @@ export const merchant = {
             "bc115352-fc0c-4010-8",
             "23443798-59fb-44ed-9",
         ],
+        zipcode: "06 Alpes-Maritimes",
     },
     "Antonin Streitz domaine de Peyrebelle": {
         Address: " Antonin Streitz domaine de Peyrebelle 880 chemin de Peyrebelle  06560 Valbonne",
@@ -33134,6 +33543,7 @@ export const merchant = {
             "79074497-38b2-43cd-8",
             "48767ad2-65f9-40f0-9",
         ],
+        zipcode: "06 Alpes-Maritimes",
     },
     "Serge et Martha Toscan Chiaramonti": {
         Address: " Serge et Martha Toscan Chiaramonti 2067 route de la Condamine  06500 Castellar",
@@ -33196,6 +33606,7 @@ export const merchant = {
             "cddb0b52-c5a4-4ea0-9",
             "10e49dd4-0650-4fec-a",
         ],
+        zipcode: "06 Alpes-Maritimes",
     },
     "Lenoir Azur Spiruline": {
         Address: " Lenoir Azur Spiruline Chemin de la plaine de Laval  06400 Cannes",
@@ -33264,6 +33675,7 @@ export const merchant = {
             "152b105a-1c6e-41af-9",
             "05149104-8e5d-4b5c-9",
         ],
+        zipcode: "06 Alpes-Maritimes",
     },
     "Les Senteurs du Clau": {
         Address: " Les Senteurs du Clau Route d'Utelle  06420 La Tour",
@@ -33344,6 +33756,7 @@ export const merchant = {
             "fbf9e7ff-bed3-4d29-a",
             "60f37375-dd24-4f11-8",
         ],
+        zipcode: "06 Alpes-Maritimes",
     },
     "Domaine de la Chapelle Saint-Jérôme": {
         Address: " Domaine de la Chapelle Saint-Jérôme Piène Haute  06540 Breil-sur-Roya",
@@ -33422,6 +33835,7 @@ export const merchant = {
             "506e16b4-8410-462a-b",
             "3098e3a6-5647-4515-a",
         ],
+        zipcode: "06 Alpes-Maritimes",
     },
     "Alex Actis": {
         Address: " Alex Actis Le Counigou  06450 Roquebillière",
@@ -33492,6 +33906,7 @@ export const merchant = {
             "7b25a8a8-cf6b-4d9e-a",
             "aa043fb5-5d63-4f30-9",
         ],
+        zipcode: "06 Alpes-Maritimes",
     },
     "Au verger saint Joseph": {
         Address: " Au verger saint Joseph Boutique Sarah et Nicolas Allées de Verdun  06450 Saint-Martin-Vésubie",
@@ -33606,6 +34021,7 @@ export const merchant = {
             "7b38ec3f-2e07-4a55-b",
             "4907e1bc-054e-4c86-a",
         ],
+        zipcode: "06 Alpes-Maritimes",
     },
     "Les fruits du Vernat": {
         Address: " Les fruits du Vernat 588, route du Vernat  42520 Saint-Appolinard",
@@ -33674,6 +34090,7 @@ export const merchant = {
             "c3f1eb23-18d2-4bfb-a",
             "f3b4d95b-1a0f-483f-b",
         ],
+        zipcode: "42 Loire",
     },
     "La Ferme aux Mille Fruits": {
         Address: " La Ferme aux Mille Fruits Chorée  42520 Maclas",
@@ -33745,6 +34162,7 @@ export const merchant = {
             "bbccb762-fae3-422a-a",
             "3098e3a6-5647-4515-a",
         ],
+        zipcode: "42 Loire",
     },
     "Les Doux Jardins du Vivarais": {
         Address: " Les Doux Jardins du Vivarais 270 chemin de la garenne  07410 Colombier-le-Vieux",
@@ -33805,6 +34223,7 @@ export const merchant = {
             "b13e083d-adf6-4063-a",
             "bde41646-af09-4815-9",
         ],
+        zipcode: "07 Ardèche",
     },
     "Maud Damiron": {
         Address: " Maud Damiron Chenevière  07520 Saint-Pierre-sur-Doux",
@@ -33882,6 +34301,7 @@ export const merchant = {
             "7961c730-e82f-43b6-9",
             "de3488bb-0d6a-4d20-a",
         ],
+        zipcode: "07 Ardèche",
     },
     "EARL DUCAPRE": {
         Address: " EARL DUCAPRE 1525 route de chanareille le pré  07270 Empurany",
@@ -33957,6 +34377,7 @@ export const merchant = {
             "fbdde269-2737-4949-b",
             "c5ba7716-f287-4d5c-9",
         ],
+        zipcode: "07 Ardèche",
     },
     "Pascal et Sylvie Raunicher": {
         Address: " Pascal et Sylvie Raunicher Mazairas  07440 Saint-Sylvestre",
@@ -34028,6 +34449,7 @@ export const merchant = {
             "d17f0be6-4007-4c18-9",
             "8b272777-8d25-4c4f-a",
         ],
+        zipcode: "07 Ardèche",
     },
     "Les martopiqueuses": {
         Address: " Les martopiqueuses le village  07440 Saint-Sylvestre",
@@ -34097,6 +34519,7 @@ export const merchant = {
             "23da6431-ee11-4994-9",
             "b7691b68-ea95-4e2d-b",
         ],
+        zipcode: "07 Ardèche",
     },
     "AU JARDIN DE LAURENT": {
         Address: " AU JARDIN DE LAURENT 4305 ROUTE DE LA VALLEE  26260 Saint-Bardoux",
@@ -34112,7 +34535,6 @@ export const merchant = {
             "panais",
             "oignon",
             "navet",
-            "",
             "mâche",
             "légumes",
             "haricot vert",
@@ -34224,6 +34646,7 @@ export const merchant = {
             "859f8042-833e-4975-b",
             "c5ba7716-f287-4d5c-9",
         ],
+        zipcode: "26 Drôme",
     },
     "La ferme de chazal": {
         Address: " La ferme de chazal Chazal  07130 Châteaubourg",
@@ -34284,6 +34707,7 @@ export const merchant = {
             "c2c883b4-8522-4368-9",
             "cd15077f-c259-43f9-8",
         ],
+        zipcode: "07 Ardèche",
     },
     "Vert chez-soi": {
         Address: " Vert chez-soi 5, impasse du sonneur  26600 Pont-de-l'Isère",
@@ -34345,6 +34769,7 @@ export const merchant = {
             "79914759-3338-4b70-a",
             "02e9bba2-17cc-4d4a-8",
         ],
+        zipcode: "26 Drôme",
     },
     "GAEC NERVY WEST": {
         Address: " GAEC NERVY WEST 185 chemin de nervy  07130 Saint-Romain-de-Lerps",
@@ -34428,6 +34853,7 @@ export const merchant = {
             "b74dbdd4-0c27-4d1a-a",
             "78b8d2d1-eb3e-4f1f-9",
         ],
+        zipcode: "07 Ardèche",
     },
     "Souk et délices": {
         Address: " Souk et délices 1005 Chemin de la Traverse 26600 Beaumont-Monteux  26600 Beaumont-Monteux",
@@ -34509,6 +34935,7 @@ export const merchant = {
             "7c22e737-1de8-4697-9",
             "c5ba7716-f287-4d5c-9",
         ],
+        zipcode: "26 Drôme",
     },
     "SARL LES DELICES": {
         Address: " SARL LES DELICES 450 RUE DES MONTS DU MATIN  26300 Châteauneuf-sur-Isère",
@@ -34609,6 +35036,7 @@ export const merchant = {
             "7b38ec3f-2e07-4a55-b",
             "e25e4e34-2441-4451-b",
         ],
+        zipcode: "26 Drôme",
     },
     "GAEC LA PETITE FERME": {
         Address: " GAEC LA PETITE FERME Les chalayes  07320 Saint-Agrève",
@@ -34715,6 +35143,7 @@ export const merchant = {
             "9235d007-7289-43f1-8",
             "4f568df1-b9f2-4643-9",
         ],
+        zipcode: "07 Ardèche",
     },
     "Manou des Champs": {
         Address: " Manou des Champs Meillères  07440 Boffres",
@@ -34793,6 +35222,7 @@ export const merchant = {
             "10e49dd4-0650-4fec-a",
             "de3488bb-0d6a-4d20-a",
         ],
+        zipcode: "07 Ardèche",
     },
     "Du Tout un Tout": {
         Address: " Du Tout un Tout Mounier  07240 Châteauneuf-de-Vernoux",
@@ -34872,6 +35302,7 @@ export const merchant = {
             "47cb3bde-2655-459d-8",
             "aa043fb5-5d63-4f30-9",
         ],
+        zipcode: "07 Ardèche",
     },
     "La Ferme du Pin": {
         Address: " La Ferme du Pin Chemin du Pin26000 VALENCE  26000 Valence",
@@ -34980,6 +35411,7 @@ export const merchant = {
             "c3f1eb23-18d2-4bfb-a",
             "3a3c518e-01ec-43ff-b",
         ],
+        zipcode: "26 Drôme",
     },
     "Le Mas de l'Ane": {
         Address: " Le Mas de l'Ane Grand Champ  43590 Beauzac",
@@ -35058,6 +35490,7 @@ export const merchant = {
             "58f2388c-539c-48f0-9",
             "33a93d59-5719-48de-8",
         ],
+        zipcode: "43 Haute-Loire",
     },
     "Medhi Dewez": {
         Address: " Medhi Dewez Le Village  07360 Saint-Michel-de-Chabrillanoux",
@@ -35133,6 +35566,7 @@ export const merchant = {
             "cc2d474b-f84f-43e1-b",
             "06a50824-d55c-4f03-9",
         ],
+        zipcode: "07 Ardèche",
     },
     "Miel du Vivarais": {
         Address: " Miel du Vivarais Roubuols  07190 Gluiras",
@@ -35208,6 +35642,7 @@ export const merchant = {
             "a4adc1fd-b35f-4161-a",
             "9c559e1b-e467-4f03-8",
         ],
+        zipcode: "07 Ardèche",
     },
     "Ferme des Plaines": {
         Address: " Ferme des Plaines Les Plaines  07360 Dunière-sur-Eyrieux",
@@ -35285,6 +35720,7 @@ export const merchant = {
             "4366aa2b-790b-4b12-b",
             "7961c730-e82f-43b6-9",
         ],
+        zipcode: "07 Ardèche",
     },
     "François Rolle": {
         Address: " François Rolle Ferme des Moyeres  07190 Saint-Pierreville",
@@ -35367,6 +35803,7 @@ export const merchant = {
             "7b033df4-ddb8-4c37-8",
             "87b16858-c0c5-4666-a",
         ],
+        zipcode: "07 Ardèche",
     },
     "Jardin de la Tortue": {
         Address: " Jardin de la Tortue Lieu-dit Tiboulet  43260 Montusclat",
@@ -35440,6 +35877,7 @@ export const merchant = {
             "d99fb42a-66f0-43b8-9",
             "6fc014e9-33c1-4dff-a",
         ],
+        zipcode: "43 Haute-Loire",
     },
     "Ferme des Sicadières": {
         Address: " Ferme des Sicadières Le Tranchat  07190 Saint-Étienne-de-Serre",
@@ -35515,6 +35953,7 @@ export const merchant = {
             "f589e365-ba31-4516-b",
             "bb38c461-eb40-441d-8",
         ],
+        zipcode: "07 Ardèche",
     },
     "Ferme des Cailloux": {
         Address: " Ferme des Cailloux Le Chier  07190 Saint-Étienne-de-Serre",
@@ -35594,6 +36033,7 @@ export const merchant = {
             "5d760ab3-7fd5-4645-8",
             "5e0f317c-dfc1-4eaa-9",
         ],
+        zipcode: "07 Ardèche",
     },
     "De la Graine aux Paniers": {
         Address: " De la Graine aux Paniers Lieu-dit la Bourange  43130 Retournac",
@@ -35662,6 +36102,7 @@ export const merchant = {
             "4907e1bc-054e-4c86-a",
             "1bb9f5e6-3d13-45b7-b",
         ],
+        zipcode: "43 Haute-Loire",
     },
     "De la Cabrette": {
         Address: " De la Cabrette Les Chaumettes  43130 Retournac",
@@ -35738,6 +36179,7 @@ export const merchant = {
             "bde41646-af09-4815-9",
             "eca59891-d8d6-4352-8",
         ],
+        zipcode: "43 Haute-Loire",
     },
     "Jardins de l'Herm - Joris Duclaut": {
         Address: " Jardins de l'Herm - Joris Duclaut L'herm  43200 Le Pertuis",
@@ -35847,6 +36289,7 @@ export const merchant = {
             "10e49dd4-0650-4fec-a",
             "05d79170-b4de-4329-a",
         ],
+        zipcode: "43 Haute-Loire",
     },
     "les huiles essentielles de Cherchebrot": {
         Address: " les huiles essentielles de Cherchebrot lieu dit Cherchebrot  43530 Tiranges",
@@ -35922,6 +36365,7 @@ export const merchant = {
             "af34ed7d-4e63-4b0a-9",
             "149306aa-d693-4c27-8",
         ],
+        zipcode: "43 Haute-Loire",
     },
     "Laurent Bonnier et Miloslawa Wyborska-Bonnier": {
         Address: " Laurent Bonnier et Miloslawa Wyborska-Bonnier Le Baumas  07000 Lyas",
@@ -36000,6 +36444,7 @@ export const merchant = {
             "c3f1eb23-18d2-4bfb-a",
             "7e64c21e-245e-478e-8",
         ],
+        zipcode: "07 Ardèche",
     },
     Biofloral: {
         Address: " Biofloral Les Jardins d'EspaladousLe Crouzet  43260 Saint-Pierre-Eynac",
@@ -36062,6 +36507,7 @@ export const merchant = {
             "e12bc812-b9a7-4053-8",
             "9235d007-7289-43f1-8",
         ],
+        zipcode: "43 Haute-Loire",
     },
     "Carle Fruit Nature": {
         Address: " Carle Fruit Nature St Martin  26270 Loriol-sur-Drôme",
@@ -36136,6 +36582,7 @@ export const merchant = {
             "1e865792-8632-4a4f-9",
             "6fc014e9-33c1-4dff-a",
         ],
+        zipcode: "26 Drôme",
     },
     "Sébastien Vandevyver": {
         Address: " Sébastien Vandevyver Le VillageLa Calade du Pont  07000 Coux",
@@ -36200,6 +36647,7 @@ export const merchant = {
             "451e9a52-6dd8-46f7-a",
             "ec20d22a-f711-4320-9",
         ],
+        zipcode: "07 Ardèche",
     },
     "Olivier Lantoine": {
         Address: " Olivier Lantoine Quartier des Groussons  07000 Gourdon",
@@ -36286,6 +36734,7 @@ export const merchant = {
             "a30edda6-3250-4771-b",
             "bf29f45a-4db5-4f10-9",
         ],
+        zipcode: "07 Ardèche",
     },
     "La Voreysienne": {
         Address: " La Voreysienne vertaure  43800 Vorey",
@@ -36360,6 +36809,7 @@ export const merchant = {
             "8a10450c-83b4-4936-9",
             "d99fb42a-66f0-43b8-9",
         ],
+        zipcode: "43 Haute-Loire",
     },
     "Le Chevrou": {
         Address: " Le Chevrou 32 route des Côtes  43800 Vorey",
@@ -36435,6 +36885,7 @@ export const merchant = {
             "a6e6536b-3121-4ba6-a",
             "b7691b68-ea95-4e2d-b",
         ],
+        zipcode: "43 Haute-Loire",
     },
     alix: {
         Address: " alix foisse  07510 Sainte-Eulalie",
@@ -36494,6 +36945,7 @@ export const merchant = {
             "e96f08ed-0ba7-4150-9",
             "bb38c461-eb40-441d-8",
         ],
+        zipcode: "07 Ardèche",
     },
     "Domaine de la Balan": {
         Address: " Domaine de la Balan 340 Chemin de la Vernade  07200 Saint-Étienne-de-Boulogne",
@@ -36556,6 +37008,7 @@ export const merchant = {
             "270076d2-0756-424e-8",
             "5087ddb9-7ea3-450d-b",
         ],
+        zipcode: "07 Ardèche",
     },
     "David Chalendard": {
         Address: " David Chalendard Vialette  43350 Saint-Paulien",
@@ -36621,6 +37074,7 @@ export const merchant = {
             "4238ed95-916f-477f-8",
             "195889a6-9c42-4630-9",
         ],
+        zipcode: "43 Haute-Loire",
     },
     "Alex et Camille Ristori": {
         Address: " Alex et Camille Ristori La Rabeyrie  07380 Chirols",
@@ -36692,6 +37146,7 @@ export const merchant = {
             "e2f4e147-af76-48dd-8",
             "05d79170-b4de-4329-a",
         ],
+        zipcode: "07 Ardèche",
     },
     "Simples et Sauvages": {
         Address: " Simples et Sauvages chemin des écoliers, le village  07380 Chirols",
@@ -36759,6 +37214,7 @@ export const merchant = {
             "855d0ac2-cdc0-4934-b",
             "b96a8dd9-37fc-4934-b",
         ],
+        zipcode: "07 Ardèche",
     },
     "Mélisse & Farandole": {
         Address: " Mélisse & Farandole le fez  07380 Chirols",
@@ -36851,6 +37307,7 @@ export const merchant = {
             "b7691b68-ea95-4e2d-b",
             "759b2411-41da-4ff0-a",
         ],
+        zipcode: "07 Ardèche",
     },
     "LES RESTANQUES JARDIN NATUREL": {
         Address: " LES RESTANQUES JARDIN NATUREL VILLAGE DE CHAMPAGNE  07380 Meyras",
@@ -36922,6 +37379,7 @@ export const merchant = {
             "bf29f45a-4db5-4f10-9",
             "149306aa-d693-4c27-8",
         ],
+        zipcode: "07 Ardèche",
     },
     "Le Potager Rustique": {
         Address: " Le Potager Rustique Taverne  07380 Prades",
@@ -36988,6 +37446,7 @@ export const merchant = {
             "7a484fe0-2195-4c56-8",
             "cd15077f-c259-43f9-8",
         ],
+        zipcode: "07 Ardèche",
     },
     "Cyril et Julie Morel": {
         Address: " Cyril et Julie Morel La Beaume  07580 Saint-Jean-le-Centenier",
@@ -37059,6 +37518,7 @@ export const merchant = {
             "87204ba0-b4d8-48bf-b",
             "bedd30a4-f294-40ea-b",
         ],
+        zipcode: "07 Ardèche",
     },
     "Le Rucher Des Roudils": {
         Address: " Le Rucher Des Roudils Les Roudils  07380 Jaujac",
@@ -37150,6 +37610,7 @@ export const merchant = {
             "d006b89c-9b74-4c39-9",
             "bae17232-9736-427a-b",
         ],
+        zipcode: "07 Ardèche",
     },
     "Les Jardins du Rozier": {
         Address: " Les Jardins du Rozier 94 route d'Espeluche.  26200 Montélimar",
@@ -37255,6 +37716,7 @@ export const merchant = {
             "3098e3a6-5647-4515-a",
             "03858e30-7f99-4f75-8",
         ],
+        zipcode: "26 Drôme",
     },
     "La Ferme des Mellys": {
         Address: " La Ferme des Mellys Baffour  43160 La Chaise-Dieu",
@@ -37323,6 +37785,7 @@ export const merchant = {
             "05149104-8e5d-4b5c-9",
             "24d72e4a-7dbc-4312-9",
         ],
+        zipcode: "43 Haute-Loire",
     },
     "Les Ruches du Haut-Allier": {
         Address: " Les Ruches du Haut-Allier Lachaud-Curmilhac  43300 Vissac-Auteyrac",
@@ -37402,6 +37865,7 @@ export const merchant = {
             "f1e7292a-ceea-4afc-9",
             "d0c32817-0265-401d-8",
         ],
+        zipcode: "43 Haute-Loire",
     },
     "La Source Distillerie": {
         Address: " La Source Distillerie Nermond  42920 Chalmazel",
@@ -37479,6 +37943,7 @@ export const merchant = {
             "2b8be3bb-0821-4c45-b",
             "d2f7c482-c3c4-4026-9",
         ],
+        zipcode: "42 Loire",
     },
     "Joel Clavel": {
         Address: " Joel Clavel Lieu-dit Rilhac  43300 Siaugues-Sainte-Marie",
@@ -37562,6 +38027,7 @@ export const merchant = {
             "dc095690-84b8-4827-8",
             "859f8042-833e-4975-b",
         ],
+        zipcode: "43 Haute-Loire",
     },
     "Mas de la Begude": {
         Address: " Mas de la Begude Les Sallèles  07170 Saint-Maurice-d'Ibie",
@@ -37641,6 +38107,7 @@ export const merchant = {
             "f048f2f9-ac5a-4aba-8",
             "04e83ced-0f17-4ee1-8",
         ],
+        zipcode: "07 Ardèche",
     },
     "Les Faysses de Coucoulude": {
         Address: " Les Faysses de Coucoulude Maison de pays Le Village07110 VALGORGE  07110 Valgorge",
@@ -37742,6 +38209,7 @@ export const merchant = {
             "33a93d59-5719-48de-8",
             "10e49dd4-0650-4fec-a",
         ],
+        zipcode: "07 Ardèche",
     },
     "Hervé Roche": {
         Address: " Hervé Roche Ferme des Liorangues  63890 Le Monestier",
@@ -37809,6 +38277,7 @@ export const merchant = {
             "e96f08ed-0ba7-4150-9",
             "87b16858-c0c5-4666-a",
         ],
+        zipcode: "63 Puy-de-Dôme",
     },
     "Le Soleil du Mas": {
         Address: " Le Soleil du Mas Le Mas  63890 Grandval",
@@ -37869,6 +38338,7 @@ export const merchant = {
             "db5e6d62-5a18-4eb7-8",
             "f6b4f337-3d9f-4175-9",
         ],
+        zipcode: "63 Puy-de-Dôme",
     },
     "Miellerie des Délices au Miel - Apiculteur": {
         Address: " Miellerie des Délices au Miel - Apiculteur 345 impasse pied de Bert  26230 Roussas",
@@ -37938,6 +38408,7 @@ export const merchant = {
             "33a93d59-5719-48de-8",
             "d99fb42a-66f0-43b8-9",
         ],
+        zipcode: "26 Drôme",
     },
     "La Bourieto": {
         Address: " La Bourieto La Baffie  63630 Fayet-Ronaye",
@@ -38004,6 +38475,7 @@ export const merchant = {
             "9eaf1bfe-bf4d-4b89-9",
             "3412c0c5-7171-4876-8",
         ],
+        zipcode: "63 Puy-de-Dôme",
     },
     "Les jardins du Vialat": {
         Address: " Les jardins du Vialat Domaine du Vialat  07230 Lablachère",
@@ -38115,6 +38587,7 @@ export const merchant = {
             "ecb5b7cf-dc99-40d5-a",
             "43cd54a5-1a3c-4b7d-b",
         ],
+        zipcode: "07 Ardèche",
     },
     "La Chèvrerie de l'Hermet": {
         Address: " La Chèvrerie de l'Hermet L'Hermet Prévenchères  48250 La Bastide-Puylaurent",
@@ -38173,6 +38646,7 @@ export const merchant = {
             "530e2099-0912-4902-8",
             "f589e365-ba31-4516-b",
         ],
+        zipcode: "48 Lozère",
     },
     "La Ferme bio de Saint Bonnet": {
         Address: " La Ferme bio de Saint Bonnet Saint Bonnet de Montauroux  48600 Grandrieu",
@@ -38244,6 +38718,7 @@ export const merchant = {
             "549c6436-a053-4fc2-8",
             "8475e20f-195a-44b5-a",
         ],
+        zipcode: "48 Lozère",
     },
     "Edouard Mortier": {
         Address: " Edouard Mortier Lieu-dit Francon  43380 Aubazat",
@@ -38308,6 +38783,7 @@ export const merchant = {
             "87b16858-c0c5-4666-a",
             "b9180f81-3ba1-4b3e-8",
         ],
+        zipcode: "43 Haute-Loire",
     },
     "Fournil Au point levé": {
         Address: " Fournil Au point levé La Bellevue  43100 Vieille-Brioude",
@@ -38372,6 +38848,7 @@ export const merchant = {
             "33dfbc61-f130-4214-9",
             "98758375-ad4d-4c0e-8",
         ],
+        zipcode: "43 Haute-Loire",
     },
     "DUPONT Christine": {
         Address: " DUPONT Christine 52 Faubourg Sainte Geneviève  08210 Mouzon",
@@ -38434,6 +38911,7 @@ export const merchant = {
             "5fefc504-b99b-4bd7-b",
             "9235d007-7289-43f1-8",
         ],
+        zipcode: "08 Ardennes",
     },
     "Ferme Charton - La-viande-est-dans-le-pre.fr": {
         Address: " Ferme Charton - La-viande-est-dans-le-pre.fr Place du Temois  08210 Vaux-lès-Mouzon",
@@ -38506,6 +38984,7 @@ export const merchant = {
             "fbf9e7ff-bed3-4d29-a",
             "1793c3d4-5912-43b2-9",
         ],
+        zipcode: "08 Ardennes",
     },
     "Ferme de la Harnoterie": {
         Address: " Ferme de la Harnoterie Ferme de la Harnoterie  08210 Beaumont-en-Argonne",
@@ -38583,6 +39062,7 @@ export const merchant = {
             "6fc014e9-33c1-4dff-a",
             "9235d007-7289-43f1-8",
         ],
+        zipcode: "08 Ardennes",
     },
     "LE SAFRAN - L'Or Rouge des Ardennes": {
         Address: " LE SAFRAN - L'Or Rouge des Ardennes 7 LOTISSEMENT DE LA CHAPELLE  08110 Sailly",
@@ -38653,6 +39133,7 @@ export const merchant = {
             "9476276c-196f-4223-b",
             "b96a8dd9-37fc-4934-b",
         ],
+        zipcode: "08 Ardennes",
     },
     "Ferme des Lauriers": {
         Address: " Ferme des Lauriers 16 avenue Georges Clémenceau  08250 Montcheutin",
@@ -38725,6 +39206,7 @@ export const merchant = {
             "9455a6b4-7fa0-4bd6-a",
             "4907e1bc-054e-4c86-a",
         ],
+        zipcode: "08 Ardennes",
     },
     "HUSSON MIEL": {
         Address: " HUSSON MIEL 25 rue de la Saule  51800 Élise-Daucourt",
@@ -38801,6 +39283,7 @@ export const merchant = {
             "1fba8491-fc45-43bf-9",
             "f589e365-ba31-4516-b",
         ],
+        zipcode: "51 Marne",
     },
     "Earl de l'argonne": {
         Address:
@@ -38962,6 +39445,7 @@ export const merchant = {
             "6956b41f-dca7-491f-9",
             "dfce319d-1c0c-433b-8",
         ],
+        zipcode: "51 Marne",
     },
     Permabees: {
         Address: " Permabees 6 rue de la rigole  55400 Foameix-Ornel",
@@ -39033,6 +39517,7 @@ export const merchant = {
             "6e4f5183-64ca-4ac7-b",
             "5e0f317c-dfc1-4eaa-9",
         ],
+        zipcode: "55 Meuse",
     },
     "FERME MOINAUX": {
         Address: " FERME MOINAUX Ferme de la basseville  55400 Moulainville",
@@ -39099,6 +39584,7 @@ export const merchant = {
             "def9908b-aac6-44d0-9",
             "3b3d794c-4b1b-4bfd-8",
         ],
+        zipcode: "55 Meuse",
     },
     "Chèvrerie des Charmes": {
         Address: " Chèvrerie des Charmes 5 rue foch  54490 Xivry-Circourt",
@@ -39176,6 +39662,7 @@ export const merchant = {
             "02e9bba2-17cc-4d4a-8",
             "ed416075-44d1-4b9c-a",
         ],
+        zipcode: "54 Meurthe-et-Moselle",
     },
     "EI Latifundia Aromatica": {
         Address: " EI Latifundia Aromatica 15 rue du château  55250 Beausite",
@@ -39246,6 +39733,7 @@ export const merchant = {
             "0f88be4a-9867-4139-b",
             "d17f0be6-4007-4c18-9",
         ],
+        zipcode: "55 Meuse",
     },
     "Earl la Pierreuse": {
         Address: " Earl la Pierreuse 1rue Devant le Bois  57710 Aumetz",
@@ -39321,6 +39809,7 @@ export const merchant = {
             "264304ef-6607-4f4b-9",
             "d3528ce1-ba92-401a-b",
         ],
+        zipcode: "57 Moselle",
     },
     "Les délices des trois clochers": {
         Address: " Les délices des trois clochers 22 chemin du barriol  09100 Pamiers",
@@ -39395,6 +39884,7 @@ export const merchant = {
             "94da843f-6b8f-491d-a",
             "d2f7c482-c3c4-4026-9",
         ],
+        zipcode: "09 Ariège",
     },
     "SCEA de la Plume": {
         Address: " SCEA de la Plume Domaine La Plume  09100 Villeneuve-du-Paréage",
@@ -39486,6 +39976,7 @@ export const merchant = {
             "9235d007-7289-43f1-8",
             "c5ba7716-f287-4d5c-9",
         ],
+        zipcode: "09 Ariège",
     },
     "FERME DE LA MARGUE": {
         Address: " FERME DE LA MARGUE La Margue  09340 Verniolle",
@@ -39560,6 +40051,7 @@ export const merchant = {
             "6956b41f-dca7-491f-9",
             "bde41646-af09-4815-9",
         ],
+        zipcode: "09 Ariège",
     },
     "Ferme de Poutous": {
         Address: " Ferme de Poutous Ferme de Poutous  09340 Verniolle",
@@ -39622,6 +40114,7 @@ export const merchant = {
             "f3b4d95b-1a0f-483f-b",
             "3b3d794c-4b1b-4bfd-8",
         ],
+        zipcode: "09 Ariège",
     },
     "Tiffen Tolnay": {
         Address: " Tiffen Tolnay Las Tourrasses  09290 Gabre",
@@ -39700,6 +40193,7 @@ export const merchant = {
             "bae17232-9736-427a-b",
             "7cf85155-6fe6-478f-8",
         ],
+        zipcode: "09 Ariège",
     },
     "Will Wijnen et Ulrike Knopfli": {
         Address: " Will Wijnen et Ulrike Knopfli Barané  09290 Gabre",
@@ -39768,6 +40262,7 @@ export const merchant = {
             "43cd54a5-1a3c-4b7d-b",
             "7c22e737-1de8-4697-9",
         ],
+        zipcode: "09 Ariège",
     },
     "L'osmophore": {
         Address: " L'osmophore La Brougue Les Oustalots  31550 Marliac",
@@ -39850,6 +40345,7 @@ export const merchant = {
             "def9908b-aac6-44d0-9",
             "a01c1f11-2d45-4b0f-9",
         ],
+        zipcode: "31 Haute-Garonne",
     },
     "Peau Ethic": {
         Address: " Peau Ethic 7 rue des écoles  09350 Les Bordes-sur-Arize",
@@ -39931,6 +40427,7 @@ export const merchant = {
             "859f8042-833e-4975-b",
             "5087ddb9-7ea3-450d-b",
         ],
+        zipcode: "09 Ariège",
     },
     "Le Moulin de la Passerelle": {
         Address: " Le Moulin de la Passerelle 5 rue Paul Vignolles  09350 Les Bordes-sur-Arize",
@@ -39991,6 +40488,7 @@ export const merchant = {
             "04e83ced-0f17-4ee1-8",
             "32b37740-c957-4d1d-a",
         ],
+        zipcode: "09 Ariège",
     },
     "Jurgen Schuler": {
         Address: " Jurgen Schuler Magalassou  11420 Lafage",
@@ -40064,6 +40562,7 @@ export const merchant = {
             "f048f2f9-ac5a-4aba-8",
             "33a93d59-5719-48de-8",
         ],
+        zipcode: "11 Aude",
     },
     "Dragon Vert": {
         Address: " Dragon Vert Domaine de Portecluse  09350 Campagne-sur-Arize",
@@ -40115,6 +40614,7 @@ export const merchant = {
             "bec4ed08-b2c6-4c82-a",
             "87b16858-c0c5-4666-a",
         ],
+        zipcode: "09 Ariège",
     },
     "Fines Têtes": {
         Address: " Fines Têtes 09350  09350 Campagne-sur-Arize",
@@ -40189,6 +40689,7 @@ export const merchant = {
             "b74dbdd4-0c27-4d1a-a",
             "1ac4392e-073b-4cbc-8",
         ],
+        zipcode: "09 Ariège",
     },
     "LAIT COEURS D'OR - Cosmétiques au lait d'ânesse": {
         Address: " LAIT COEURS D'OR - Cosmétiques au lait d'ânesse 343, grave d'en bas  09210 Saint-Ybars",
@@ -40263,6 +40764,7 @@ export const merchant = {
             "1bb9f5e6-3d13-45b7-b",
             "cddb0b52-c5a4-4ea0-9",
         ],
+        zipcode: "09 Ariège",
     },
     "Les Plants de Juliette": {
         Address: " Les Plants de Juliette L'atelier GT à la chapelle Saint sernin  09210 Saint-Ybars",
@@ -40347,6 +40849,7 @@ export const merchant = {
             "10e49dd4-0650-4fec-a",
             "c5ba7716-f287-4d5c-9",
         ],
+        zipcode: "09 Ariège",
     },
     "La Ferme du Salet": {
         Address: " La Ferme du Salet Ancien chemin de Peyrefitte à Mayreville  11420 Peyrefitte-sur-l'Hers",
@@ -40409,6 +40912,7 @@ export const merchant = {
             "c94c4c55-8225-4cfd-9",
             "bc115352-fc0c-4010-8",
         ],
+        zipcode: "11 Aude",
     },
     "Olivier Martinet": {
         Address: " Olivier Martinet 6 chemin de Francou  09240 Durban-sur-Arize",
@@ -40477,6 +40981,7 @@ export const merchant = {
             "28b8c875-7d40-4e66-b",
             "c94c4c55-8225-4cfd-9",
         ],
+        zipcode: "09 Ariège",
     },
     "Earl Fraisse": {
         Address: " Earl Fraisse Gastou  11410 Salles-sur-l'Hers",
@@ -40551,6 +41056,7 @@ export const merchant = {
             "cfaec864-62b8-4438-a",
             "7cf85155-6fe6-478f-8",
         ],
+        zipcode: "11 Aude",
     },
     "Susan Morris et Trevor Warman": {
         Address: " Susan Morris et Trevor Warman Le Guerrat  09420 Esplas-de-Sérou",
@@ -40616,6 +41122,7 @@ export const merchant = {
             "3098e3a6-5647-4515-a",
             "206e8e2f-5758-4f9c-a",
         ],
+        zipcode: "09 Ariège",
     },
     "La ferme de Rivantel": {
         Address: " La ferme de Rivantel 11, rue du Barry  09600 Aigues-Vives",
@@ -40698,6 +41205,7 @@ export const merchant = {
             "d53bf96a-252e-4f15-a",
             "270076d2-0756-424e-8",
         ],
+        zipcode: "09 Ariège",
     },
     "Au Pays du Goüt Doux": {
         Address: " Au Pays du Goüt Doux Domaine de DouachHameau de Feuillet  09420 Castelnau-Durban",
@@ -40759,6 +41267,7 @@ export const merchant = {
             "b96a8dd9-37fc-4934-b",
             "2a7ed06e-4f7d-44d0-b",
         ],
+        zipcode: "09 Ariège",
     },
     "La ferme de la Buscaillère": {
         Address: " La ferme de la Buscaillère LA BUSCAILLERE  09420 Castelnau-Durban",
@@ -40829,6 +41338,7 @@ export const merchant = {
             "c4342434-5448-4946-a",
             "8b272777-8d25-4c4f-a",
         ],
+        zipcode: "09 Ariège",
     },
     "Fée des Bulles": {
         Address: " Fée des Bulles Marillac  09240 Montseron",
@@ -40915,6 +41425,7 @@ export const merchant = {
             "4298f4bc-ac2e-47f1-a",
             "cfaec864-62b8-4438-a",
         ],
+        zipcode: "09 Ariège",
     },
     "Laurent Descamps": {
         Address: " Laurent Descamps Les Jardins de Maillet  09290 Camarade",
@@ -40998,6 +41509,7 @@ export const merchant = {
             "87b16858-c0c5-4666-a",
             "7cf85155-6fe6-478f-8",
         ],
+        zipcode: "09 Ariège",
     },
     "Veronika Moser": {
         Address: " Veronika Moser Cap de la Goutte  09290 Camarade",
@@ -41064,6 +41576,7 @@ export const merchant = {
             "4238ed95-916f-477f-8",
             "ede0e2ff-7da1-4be1-8",
         ],
+        zipcode: "09 Ariège",
     },
     "Les Douceurs de Stables": {
         Address: " Les Douceurs de Stables Lieu-dit Stables  09400 Saurat",
@@ -41129,6 +41642,7 @@ export const merchant = {
             "3eac1d4b-1355-417f-a",
             "05149104-8e5d-4b5c-9",
         ],
+        zipcode: "09 Ariège",
     },
     "Alexandre Venisse": {
         Address: " Alexandre Venisse Le Champs de la Ville  11240 Seignalens",
@@ -41197,6 +41711,7 @@ export const merchant = {
             "549c6436-a053-4fc2-8",
             "10e49dd4-0650-4fec-a",
         ],
+        zipcode: "11 Aude",
     },
     Caméline: {
         Address: " Caméline Tokosson  31310 Latrape",
@@ -41267,6 +41782,7 @@ export const merchant = {
             "859f8042-833e-4975-b",
             "bedd30a4-f294-40ea-b",
         ],
+        zipcode: "31 Haute-Garonne",
     },
     "scea merignan": {
         Address: " scea merignan merignan  11270 Orsans",
@@ -41329,6 +41845,7 @@ export const merchant = {
             "10e49dd4-0650-4fec-a",
             "9c559e1b-e467-4f03-8",
         ],
+        zipcode: "11 Aude",
     },
     "Ludovic Dauriac": {
         Address: " Ludovic Dauriac 9 Grand rue  11400 Mireval-Lauragais",
@@ -41414,6 +41931,7 @@ export const merchant = {
             "85ec7f6f-e36c-4aee-b",
             "5e0f317c-dfc1-4eaa-9",
         ],
+        zipcode: "11 Aude",
     },
     "Christian Paya": {
         Address: " Christian Paya Cartou  09320 Boussenac",
@@ -41478,6 +41996,7 @@ export const merchant = {
             "85ec7f6f-e36c-4aee-b",
             "cfaec864-62b8-4438-a",
         ],
+        zipcode: "09 Ariège",
     },
     'La ferme de PEDRETS "Paysans fromager"': {
         Address: ' La ferme de PEDRETS "Paysans fromager" col del four  09320 Boussenac',
@@ -41549,6 +42068,7 @@ export const merchant = {
             "a7b60434-becf-4be4-8",
             "5e0f317c-dfc1-4eaa-9",
         ],
+        zipcode: "09 Ariège",
     },
     "GAEC LA FERME DE SOUEGNES": {
         Address: " GAEC LA FERME DE SOUEGNES Souegnes  09320 Massat",
@@ -41625,6 +42145,7 @@ export const merchant = {
             "7c22e737-1de8-4697-9",
             "ec20d22a-f711-4320-9",
         ],
+        zipcode: "09 Ariège",
     },
     Astragale: {
         Address: " Astragale Canterate  09600 Montbel",
@@ -41687,6 +42208,7 @@ export const merchant = {
             "e2f4e147-af76-48dd-8",
             "3f3c2b8a-5c42-4618-8",
         ],
+        zipcode: "09 Ariège",
     },
     "Patrick Terris": {
         Address: " Patrick Terris Canterate  09600 Montbel",
@@ -41771,6 +42293,7 @@ export const merchant = {
             "def9908b-aac6-44d0-9",
             "ed416075-44d1-4b9c-a",
         ],
+        zipcode: "09 Ariège",
     },
     "Mélina et Guillaume Kedryna-Ruau": {
         Address: " Mélina et Guillaume Kedryna-Ruau Illas  09200 Rivèrenert",
@@ -41842,6 +42365,7 @@ export const merchant = {
             "9235d007-7289-43f1-8",
             "b9180f81-3ba1-4b3e-8",
         ],
+        zipcode: "09 Ariège",
     },
     "L'Herbier d'autan": {
         Address: " L'Herbier d'autan La Serre  11320 Montmaur",
@@ -41908,6 +42432,7 @@ export const merchant = {
             "cddb0b52-c5a4-4ea0-9",
             "d2f7c482-c3c4-4026-9",
         ],
+        zipcode: "11 Aude",
     },
     "Élevage des flambants": {
         Address: " Élevage des flambants Les flambants  31870 Lagardelle-sur-Lèze",
@@ -41994,6 +42519,7 @@ export const merchant = {
             "5087ddb9-7ea3-450d-b",
             "9235d007-7289-43f1-8",
         ],
+        zipcode: "31 Haute-Garonne",
     },
     "La Ferme des Brus": {
         Address: " La Ferme des Brus Les Brus  09320 Soulan",
@@ -42059,6 +42585,7 @@ export const merchant = {
             "1bb9f5e6-3d13-45b7-b",
             "5fefc504-b99b-4bd7-b",
         ],
+        zipcode: "09 Ariège",
     },
     "Le Compagnon Végétal": {
         Address: ' Le Compagnon Végétal "Larbaut"  31220 Montberaud',
@@ -42140,6 +42667,7 @@ export const merchant = {
             "8b7e6d8a-0a39-4dbf-9",
             "c5ba7716-f287-4d5c-9",
         ],
+        zipcode: "31 Haute-Garonne",
     },
     "Paul Knibbeler": {
         Address: " Paul Knibbeler Araux  09200 Erp",
@@ -42221,6 +42749,7 @@ export const merchant = {
             "fd169ea4-587f-45a8-a",
             "859f8042-833e-4975-b",
         ],
+        zipcode: "09 Ariège",
     },
     "La champboulerie": {
         Address: " La champboulerie Le village  09230 Barjac",
@@ -42299,6 +42828,7 @@ export const merchant = {
             "206e8e2f-5758-4f9c-a",
             "05d79170-b4de-4329-a",
         ],
+        zipcode: "09 Ariège",
     },
     "GAEC DU BERGE": {
         Address: " GAEC DU BERGE Lieu dit le BERGE  31310 Gensac-sur-Garonne",
@@ -42370,6 +42900,7 @@ export const merchant = {
             "de3488bb-0d6a-4d20-a",
             "c5ba7716-f287-4d5c-9",
         ],
+        zipcode: "31 Haute-Garonne",
     },
     "Epicetout (biscuiterie et petite restauration)": {
         Address: " Epicetout (biscuiterie et petite restauration) 1, rue Neuve  09190 Saint-Lizier",
@@ -42443,6 +42974,7 @@ export const merchant = {
             "d2f7c482-c3c4-4026-9",
             "d0c32817-0265-401d-8",
         ],
+        zipcode: "09 Ariège",
     },
     "Les Jardins du Marsan": {
         Address: " Les Jardins du Marsan Le Marsan, rue Hector d'Ossun  09200 Saint-Girons",
@@ -42504,6 +43036,7 @@ export const merchant = {
             "968a4580-e74a-4241-a",
             "e7c5d865-faa1-41d1-9",
         ],
+        zipcode: "09 Ariège",
     },
     "Les potagers de la Source": {
         Address: " Les potagers de la Source Escarrères  09140 Soueix-Rogalle",
@@ -42617,6 +43150,7 @@ export const merchant = {
             "d68538be-0255-4a22-b",
             "2c74ba62-616c-4428-8",
         ],
+        zipcode: "09 Ariège",
     },
     "GAEC ferme de la fine bouche": {
         Address: " GAEC ferme de la fine bouche Ségouge  09140 Soueix-Rogalle",
@@ -42693,6 +43227,7 @@ export const merchant = {
             "6fc014e9-33c1-4dff-a",
             "de3488bb-0d6a-4d20-a",
         ],
+        zipcode: "09 Ariège",
     },
     "Domaine de Ferrals": {
         Address: " Domaine de Ferrals Le Ferrals  11400 Saint-Papoul",
@@ -42753,6 +43288,7 @@ export const merchant = {
             "7b38ec3f-2e07-4a55-b",
             "7b25a8a8-cf6b-4d9e-a",
         ],
+        zipcode: "11 Aude",
     },
     "Nayral du Zénith": {
         Address: " Nayral du Zénith Lieu dit Nayral  31540 Saint-Félix-Lauragais",
@@ -42865,6 +43401,7 @@ export const merchant = {
             "ff538ae5-7322-45e0-8",
             "c4342434-5448-4946-a",
         ],
+        zipcode: "31 Haute-Garonne",
     },
     "Mathias Chevillon": {
         Address: " Mathias Chevillon Ferme Esbintz  09140 Seix",
@@ -42946,6 +43483,7 @@ export const merchant = {
             "cc2d474b-f84f-43e1-b",
             "5087ddb9-7ea3-450d-b",
         ],
+        zipcode: "09 Ariège",
     },
     Jardine: {
         Address: " Jardine L'aiguillon  11300 Castelreng",
@@ -43018,6 +43556,7 @@ export const merchant = {
             "bde41646-af09-4815-9",
             "8d7ee3fc-7f50-44f7-9",
         ],
+        zipcode: "11 Aude",
     },
     "Lait-co-Pain": {
         Address: " Lait-co-Pain Borde Mounoy  11400 Labécède-Lauragais",
@@ -43088,6 +43627,7 @@ export const merchant = {
             "d0c32817-0265-401d-8",
             "8d7ee3fc-7f50-44f7-9",
         ],
+        zipcode: "11 Aude",
     },
     "A.J.I.N.O.V Ateliers Jardin Idéal Naturel Oasis Vitale": {
         Address:
@@ -43148,6 +43688,7 @@ export const merchant = {
             "a01c1f11-2d45-4b0f-9",
             "6e4f5183-64ca-4ac7-b",
         ],
+        zipcode: "31 Haute-Garonne",
     },
     "La Solana": {
         Address: " La Solana 5 chemin de la Garenne  11300 Festes-et-Saint-André",
@@ -43213,6 +43754,7 @@ export const merchant = {
             "5a536c81-c9ee-4ba7-9",
             "5a462814-5c31-44ad-a",
         ],
+        zipcode: "11 Aude",
     },
     "Le moulin de Saint Pierre": {
         Address: " Le moulin de Saint Pierre Borde Neuve 2055 route de Revel  31540 Roumens",
@@ -43291,6 +43833,7 @@ export const merchant = {
             "dd5f1478-35af-494a-8",
             "8b272777-8d25-4c4f-a",
         ],
+        zipcode: "31 Haute-Garonne",
     },
     "Patrice de Saint-Sernin et Marion Hermet": {
         Address: " Patrice de Saint-Sernin et Marion Hermet Lacoste  31540 Montégut-Lauragais",
@@ -43366,6 +43909,7 @@ export const merchant = {
             "3eac1d4b-1355-417f-a",
             "a4adc1fd-b35f-4161-a",
         ],
+        zipcode: "31 Haute-Garonne",
     },
     Pyrenessences: {
         Address: " Pyrenessences La Gineste  11340 Belvis",
@@ -43443,6 +43987,7 @@ export const merchant = {
             "195fdd48-2623-43e0-8",
             "d3528ce1-ba92-401a-b",
         ],
+        zipcode: "11 Aude",
     },
     "La Sève Cathare": {
         Address: " La Sève Cathare La Font Blanche  11340 Belvis",
@@ -43523,6 +44068,7 @@ export const merchant = {
             "cfaec864-62b8-4438-a",
             "d0c32817-0265-401d-8",
         ],
+        zipcode: "11 Aude",
     },
     "Clara & Tanguy Reboullet": {
         Address: " Clara & Tanguy Reboullet Lieu-dit Chanteloup  31220 Mondavezan",
@@ -43597,6 +44143,7 @@ export const merchant = {
             "c3e8ef3b-32dd-4803-9",
             "8d7ee3fc-7f50-44f7-9",
         ],
+        zipcode: "31 Haute-Garonne",
     },
     "Péré Michel": {
         Address: " Péré Michel 410 impasse de la tuilerie  31220 Mondavezan",
@@ -43691,6 +44238,7 @@ export const merchant = {
             "149306aa-d693-4c27-8",
             "e90c828b-b2ab-4e21-8",
         ],
+        zipcode: "31 Haute-Garonne",
     },
     "Huguette et François Guiraud": {
         Address: " Huguette et François Guiraud 1 rue du Barry  11310 Villemagne",
@@ -43769,6 +44317,7 @@ export const merchant = {
             "de3488bb-0d6a-4d20-a",
             "ed416075-44d1-4b9c-a",
         ],
+        zipcode: "11 Aude",
     },
     "Anne Planchon-Beirieu": {
         Address: " Anne Planchon-Beirieu 13 Grand rue  11300 Roquetaillade",
@@ -43838,6 +44387,7 @@ export const merchant = {
             "bb38c461-eb40-441d-8",
             "8b272777-8d25-4c4f-a",
         ],
+        zipcode: "11 Aude",
     },
     "Jean Nicolas Eveillard": {
         Address: " Jean Nicolas Eveillard La Bourdette  81540 Les Cammazes",
@@ -43927,6 +44477,7 @@ export const merchant = {
             "94da843f-6b8f-491d-a",
             "1ac4392e-073b-4cbc-8",
         ],
+        zipcode: "81 Tarn",
     },
     "François Calvet": {
         Address: " François Calvet Ferme de la Hitte  09160 Lacave",
@@ -43988,6 +44539,7 @@ export const merchant = {
             "859f8042-833e-4975-b",
             "9235d007-7289-43f1-8",
         ],
+        zipcode: "09 Ariège",
     },
     "Jean-Louis Dupont et Marianne Obrecht": {
         Address: " Jean-Louis Dupont et Marianne Obrecht 1 impasse des Ritournelles  11260 Fa",
@@ -44048,6 +44600,7 @@ export const merchant = {
             "2b8be3bb-0821-4c45-b",
             "6fc014e9-33c1-4dff-a",
         ],
+        zipcode: "11 Aude",
     },
     "Marc Clair": {
         Address: " Marc Clair 1 rue du Rouire Caillens  11140 Rodome",
@@ -44128,6 +44681,7 @@ export const merchant = {
             "d17f0be6-4007-4c18-9",
             "dfce319d-1c0c-433b-8",
         ],
+        zipcode: "11 Aude",
     },
     "Juliette Watson": {
         Address: " Juliette Watson Hameau de Caillens  11140 Rodome",
@@ -44200,6 +44754,7 @@ export const merchant = {
             "aa043fb5-5d63-4f30-9",
             "bde41646-af09-4815-9",
         ],
+        zipcode: "11 Aude",
     },
     "Savons Potions et Cie": {
         Address: " Savons Potions et Cie 6 Chemin des Garennes  31260 Touille",
@@ -44271,6 +44826,7 @@ export const merchant = {
             "7a484fe0-2195-4c56-8",
             "3098e3a6-5647-4515-a",
         ],
+        zipcode: "31 Haute-Garonne",
     },
     "Jonathan Sénéchal": {
         Address: " Jonathan Sénéchal Lieu-dit Maire  31430 Pouy-de-Touges",
@@ -44343,6 +44899,7 @@ export const merchant = {
             "4907e1bc-054e-4c86-a",
             "206e8e2f-5758-4f9c-a",
         ],
+        zipcode: "31 Haute-Garonne",
     },
     "Virginie Moge et Nicolas Charrier": {
         Address: " Virginie Moge et Nicolas Charrier 12 allée du Pré CommunAppartement 114  31260 Mane",
@@ -44399,6 +44956,7 @@ export const merchant = {
             "fd8f3e50-56f0-4440-9",
             "8b272777-8d25-4c4f-a",
         ],
+        zipcode: "31 Haute-Garonne",
     },
     "Natacha Vangehuchten": {
         Address: " Natacha Vangehuchten 1031 chemin de Moujeat  31370 Lautignac",
@@ -44474,6 +45032,7 @@ export const merchant = {
             "703da75a-8e6a-4ea2-a",
             "cd15077f-c259-43f9-8",
         ],
+        zipcode: "31 Haute-Garonne",
     },
     "Thomas le Jardinier": {
         Address: " Thomas le Jardinier ZA de Mayrac  11190 Couiza",
@@ -44555,6 +45114,7 @@ export const merchant = {
             "1793c3d4-5912-43b2-9",
             "9235d007-7289-43f1-8",
         ],
+        zipcode: "11 Aude",
     },
     "K'Do Bois": {
         Address: " K'Do Bois 5 Chemin de la Plaine  11250 Rouffiac-d'Aude",
@@ -44635,6 +45195,7 @@ export const merchant = {
             "be069719-9b53-443e-8",
             "bb38c461-eb40-441d-8",
         ],
+        zipcode: "11 Aude",
     },
     "Verger de Candie - Verger de Foncoussières": {
         Address: " Verger de Candie - Verger de Foncoussières Rond point du Général Pottier  31000 Toulouse",
@@ -44705,6 +45266,7 @@ export const merchant = {
             "1e51241e-0704-42a8-a",
             "9c5f42f1-dee6-49f4-a",
         ],
+        zipcode: "31 Haute-Garonne",
     },
     "A la petite semelle": {
         Address: " A la petite semelle 1099 route du Plantaurel  31000 Toulouse",
@@ -44784,6 +45346,7 @@ export const merchant = {
             "fbdde269-2737-4949-b",
             "e96f08ed-0ba7-4150-9",
         ],
+        zipcode: "31 Haute-Garonne",
     },
     "L'Abeille des Sources": {
         Address: " L'Abeille des Sources 849 ROUTE DE MANE  31160 Castelbiague",
@@ -44855,6 +45418,7 @@ export const merchant = {
             "3098e3a6-5647-4515-a",
             "10e49dd4-0650-4fec-a",
         ],
+        zipcode: "31 Haute-Garonne",
     },
     "DOMAINE DE SAINTE MARIE DES PINS": {
         Address:
@@ -44921,6 +45485,7 @@ export const merchant = {
             "8475e20f-195a-44b5-a",
             "3f3c2b8a-5c42-4618-8",
         ],
+        zipcode: "11 Aude",
     },
     Garland: {
         Address: " Garland En KanetteChemin d'en Combes  81470 Algans",
@@ -44996,6 +45561,7 @@ export const merchant = {
             "e0e5613d-d814-4596-b",
             "4907e1bc-054e-4c86-a",
         ],
+        zipcode: "81 Tarn",
     },
     "La ferme de Pouticayre porcs plein-air de montagne": {
         Address: " La ferme de Pouticayre porcs plein-air de montagne Pouticayre  09800 Orgibet",
@@ -45064,6 +45630,7 @@ export const merchant = {
             "3ad4d76a-7fcd-4058-9",
             "7b38ec3f-2e07-4a55-b",
         ],
+        zipcode: "09 Ariège",
     },
     "Couleur Ciel": {
         Address: " Couleur Ciel Domaine de Roque Argentière  11250 Ladern-sur-Lauquet",
@@ -45144,6 +45711,7 @@ export const merchant = {
             "03858e30-7f99-4f75-8",
             "06a50824-d55c-4f03-9",
         ],
+        zipcode: "11 Aude",
     },
     "Michel et Annie Valette": {
         Address: " Michel et Annie Valette En Banquet  81700 Puylaurens",
@@ -45221,6 +45789,7 @@ export const merchant = {
             "c4342434-5448-4946-a",
             "03858e30-7f99-4f75-8",
         ],
+        zipcode: "81 Tarn",
     },
     "Fleur d'épice": {
         Address: " Fleur d'épice 2 rue Petterson  31240 Saint-Jean",
@@ -45289,6 +45858,7 @@ export const merchant = {
             "195fdd48-2623-43e0-8",
             "05d79170-b4de-4329-a",
         ],
+        zipcode: "31 Haute-Garonne",
     },
     "Domaine du Cap": {
         Address: " Domaine du Cap Cap de Labo  31360 Sepx",
@@ -45366,6 +45936,7 @@ export const merchant = {
             "7b033df4-ddb8-4c37-8",
             "d0533766-d7de-4150-a",
         ],
+        zipcode: "31 Haute-Garonne",
     },
     "Fleurs de Grains": {
         Address: " Fleurs de Grains Lieu-dit Terme  31160 Ganties",
@@ -45437,6 +46008,7 @@ export const merchant = {
             "03858e30-7f99-4f75-8",
             "c5ba7716-f287-4d5c-9",
         ],
+        zipcode: "31 Haute-Garonne",
     },
     "Arnaud Besnard": {
         Address: " Arnaud Besnard Esbourdaous  31160 Aspet",
@@ -45498,6 +46070,7 @@ export const merchant = {
             "cc098c88-7763-4ed9-a",
             "9c5f42f1-dee6-49f4-a",
         ],
+        zipcode: "31 Haute-Garonne",
     },
     "Christophe Devena et Clotilde Collier": {
         Address: " Christophe Devena et Clotilde Collier Esbourdaous  31160 Aspet",
@@ -45580,6 +46153,7 @@ export const merchant = {
             "d17f0be6-4007-4c18-9",
             "be069719-9b53-443e-8",
         ],
+        zipcode: "31 Haute-Garonne",
     },
     "la ferme aux prim'verts": {
         Address: " la ferme aux prim'verts vialas  81220 Damiatte",
@@ -45719,6 +46293,7 @@ export const merchant = {
             "24d72e4a-7dbc-4312-9",
             "06a50824-d55c-4f03-9",
         ],
+        zipcode: "81 Tarn",
     },
     "Laurent Welsh": {
         Address: " Laurent Welsh Cabiros  31800 Latoue",
@@ -45792,6 +46367,7 @@ export const merchant = {
             "a0a25c89-a063-4c91-8",
             "c4342434-5448-4946-a",
         ],
+        zipcode: "31 Haute-Garonne",
     },
     "Savonnerie Louise Emoi": {
         Address: " Savonnerie Louise Emoi La Moulinarie  81570 Vielmur-sur-Agout",
@@ -45851,6 +46427,7 @@ export const merchant = {
             "6c3a21f0-d155-487e-8",
             "3098e3a6-5647-4515-a",
         ],
+        zipcode: "81 Tarn",
     },
     "Ja et les haricots magiques": {
         Address: " Ja et les haricots magiques Chemin des Boubies  31230 L'Isle-en-Dodon",
@@ -45964,6 +46541,7 @@ export const merchant = {
             "ee4f8799-d969-446f-a",
             "87b16858-c0c5-4666-a",
         ],
+        zipcode: "31 Haute-Garonne",
     },
     "Arlette Noyes": {
         Address: " Arlette Noyes La Forêt  81500 Ambres",
@@ -46035,6 +46613,7 @@ export const merchant = {
             "8e854790-e4fa-4c51-b",
             "121ad8e0-7b74-4122-8",
         ],
+        zipcode: "81 Tarn",
     },
     "Mélanie Vandecasteele": {
         Address: " Mélanie Vandecasteele Le Village  11190 Fourtou",
@@ -46103,6 +46682,7 @@ export const merchant = {
             "ec73e8ac-0f5b-45a6-b",
             "384a005f-f399-48c7-a",
         ],
+        zipcode: "11 Aude",
     },
     "Les Jardins de Baya": {
         Address: " Les Jardins de Baya Maupéré  31800 Saint-Marcet",
@@ -46158,6 +46738,7 @@ export const merchant = {
             "a7b60434-becf-4be4-8",
             "00cc6c01-a75b-4ff7-8",
         ],
+        zipcode: "31 Haute-Garonne",
     },
     "Ferme de la Malsifregue": {
         Address: " Ferme de la Malsifregue Malsifregue  81390 Saint-Gauzens",
@@ -46239,6 +46820,7 @@ export const merchant = {
             "2b280495-7ad1-4102-8",
             "d99fb42a-66f0-43b8-9",
         ],
+        zipcode: "81 Tarn",
     },
     "Morilles du Sidobre": {
         Address: " Morilles du Sidobre gratteloup  81100 Castres",
@@ -46307,6 +46889,7 @@ export const merchant = {
             "a7b60434-becf-4be4-8",
             "2b8be3bb-0821-4c45-b",
         ],
+        zipcode: "81 Tarn",
     },
     "Maï Délice": {
         Address: " Maï Délice 1 Rn la Richarde  81200 Mazamet",
@@ -46386,6 +46969,7 @@ export const merchant = {
             "582fdf5d-cad8-402a-a",
             "2b280495-7ad1-4102-8",
         ],
+        zipcode: "81 Tarn",
     },
     "La poule perchée": {
         Address: " La poule perchée 3 chemin de Loubet du Bois  31350 Cardeilhac",
@@ -46448,6 +47032,7 @@ export const merchant = {
             "7b25a8a8-cf6b-4d9e-a",
             "0defd424-00b8-4e45-a",
         ],
+        zipcode: "31 Haute-Garonne",
     },
     "Rainer Weser": {
         Address: " Rainer Weser Lieu-dit le Bouich  11330 Soulatgé",
@@ -46528,6 +47113,7 @@ export const merchant = {
             "8475e20f-195a-44b5-a",
             "cfaec864-62b8-4438-a",
         ],
+        zipcode: "11 Aude",
     },
     "GAEC La Vava Preciosa": {
         Address: " GAEC La Vava Preciosa 8 costa del Castell  66500 Mosset",
@@ -46584,6 +47170,7 @@ export const merchant = {
             "7cdcd1a4-2307-4315-9",
             "7cf85155-6fe6-478f-8",
         ],
+        zipcode: "66 Pyrénées-Orientales",
     },
     "Brasserie des Vignes": {
         Address: " Brasserie des Vignes 9 avenue Marcel Pagnol  81300 Graulhet",
@@ -46656,6 +47243,7 @@ export const merchant = {
             "19873dc7-c2ae-4cda-9",
             "cfaec864-62b8-4438-a",
         ],
+        zipcode: "81 Tarn",
     },
     "Les Anes d'Autan": {
         Address: " Les Anes d'Autan La Colombarié  81300 Graulhet",
@@ -46736,6 +47324,7 @@ export const merchant = {
             "206e8e2f-5758-4f9c-a",
             "c3e8ef3b-32dd-4803-9",
         ],
+        zipcode: "81 Tarn",
     },
     "Stéphane Fuentes": {
         Address: " Stéphane Fuentes Lieu-dit Saint-Amans  81800 Rabastens",
@@ -46806,6 +47395,7 @@ export const merchant = {
             "a30edda6-3250-4771-b",
             "e12bc812-b9a7-4053-8",
         ],
+        zipcode: "81 Tarn",
     },
     "LE POTAGER DE SAINT MARTIN": {
         Address: " LE POTAGER DE SAINT MARTIN 3153 route de Saurs  81800 Rabastens",
@@ -46882,6 +47472,7 @@ export const merchant = {
             "ddd66ace-de8b-40f2-9",
             "bb38c461-eb40-441d-8",
         ],
+        zipcode: "81 Tarn",
     },
     "Verger de Foncoussières": {
         Address: " Verger de Foncoussières 857 route de foncoussières  81800 Rabastens",
@@ -46959,6 +47550,7 @@ export const merchant = {
             "d3528ce1-ba92-401a-b",
             "1bb9f5e6-3d13-45b7-b",
         ],
+        zipcode: "81 Tarn",
     },
     "Les Vergers du Canigou": {
         Address: " Les Vergers du Canigou Lloncet  66500 Masos (Los)",
@@ -47033,6 +47625,7 @@ export const merchant = {
             "ee4f8799-d969-446f-a",
             "f589e365-ba31-4516-b",
         ],
+        zipcode: "66 Pyrénées-Orientales",
     },
     "Maurice Picco et Catherine Persuy": {
         Address: " Maurice Picco et Catherine Persuy L'Astang  66500 Masos (Los)",
@@ -47105,6 +47698,7 @@ export const merchant = {
             "d0533766-d7de-4150-a",
             "d3528ce1-ba92-401a-b",
         ],
+        zipcode: "66 Pyrénées-Orientales",
     },
     "Les Lentin des Corbières": {
         Address: " Les Lentin des Corbières 6, chemin du caraillé  11330 Laroque-de-Fa",
@@ -47167,6 +47761,7 @@ export const merchant = {
             "2b8be3bb-0821-4c45-b",
             "06a50824-d55c-4f03-9",
         ],
+        zipcode: "11 Aude",
     },
     "Manuel Jorel": {
         Address: " Manuel Jorel 28 rue François Harago  66220 Saint-Paul-de-Fenouillet",
@@ -47246,6 +47841,7 @@ export const merchant = {
             "cc2d474b-f84f-43e1-b",
             "1ac4392e-073b-4cbc-8",
         ],
+        zipcode: "66 Pyrénées-Orientales",
     },
     "Le Chaudron de l'Alaric": {
         Address: " Le Chaudron de l'Alaric route du minervois  11700 Douzens",
@@ -47313,6 +47909,7 @@ export const merchant = {
             "1793c3d4-5912-43b2-9",
             "9c5f42f1-dee6-49f4-a",
         ],
+        zipcode: "11 Aude",
     },
     "Le Clos de la Guipaudié": {
         Address: " Le Clos de la Guipaudié La Guipaudié  81440 Saint-Julien-du-Puy",
@@ -47416,6 +48013,7 @@ export const merchant = {
             "ec5313a1-f9e4-4af1-9",
             "cfaec864-62b8-4438-a",
         ],
+        zipcode: "81 Tarn",
     },
     "Pépins d'Hier": {
         Address: " Pépins d'Hier 46 les Estrabauts Bas  81240 Saint-Amans-Soult",
@@ -47477,6 +48075,7 @@ export const merchant = {
             "543d0fef-a76d-4cb0-8",
             "7c22e737-1de8-4697-9",
         ],
+        zipcode: "81 Tarn",
     },
     "Au petit Rouin": {
         Address: " Au petit Rouin au petit rouin  32200 Escornebœuf",
@@ -47491,7 +48090,6 @@ export const merchant = {
             "poireau",
             "panais",
             "navet",
-            "",
             "maï",
             "mâche",
             "légumes",
@@ -47580,6 +48178,7 @@ export const merchant = {
             "a4adc1fd-b35f-4161-a",
             "9c559e1b-e467-4f03-8",
         ],
+        zipcode: "32 Gers",
     },
     "André Argellies": {
         Address: " André Argellies Impasse de la Chapelle  11220 Lagrasse",
@@ -47653,6 +48252,7 @@ export const merchant = {
             "94da843f-6b8f-491d-a",
             "05d79170-b4de-4329-a",
         ],
+        zipcode: "11 Aude",
     },
     "FERME DE MAREYE": {
         Address: " FERME DE MAREYE MAREYE  81210 Roquecourbe",
@@ -47759,6 +48359,7 @@ export const merchant = {
             "dd5f1478-35af-494a-8",
             "9c559e1b-e467-4f03-8",
         ],
+        zipcode: "81 Tarn",
     },
     "Pierre Denoel": {
         Address: " Pierre Denoel Saulières  81210 Saint-Jean-de-Vals",
@@ -47825,6 +48426,7 @@ export const merchant = {
             "859f8042-833e-4975-b",
             "1bb9f5e6-3d13-45b7-b",
         ],
+        zipcode: "81 Tarn",
     },
     "Le Jardin de Baya": {
         Address: " Le Jardin de Baya 4 rue des Tilleuls  31210 Huos",
@@ -47907,6 +48509,7 @@ export const merchant = {
             "ee4f8799-d969-446f-a",
             "87b16858-c0c5-4666-a",
         ],
+        zipcode: "31 Haute-Garonne",
     },
     "Véronique Bories": {
         Address: " Véronique Bories Le Pré du Château  81260 Cambounès",
@@ -47972,6 +48575,7 @@ export const merchant = {
             "5fefc504-b99b-4bd7-b",
             "9235d007-7289-43f1-8",
         ],
+        zipcode: "81 Tarn",
     },
     "Montrouch Organic": {
         Address: " Montrouch Organic Domaine de Montrouch  11330 Maisons",
@@ -48050,6 +48654,7 @@ export const merchant = {
             "f1e7292a-ceea-4afc-9",
             "05d79170-b4de-4329-a",
         ],
+        zipcode: "11 Aude",
     },
     "Un Air de Campagne": {
         Address: " Un Air de Campagne Lieu-dit L'Abadie  32140 Cabas-Loumassès",
@@ -48118,6 +48723,7 @@ export const merchant = {
             "206e8e2f-5758-4f9c-a",
             "c5ba7716-f287-4d5c-9",
         ],
+        zipcode: "32 Gers",
     },
     "Domaine des Trois Orris": {
         Address: " Domaine des Trois Orris Route de Marcevol  66320 Tarerach",
@@ -48206,6 +48812,7 @@ export const merchant = {
             "451e9a52-6dd8-46f7-a",
             "7c22e737-1de8-4697-9",
         ],
+        zipcode: "66 Pyrénées-Orientales",
     },
     "Dominique Houzeau": {
         Address: " Dominique Houzeau 11 ancien chemin de Villefranche  66820 Fuilla",
@@ -48268,6 +48875,7 @@ export const merchant = {
             "6127346f-6ba0-4f74-b",
             "6055a997-3f4d-48b7-9",
         ],
+        zipcode: "66 Pyrénées-Orientales",
     },
     "Yanis Regnery": {
         Address: " Yanis Regnery Le Sacou Cami de Serdinya  66820 Fuilla",
@@ -48341,6 +48949,7 @@ export const merchant = {
             "7d184c28-76e8-4c36-9",
             "cb1bcba7-2f92-4174-9",
         ],
+        zipcode: "66 Pyrénées-Orientales",
     },
     "Les poulets de celine": {
         Address: " Les poulets de celine Lieu dit Fregeville  81120 Réalmont",
@@ -48410,6 +49019,7 @@ export const merchant = {
             "fbdde269-2737-4949-b",
             "1bb9f5e6-3d13-45b7-b",
         ],
+        zipcode: "81 Tarn",
     },
     "Terre d'Abondance": {
         Address: " Terre d'Abondance Lieu dit Frégeville  81120 Réalmont",
@@ -48481,6 +49091,7 @@ export const merchant = {
             "cf009c62-17cf-4ae9-8",
             "d006b89c-9b74-4c39-9",
         ],
+        zipcode: "81 Tarn",
     },
     "GAEC du Tournesol": {
         Address: " GAEC du Tournesol Lieu dit : Adoulins  32140 Bellegarde",
@@ -48557,6 +49168,7 @@ export const merchant = {
             "1e1da486-4433-4962-a",
             "7cf85155-6fe6-478f-8",
         ],
+        zipcode: "32 Gers",
     },
     "Axelle Patoureau": {
         Address: " Axelle Patoureau Ferme de Clayrac  81630 Salvagnac",
@@ -48630,6 +49242,7 @@ export const merchant = {
             "b5d4a6a6-7131-40e8-8",
             "1ac4392e-073b-4cbc-8",
         ],
+        zipcode: "81 Tarn",
     },
     "jean-michel castiello": {
         Address: " jean-michel castiello 697 Chemin de louvigne  81630 Salvagnac",
@@ -48710,6 +49323,7 @@ export const merchant = {
             "af34ed7d-4e63-4b0a-9",
             "4907e1bc-054e-4c86-a",
         ],
+        zipcode: "81 Tarn",
     },
     "Bruno Anglade": {
         Address: " Bruno Anglade Bois Couyoul  81630 Beauvais-sur-Tescou",
@@ -48786,6 +49400,7 @@ export const merchant = {
             "451e9a52-6dd8-46f7-a",
             "7b25a8a8-cf6b-4d9e-a",
         ],
+        zipcode: "81 Tarn",
     },
     "Jérémie Coca": {
         Address: " Jérémie Coca La Borie Maigre  81360 Montredon-Labessonnié",
@@ -48857,6 +49472,7 @@ export const merchant = {
             "43cd54a5-1a3c-4b7d-b",
             "33a93d59-5719-48de-8",
         ],
+        zipcode: "81 Tarn",
     },
     "Daniel Coutarel et Blandine Bouisset": {
         Address: " Daniel Coutarel et Blandine Bouisset La Borie Maigre  81360 Montredon-Labessonnié",
@@ -48937,6 +49553,7 @@ export const merchant = {
             "9455a6b4-7fa0-4bd6-a",
             "bb38c461-eb40-441d-8",
         ],
+        zipcode: "81 Tarn",
     },
     "Safran Della Romas": {
         Address: " Safran Della Romas Route de FuillaLes Restagnignes  66360 Sahorre",
@@ -49013,6 +49630,7 @@ export const merchant = {
             "549c6436-a053-4fc2-8",
             "b74dbdd4-0c27-4d1a-a",
         ],
+        zipcode: "66 Pyrénées-Orientales",
     },
     "Mariam Baouab et Xabi Goyti": {
         Address: " Mariam Baouab et Xabi Goyti 11 Carrer del Baus  66500 Taurinya",
@@ -49083,6 +49701,7 @@ export const merchant = {
             "ed416075-44d1-4b9c-a",
             "b9180f81-3ba1-4b3e-8",
         ],
+        zipcode: "66 Pyrénées-Orientales",
     },
     "Patrice Martinet": {
         Address: " Patrice Martinet L'OurlianeChemin des Placettes  82170 Bessens",
@@ -49148,6 +49767,7 @@ export const merchant = {
             "33a93d59-5719-48de-8",
             "5fefc504-b99b-4bd7-b",
         ],
+        zipcode: "82 Tarn-et-Garonne",
     },
     "Eric et Nicole Marie": {
         Address: " Eric et Nicole Marie 1 chemin Mone  65670 Monléon-Magnoac",
@@ -49226,6 +49846,7 @@ export const merchant = {
             "a30edda6-3250-4771-b",
             "8b272777-8d25-4c4f-a",
         ],
+        zipcode: "65 Hautes-Pyrénées",
     },
     "Nathanael Parnaudeau": {
         Address: " Nathanael Parnaudeau Domaine de Matens  81600 Gaillac",
@@ -49285,6 +49906,7 @@ export const merchant = {
             "ede0e2ff-7da1-4be1-8",
             "bc115352-fc0c-4010-8",
         ],
+        zipcode: "81 Tarn",
     },
     "gaec la ferme du llech": {
         Address: " gaec la ferme du llech cami del francalou  66320 Espira-de-Conflent",
@@ -49358,6 +49980,7 @@ export const merchant = {
             "c3e8ef3b-32dd-4803-9",
             "9235d007-7289-43f1-8",
         ],
+        zipcode: "66 Pyrénées-Orientales",
     },
     "Jean-Claude Cousinie": {
         Address: " Jean-Claude Cousinie Ferme de Larambergue  81260 Anglès",
@@ -49413,6 +50036,7 @@ export const merchant = {
             "9e1b0d98-e499-4e24-a",
             "8a10450c-83b4-4936-9",
         ],
+        zipcode: "81 Tarn",
     },
     Marmoulières: {
         Address: " Marmoulières Marmoulières  81260 Anglès",
@@ -49492,6 +50116,7 @@ export const merchant = {
             "78b8d2d1-eb3e-4f1f-9",
             "d99fb42a-66f0-43b8-9",
         ],
+        zipcode: "81 Tarn",
     },
     "Fromagerie les Tres Estelles": {
         Address: " Fromagerie les Tres Estelles 19 Cami del Veïnat  66360 Py",
@@ -49558,6 +50183,7 @@ export const merchant = {
             "94da843f-6b8f-491d-a",
             "bb38c461-eb40-441d-8",
         ],
+        zipcode: "66 Pyrénées-Orientales",
     },
     "Les chèvres des Tres Estelles": {
         Address: " Les chèvres des Tres Estelles Lieu dit la soulane  66360 Py",
@@ -49630,6 +50256,7 @@ export const merchant = {
             "c3e8ef3b-32dd-4803-9",
             "9c5f42f1-dee6-49f4-a",
         ],
+        zipcode: "66 Pyrénées-Orientales",
     },
     "Brasserie des Pics": {
         Address: " Brasserie des Pics 27 avenue des Pics  65150 Saint-Laurent-de-Neste",
@@ -49711,6 +50338,7 @@ export const merchant = {
             "eca59891-d8d6-4352-8",
             "d0c32817-0265-401d-8",
         ],
+        zipcode: "65 Hautes-Pyrénées",
     },
     "Les Canelles": {
         Address: " Les Canelles Les Canelles  11350 Tuchan",
@@ -49785,6 +50413,7 @@ export const merchant = {
             "bde41646-af09-4815-9",
             "dfce319d-1c0c-433b-8",
         ],
+        zipcode: "11 Aude",
     },
     "Christian et Chantal Laval": {
         Address: " Christian et Chantal Laval Les Bouygasses  82230 La Salvetat-Belmontet",
@@ -49861,6 +50490,7 @@ export const merchant = {
             "57ddf2e7-e7a6-4ffb-b",
             "cc098c88-7763-4ed9-a",
         ],
+        zipcode: "82 Tarn-et-Garonne",
     },
     "Fabrice Odille et Lydie Havez": {
         Address: " Fabrice Odille et Lydie Havez 125 RD36 de Monclat à FrontonLes Saules  82230 La Salvetat-Belmontet",
@@ -49925,6 +50555,7 @@ export const merchant = {
             "859f8042-833e-4975-b",
             "3f3c2b8a-5c42-4618-8",
         ],
+        zipcode: "82 Tarn-et-Garonne",
     },
     "Chevrerie des chenes": {
         Address:
@@ -50001,6 +50632,7 @@ export const merchant = {
             "206e8e2f-5758-4f9c-a",
             "9c559e1b-e467-4f03-8",
         ],
+        zipcode: "82 Tarn-et-Garonne",
     },
     "José Folch": {
         Address: " José Folch 3151 route St-Etienne de TulmonLa Peyruque  82370 Saint-Nauphary",
@@ -50074,6 +50706,7 @@ export const merchant = {
             "3a39c336-0c27-4dd3-a",
             "b7691b68-ea95-4e2d-b",
         ],
+        zipcode: "82 Tarn-et-Garonne",
     },
     "Fabienne Gomez": {
         Address: " Fabienne Gomez 1586 chemin de Truffie  82370 Saint-Nauphary",
@@ -50160,6 +50793,7 @@ export const merchant = {
             "506e16b4-8410-462a-b",
             "ffab0110-b9fc-4c63-8",
         ],
+        zipcode: "82 Tarn-et-Garonne",
     },
     "Jean-Luc Vezinet": {
         Address: " Jean-Luc Vezinet ParagneChemin de la Forêt  81600 Broze",
@@ -50246,6 +50880,7 @@ export const merchant = {
             "1fba8491-fc45-43bf-9",
             "bf29f45a-4db5-4f10-9",
         ],
+        zipcode: "81 Tarn",
     },
     "Stéphane Lucas": {
         Address: " Stéphane Lucas Les Planes  81600 Senouillac",
@@ -50312,6 +50947,7 @@ export const merchant = {
             "be069719-9b53-443e-8",
             "9c559e1b-e467-4f03-8",
         ],
+        zipcode: "81 Tarn",
     },
     "Les Jardins de la Vère": {
         Address: " Les Jardins de la Vère St. Martin de Vère  81140 Castelnau-de-Montmiral",
@@ -50393,6 +51029,7 @@ export const merchant = {
             "2c74ba62-616c-4428-8",
             "1793c3d4-5912-43b2-9",
         ],
+        zipcode: "81 Tarn",
     },
     "Claude & Chantal Leduc": {
         Address: " Claude & Chantal Leduc Domaine de la Tronque  81140 Castelnau-de-Montmiral",
@@ -50464,6 +51101,7 @@ export const merchant = {
             "3098e3a6-5647-4515-a",
             "d99fb42a-66f0-43b8-9",
         ],
+        zipcode: "81 Tarn",
     },
     "Loïc Godard": {
         Address: " Loïc Godard Chemin de Bon Repos  65330 Galez",
@@ -50539,6 +51177,7 @@ export const merchant = {
             "c94c4c55-8225-4cfd-9",
             "c2c4c5fc-56b5-43f1-9",
         ],
+        zipcode: "65 Hautes-Pyrénées",
     },
     "Geoffroy Guieysse": {
         Address: " Geoffroy Guieysse Le Barran  65330 Galez",
@@ -50606,6 +51245,7 @@ export const merchant = {
             "1e1da486-4433-4962-a",
             "c5ba7716-f287-4d5c-9",
         ],
+        zipcode: "65 Hautes-Pyrénées",
     },
     "Rémy Kuntz": {
         Address: " Rémy Kuntz Mas Brunet  81140 Cahuzac-sur-Vère",
@@ -50672,6 +51312,7 @@ export const merchant = {
             "5067d163-3fa2-406e-b",
             "ffab0110-b9fc-4c63-8",
         ],
+        zipcode: "81 Tarn",
     },
     "Domaine de Cantalauze": {
         Address: " Domaine de Cantalauze Lintin  81140 Cahuzac-sur-Vère",
@@ -50749,6 +51390,7 @@ export const merchant = {
             "5f0bc4c4-a1c4-48ff-a",
             "ee4f8799-d969-446f-a",
         ],
+        zipcode: "81 Tarn",
     },
     "La Basse-cour de Rumilly": {
         Address: " La Basse-cour de Rumilly 16 ROUTE DE SAINT PARRES  10260 Rumilly-lès-Vaudes",
@@ -50812,6 +51454,7 @@ export const merchant = {
             "ddd66ace-de8b-40f2-9",
             "7cf85155-6fe6-478f-8",
         ],
+        zipcode: "10 Aube",
     },
     "Les Jardins Bio": {
         Address: " Les Jardins Bio 41, Ter rue de la Chapelle  10220 Piney",
@@ -50887,6 +51530,7 @@ export const merchant = {
             "149306aa-d693-4c27-8",
             "ed416075-44d1-4b9c-a",
         ],
+        zipcode: "10 Aube",
     },
     "L'Escargotière des Lacs": {
         Address: " L'Escargotière des Lacs 5 rue Basse  10240 Longsols",
@@ -50963,6 +51607,7 @@ export const merchant = {
             "fd8f3e50-56f0-4440-9",
             "be069719-9b53-443e-8",
         ],
+        zipcode: "10 Aube",
     },
     "Ferme de la Marque": {
         Address: " Ferme de la Marque La Marque  10140 Champ-sur-Barse",
@@ -51028,6 +51673,7 @@ export const merchant = {
             "2b8be3bb-0821-4c45-b",
             "e90c828b-b2ab-4e21-8",
         ],
+        zipcode: "10 Aube",
     },
     "Benoît et Amélie": {
         Address: " Benoît et Amélie 3 Grande Rue  10240 Verricourt",
@@ -51124,6 +51770,7 @@ export const merchant = {
             "149306aa-d693-4c27-8",
             "6e4f5183-64ca-4ac7-b",
         ],
+        zipcode: "10 Aube",
     },
     "Thorey Père et Fils": {
         Address: " Thorey Père et Fils 6 voie de Praslin  10210 Lantages",
@@ -51185,6 +51832,7 @@ export const merchant = {
             "1ac4392e-073b-4cbc-8",
             "ed416075-44d1-4b9c-a",
         ],
+        zipcode: "10 Aube",
     },
     "NATURE et PAYSANS": {
         Address: " NATURE et PAYSANS 34 grande rue  10290 VILLADIN  10290 Villadin",
@@ -51259,6 +51907,7 @@ export const merchant = {
             "3098e3a6-5647-4515-a",
             "8a10450c-83b4-4936-9",
         ],
+        zipcode: "10 Aube",
     },
     "Anais Debelle": {
         Address: " Anais Debelle 6 rue du Vauluisant  10290 Rigny-la-Nonneuse",
@@ -51329,6 +51978,7 @@ export const merchant = {
             "e96f08ed-0ba7-4150-9",
             "7cf85155-6fe6-478f-8",
         ],
+        zipcode: "10 Aube",
     },
     "PANIER DU RENARD (Earl du Biat)": {
         Address: " PANIER DU RENARD (Earl du Biat) 12 Faubourg Saint Sauveur  10500 Rosnay-l'Hôpital",
@@ -51405,6 +52055,7 @@ export const merchant = {
             "ddad5d6c-fb1c-4a78-b",
             "ddd66ace-de8b-40f2-9",
         ],
+        zipcode: "10 Aube",
     },
     "Earl du Biat": {
         Address: " Earl du Biat 10 bis rue saint Laurent  10500 Yèvres-le-Petit",
@@ -51478,6 +52129,7 @@ export const merchant = {
             "60f37375-dd24-4f11-8",
             "33a93d59-5719-48de-8",
         ],
+        zipcode: "10 Aube",
     },
     "Domaine Bruno Dangin": {
         Address: " Domaine Bruno Dangin Route des Mézières  21330 Molesme",
@@ -51553,6 +52205,7 @@ export const merchant = {
             "9c5f42f1-dee6-49f4-a",
             "b9180f81-3ba1-4b3e-8",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     Devalance: {
         Address: " Devalance 305, Chemin de Choisel  51120 Queudes",
@@ -51621,6 +52274,7 @@ export const merchant = {
             "bae17232-9736-427a-b",
             "87b16858-c0c5-4666-a",
         ],
+        zipcode: "51 Marne",
     },
     "Champagne Claude PERRARD": {
         Address: " Champagne Claude PERRARD 6 Rue Saint MAurice  10200 Rouvres-les-Vignes",
@@ -51678,6 +52332,7 @@ export const merchant = {
             "19873dc7-c2ae-4cda-9",
             "cd15077f-c259-43f9-8",
         ],
+        zipcode: "10 Aube",
     },
     "Adelle - La Ferme du Mont Lassois": {
         Address: " Adelle - La Ferme du Mont Lassois 8 rue de l'Orme  21400 Étrochey",
@@ -51756,6 +52411,7 @@ export const merchant = {
             "bedd30a4-f294-40ea-b",
             "6e4f5183-64ca-4ac7-b",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "La Ferme du Mont Lassois": {
         Address: " La Ferme du Mont Lassois 8, Rue de L'Orme  21400 Étrochey",
@@ -51811,6 +52467,7 @@ export const merchant = {
             "a5f2f735-53f4-47ae-9",
             "b74dbdd4-0c27-4d1a-a",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "Champagne Mocquart-Esmard": {
         Address: " Champagne Mocquart-Esmard 5 chemin des Vignes  52330 Colombey-les-Deux-Églises",
@@ -51878,6 +52535,7 @@ export const merchant = {
             "2c74ba62-616c-4428-8",
             "6e4f5183-64ca-4ac7-b",
         ],
+        zipcode: "52 Haute-Marne",
     },
     "Maraicher-Desnouveaux": {
         Address: " Maraicher-Desnouveaux 19 grande rue  52330 Lamothe-en-Blaisy",
@@ -51987,6 +52645,7 @@ export const merchant = {
             "759b2411-41da-4ff0-a",
             "b9180f81-3ba1-4b3e-8",
         ],
+        zipcode: "52 Haute-Marne",
     },
     "Gaec des Truites de l'Aube": {
         Address: " Gaec des Truites de l'Aube Rue des Ponts  21520 Veuxhaulles-sur-Aube",
@@ -52057,6 +52716,7 @@ export const merchant = {
             "10e49dd4-0650-4fec-a",
             "d0c32817-0265-401d-8",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "Domaine Dessus Bon Boire": {
         Address: " Domaine Dessus Bon Boire 19 rue de Vallan  89000 Auxerre",
@@ -52140,6 +52800,7 @@ export const merchant = {
             "0a2230c5-3ed7-4da1-8",
             "aa043fb5-5d63-4f30-9",
         ],
+        zipcode: "89 Yonne",
     },
     "Brasserie l'happycoole": {
         Address: " Brasserie l'happycoole 13 bis Rue de la gare  51240 Écury-sur-Coole",
@@ -52209,6 +52870,7 @@ export const merchant = {
             "fd169ea4-587f-45a8-a",
             "bedd30a4-f294-40ea-b",
         ],
+        zipcode: "51 Marne",
     },
     "ELISE DE POILLY": {
         Address: " ELISE DE POILLY 10, chemin de l'égeoire chaude  89110 Poilly-sur-Tholon",
@@ -52281,6 +52943,7 @@ export const merchant = {
             "fd8f3e50-56f0-4440-9",
             "4f568df1-b9f2-4643-9",
         ],
+        zipcode: "89 Yonne",
     },
     "Les délices d'Eden": {
         Address: " Les délices d'Eden 9 le village  89150 Courtoin",
@@ -52363,6 +53026,7 @@ export const merchant = {
             "3e92e18b-0a5d-4d3f-9",
             "05d79170-b4de-4329-a",
         ],
+        zipcode: "89 Yonne",
     },
     "TERROIR LEGUMIER": {
         Address: " TERROIR LEGUMIER voie d'orge  52120 Blessonville",
@@ -52439,6 +53103,7 @@ export const merchant = {
             "e25e4e34-2441-4451-b",
             "87b16858-c0c5-4666-a",
         ],
+        zipcode: "52 Haute-Marne",
     },
     "Atelier du savon PEAU D'ANE": {
         Address: " Atelier du savon PEAU D'ANE la ferté  89110 La Ferté-Loupière",
@@ -52511,6 +53176,7 @@ export const merchant = {
             "e90c828b-b2ab-4e21-8",
             "05d79170-b4de-4329-a",
         ],
+        zipcode: "89 Yonne",
     },
     QUALIFLEURS: {
         Address: " QUALIFLEURS LES PETITS THENARDS  89150 Domats",
@@ -52587,6 +53253,7 @@ export const merchant = {
             "c3f1eb23-18d2-4bfb-a",
             "fcd03660-47b8-4f22-8",
         ],
+        zipcode: "89 Yonne",
     },
     "Jardin'escar": {
         Address: " Jardin'escar 18, route de Dijon  21500 Marmagne",
@@ -52666,6 +53333,7 @@ export const merchant = {
             "b7691b68-ea95-4e2d-b",
             "7b25a8a8-cf6b-4d9e-a",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "La grange jabled": {
         Address: " La grange jabled Ferme de la grange jabled  51530 Brugny-Vaudancourt",
@@ -52738,6 +53406,7 @@ export const merchant = {
             "4298f4bc-ac2e-47f1-a",
             "5087ddb9-7ea3-450d-b",
         ],
+        zipcode: "51 Marne",
     },
     "Les Jardins d'ABylone": {
         Address: " Les Jardins d'ABylone 115 rue de la Garenne  02540 L'Épine-aux-Bois",
@@ -52804,6 +53473,7 @@ export const merchant = {
             "79914759-3338-4b70-a",
             "3f3c2b8a-5c42-4618-8",
         ],
+        zipcode: "02 Aisne",
     },
     "HERVE ROSIER": {
         Address: " HERVE ROSIER 12 rue de l'église  89460 Trucy-sur-Yonne",
@@ -52871,6 +53541,7 @@ export const merchant = {
             "cfaec864-62b8-4438-a",
             "ddd66ace-de8b-40f2-9",
         ],
+        zipcode: "89 Yonne",
     },
     "Les Jardins de Fontenelle": {
         Address: " Les Jardins de Fontenelle Rue de la Mairie  02540 Fontenelle-en-Brie",
@@ -52997,6 +53668,7 @@ export const merchant = {
             "0defd424-00b8-4e45-a",
             "cfaec864-62b8-4438-a",
         ],
+        zipcode: "02 Aisne",
     },
     "Les Vergers de Cousancelles": {
         Address: " Les Vergers de Cousancelles n°2 les Tuileries  55170 Cousances-les-Forges",
@@ -53087,6 +53759,7 @@ export const merchant = {
             "9c559e1b-e467-4f03-8",
             "4f568df1-b9f2-4643-9",
         ],
+        zipcode: "55 Meuse",
     },
     "Les Oeufs des Frémaux": {
         Address: " Les Oeufs des Frémaux Les Frémaux  89120 Prunoy",
@@ -53153,6 +53826,7 @@ export const merchant = {
             "f7ca07d7-024f-44ee-a",
             "451e9a52-6dd8-46f7-a",
         ],
+        zipcode: "89 Yonne",
     },
     "Chevrerie des Garniers": {
         Address: " Chevrerie des Garniers Les Garniers  89120 Perreux",
@@ -53222,6 +53896,7 @@ export const merchant = {
             "2ad91568-6e9f-49c6-8",
             "e25e4e34-2441-4451-b",
         ],
+        zipcode: "89 Yonne",
     },
     "La Ferme du Rabutin - E.A.R.L Donet": {
         Address: " La Ferme du Rabutin - E.A.R.L Donet 21 Rue du Château  21150 Bussy-le-Grand",
@@ -53297,6 +53972,7 @@ export const merchant = {
             "78b8d2d1-eb3e-4f1f-9",
             "d2f7c482-c3c4-4026-9",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "La Ferme aux 100 blés": {
         Address: " La Ferme aux 100 blés 2 Chemin du vieux Moulin  21290 Saint-Broing-les-Moines",
@@ -53367,6 +54043,7 @@ export const merchant = {
             "57ddf2e7-e7a6-4ffb-b",
             "4907e1bc-054e-4c86-a",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "E.A.R.L de la Creusotte": {
         Address: " E.A.R.L de la Creusotte 9 rue de la Combe Farbet  21150 Darcey",
@@ -53439,6 +54116,7 @@ export const merchant = {
             "759b2411-41da-4ff0-a",
             "b74dbdd4-0c27-4d1a-a",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "E.A.R.L Laitière": {
         Address: " E.A.R.L Laitière 14 rue basse  21450 Poiseul-la-Ville-et-Laperrière",
@@ -53521,6 +54199,7 @@ export const merchant = {
             "9455a6b4-7fa0-4bd6-a",
             "c4342434-5448-4946-a",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "Ferme de Laneuf": {
         Address: " Ferme de Laneuf Ferme de Laneuf  21450 Oigny",
@@ -53589,6 +54268,7 @@ export const merchant = {
             "7b25a8a8-cf6b-4d9e-a",
             "e12bc812-b9a7-4053-8",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "Vergers de la Bernillière": {
         Address: " Vergers de la Bernillière 200 rte de gy  45220 Château-Renard",
@@ -53606,7 +54286,6 @@ export const merchant = {
             "raisin",
             "ail",
             "carotte",
-            "",
             "pomme de terre",
             "rhubarbe",
             "salade",
@@ -53682,6 +54361,7 @@ export const merchant = {
             "ffab0110-b9fc-4c63-8",
             "dfce319d-1c0c-433b-8",
         ],
+        zipcode: "45 Loiret",
     },
     "Brasserie du Pays de Seine et Loing": {
         Address: " Brasserie du Pays de Seine et Loing 3 rue de Normandie  77430 Champagne-sur-Seine",
@@ -53751,6 +54431,7 @@ export const merchant = {
             "e90c828b-b2ab-4e21-8",
             "cc2d474b-f84f-43e1-b",
         ],
+        zipcode: "77 Seine-et-Marne",
     },
     "GAEC de la Seine": {
         Address: " GAEC de la Seine 2 rue Chanceaux  21450 Billy-lès-Chanceaux",
@@ -53826,6 +54507,7 @@ export const merchant = {
             "e2a11a09-924c-44bd-9",
             "e12bc812-b9a7-4053-8",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "La Chèvrerie des Genêts": {
         Address: " La Chèvrerie des Genêts Lieu dit Les Ventes  89350 Villeneuve-les-Genêts",
@@ -53903,6 +54585,7 @@ export const merchant = {
             "6fc014e9-33c1-4dff-a",
             "d0c32817-0265-401d-8",
         ],
+        zipcode: "89 Yonne",
     },
     "AUX HERBES!": {
         Address: " AUX HERBES! 22 RUE DU CHâTEAU  21150 Marigny-le-Cahouët",
@@ -53980,6 +54663,7 @@ export const merchant = {
             "5d760ab3-7fd5-4645-8",
             "8b272777-8d25-4c4f-a",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "Paniers de Saison": {
         Address: " Paniers de Saison Moulery  89520 Thury",
@@ -54054,6 +54738,7 @@ export const merchant = {
             "cd15077f-c259-43f9-8",
             "fd169ea4-587f-45a8-a",
         ],
+        zipcode: "89 Yonne",
     },
     "Paniers de saison": {
         Address: " Paniers de saison 1 rue des deux Moulins Moulery  89520 Thury",
@@ -54174,6 +54859,7 @@ export const merchant = {
             "1793c3d4-5912-43b2-9",
             "94da843f-6b8f-491d-a",
         ],
+        zipcode: "89 Yonne",
     },
     "Jean-François Blaise": {
         Address: " Jean-François Blaise 4 rue du four  21440 Chanceaux",
@@ -54246,6 +54932,7 @@ export const merchant = {
             "def9908b-aac6-44d0-9",
             "5e0f317c-dfc1-4eaa-9",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "L'escargot Burgonde": {
         Address: " L'escargot Burgonde LES CHENEVIERES  21440 Chanceaux",
@@ -54320,6 +55007,7 @@ export const merchant = {
             "fbf9e7ff-bed3-4d29-a",
             "b5d4a6a6-7131-40e8-8",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "Herberie de la Tille": {
         Address: " Herberie de la Tille Rue des quatre Noyers  21580 Grancey-le-Château-Neuvelle",
@@ -54395,6 +55083,7 @@ export const merchant = {
             "e12bc812-b9a7-4053-8",
             "7cf85155-6fe6-478f-8",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     PolHyPro: {
         Address: " PolHyPro 7 rue du 14 juillet  11110 Coursan",
@@ -54467,6 +55156,7 @@ export const merchant = {
             "43cd54a5-1a3c-4b7d-b",
             "7c22e737-1de8-4697-9",
         ],
+        zipcode: "11 Aude",
     },
     "Le chaudron d'Aurélie": {
         Address: " Le chaudron d'Aurélie 2 bis rue de l'Orchidée  34710 Lespignan",
@@ -54536,6 +55226,7 @@ export const merchant = {
             "eca59891-d8d6-4352-8",
             "10e49dd4-0650-4fec-a",
         ],
+        zipcode: "34 Hérault",
     },
     "Laurence Carretero": {
         Address: " Laurence Carretero 1000 la Fount d'Ebes  11130 Sigean",
@@ -54617,6 +55308,7 @@ export const merchant = {
             "2c74ba62-616c-4428-8",
             "bde41646-af09-4815-9",
         ],
+        zipcode: "11 Aude",
     },
     "Saveurs d'OC": {
         Address: " Saveurs d'OC 3 av de la république  34370 Maureilhan",
@@ -54674,6 +55366,7 @@ export const merchant = {
             "2a1f2d10-d125-4411-9",
             "65e22731-e95e-42dc-8",
         ],
+        zipcode: "34 Hérault",
     },
     "Domaine du Cardona": {
         Address: " Domaine du Cardona 9 bis Grand rue  11360 Fraissé-des-Corbières",
@@ -54738,6 +55431,7 @@ export const merchant = {
             "b13e083d-adf6-4063-a",
             "a28cf12a-9df3-4450-b",
         ],
+        zipcode: "11 Aude",
     },
     "DOMAINE DU CARDONA": {
         Address: " DOMAINE DU CARDONA 9 bis grand rue  11360 Fraissé-des-Corbières",
@@ -54809,6 +55503,7 @@ export const merchant = {
             "aa043fb5-5d63-4f30-9",
             "fbf9e7ff-bed3-4d29-a",
         ],
+        zipcode: "11 Aude",
     },
     "blotea marius et alina": {
         Address: " blotea marius et alina 9 plan du rouch  34490 Corneilhan",
@@ -54911,6 +55606,7 @@ export const merchant = {
             "9235d007-7289-43f1-8",
             "8d7ee3fc-7f50-44f7-9",
         ],
+        zipcode: "34 Hérault",
     },
     "Légumes du Jour": {
         Address: " Légumes du Jour 4 rue des oliviers  34480 Puissalicon",
@@ -55065,6 +55761,7 @@ export const merchant = {
             "1ccec9f5-8466-44f6-9",
             "bedd30a4-f294-40ea-b",
         ],
+        zipcode: "34 Hérault",
     },
     "Les Paniers du Triporteur": {
         Address: " Les Paniers du Triporteur Rue de l égalité  34450 Vias",
@@ -55167,6 +55864,7 @@ export const merchant = {
             "506e16b4-8410-462a-b",
             "3ad4d76a-7fcd-4058-9",
         ],
+        zipcode: "34 Hérault",
     },
     "Les Jardins de Ladislas": {
         Address: " Les Jardins de Ladislas Hameau d'Euzedes  34220 Riols",
@@ -55253,6 +55951,7 @@ export const merchant = {
             "fd169ea4-587f-45a8-a",
             "cc2d474b-f84f-43e1-b",
         ],
+        zipcode: "34 Hérault",
     },
     "Les paniers de Montagnac": {
         Address: " Les paniers de Montagnac 2 rue des anciens combattants  34300 Agde",
@@ -55347,6 +56046,7 @@ export const merchant = {
             "b730013a-8405-439b-9",
             "a28cf12a-9df3-4450-b",
         ],
+        zipcode: "34 Hérault",
     },
     "ARCHER COQUILLAGES PRODUCTEUR": {
         Address: " ARCHER COQUILLAGES PRODUCTEUR Mas n°8 chemin de l'étang  34340 Marseillan",
@@ -55423,6 +56123,7 @@ export const merchant = {
             "6c3a21f0-d155-487e-8",
             "e2f4e147-af76-48dd-8",
         ],
+        zipcode: "34 Hérault",
     },
     "Les Fées Confiot'": {
         Address: " Les Fées Confiot' 7 rue du Cadran  34320 Neffiès",
@@ -55489,6 +56190,7 @@ export const merchant = {
             "0a2230c5-3ed7-4da1-8",
             "b7691b68-ea95-4e2d-b",
         ],
+        zipcode: "34 Hérault",
     },
     "Vinaigres le petit bio": {
         Address: " Vinaigres le petit bio hôtel d'entreprises 1 rue edouard Belin  66600 Rivesaltes",
@@ -55553,6 +56255,7 @@ export const merchant = {
             "264304ef-6607-4f4b-9",
             "206e8e2f-5758-4f9c-a",
         ],
+        zipcode: "66 Pyrénées-Orientales",
     },
     "Safran la vraie nature des choses": {
         Address: " Safran la vraie nature des choses 199 chemin de charlemagne  66430 Bompas",
@@ -55631,6 +56334,7 @@ export const merchant = {
             "3a3c518e-01ec-43ff-b",
             "270076d2-0756-424e-8",
         ],
+        zipcode: "66 Pyrénées-Orientales",
     },
     "Le Clos Romain": {
         Address: " Le Clos Romain Route de Clermont  34800 Cabrières",
@@ -55693,6 +56397,7 @@ export const merchant = {
             "ec20d22a-f711-4320-9",
             "e2f4e147-af76-48dd-8",
         ],
+        zipcode: "34 Hérault",
     },
     "Domaine de Farlet": {
         Address: " Domaine de Farlet Domaine de Farlet  34140 Mèze",
@@ -55773,6 +56478,7 @@ export const merchant = {
             "f3b4d95b-1a0f-483f-b",
             "7961c730-e82f-43b6-9",
         ],
+        zipcode: "34 Hérault",
     },
     "Chez Lucie et Vincent": {
         Address: " Chez Lucie et Vincent Port du Mourre Blanc  34140 Mèze",
@@ -55841,6 +56547,7 @@ export const merchant = {
             "23443798-59fb-44ed-9",
             "6e4f5183-64ca-4ac7-b",
         ],
+        zipcode: "34 Hérault",
     },
     "Mer&Thau Coquillages": {
         Address: " Mer&Thau Coquillages 17 chemin de la Rouquette  34140 Mèze",
@@ -55923,6 +56630,7 @@ export const merchant = {
             "149306aa-d693-4c27-8",
             "eca59891-d8d6-4352-8",
         ],
+        zipcode: "34 Hérault",
     },
     "La Fajole": {
         Address: " La Fajole La Fageole  81320 Murat-sur-Vèbre",
@@ -55989,6 +56697,7 @@ export const merchant = {
             "cfaec864-62b8-4438-a",
             "6e4f5183-64ca-4ac7-b",
         ],
+        zipcode: "81 Tarn",
     },
     "Le Chant de la Terre": {
         Address: " Le Chant de la Terre Mas les Ripouilles  66570 Saint-Nazaire",
@@ -56061,6 +56770,7 @@ export const merchant = {
             "94da843f-6b8f-491d-a",
             "f1e7292a-ceea-4afc-9",
         ],
+        zipcode: "66 Pyrénées-Orientales",
     },
     "Les Fonts": {
         Address: " Les Fonts 18 avenue du Canigou  66170 Saint-Féliu-d'Avall",
@@ -56138,6 +56848,7 @@ export const merchant = {
             "fd8f3e50-56f0-4440-9",
             "c4342434-5448-4946-a",
         ],
+        zipcode: "66 Pyrénées-Orientales",
     },
     "Mas Saint Farriol": {
         Address: " Mas Saint Farriol Route de Roupian  34560 Villeveyrac",
@@ -56211,6 +56922,7 @@ export const merchant = {
             "cd3e53b0-61e0-48f3-8",
             "8d7ee3fc-7f50-44f7-9",
         ],
+        zipcode: "34 Hérault",
     },
     "Franck Grelier": {
         Address: " Franck Grelier La Daguette  12360 Mélagues",
@@ -56286,6 +56998,7 @@ export const merchant = {
             "cc2d474b-f84f-43e1-b",
             "b9180f81-3ba1-4b3e-8",
         ],
+        zipcode: "12 Aveyron",
     },
     "Sylvette Serre": {
         Address: " Sylvette Serre La PommeraieRoute du Soler  66300 Ponteilla",
@@ -56352,6 +57065,7 @@ export const merchant = {
             "7961c730-e82f-43b6-9",
             "33a93d59-5719-48de-8",
         ],
+        zipcode: "66 Pyrénées-Orientales",
     },
     "MAS ILLIBERIS": {
         Address: " MAS ILLIBERIS ROUTE DE LATOUR BAS ELNE  66200 Elne",
@@ -56447,6 +57161,7 @@ export const merchant = {
             "2d73016a-c7a8-4266-9",
             "6956b41f-dca7-491f-9",
         ],
+        zipcode: "66 Pyrénées-Orientales",
     },
     "Camp del Priou": {
         Address: " Camp del Priou Mas La Machine  66300 Trouillas",
@@ -56520,6 +57235,7 @@ export const merchant = {
             "1793c3d4-5912-43b2-9",
             "05d79170-b4de-4329-a",
         ],
+        zipcode: "66 Pyrénées-Orientales",
     },
     "La Garrigue en Essentielles": {
         Address: " La Garrigue en Essentielles Mas del Pailhes  34230 Aumelas",
@@ -56598,6 +57314,7 @@ export const merchant = {
             "e25e4e34-2441-4451-b",
             "bf29f45a-4db5-4f10-9",
         ],
+        zipcode: "34 Hérault",
     },
     "Pascal Blayac": {
         Address: " Pascal Blayac Foncuillie  12370 Murasson",
@@ -56678,6 +57395,7 @@ export const merchant = {
             "a5f2f735-53f4-47ae-9",
             "9455a6b4-7fa0-4bd6-a",
         ],
+        zipcode: "12 Aveyron",
     },
     "elevage de porc plein air Xadi": {
         Address: " elevage de porc plein air Xadi Elevage de porc Xadi  66690 Palau-del-Vidre",
@@ -56745,6 +57463,7 @@ export const merchant = {
             "5067d163-3fa2-406e-b",
             "c4342434-5448-4946-a",
         ],
+        zipcode: "66 Pyrénées-Orientales",
     },
     "Clos Mané": {
         Address: " Clos Mané Mas els Barbats  66300 Tresserre",
@@ -56805,6 +57524,7 @@ export const merchant = {
             "3f60be62-8517-47d0-8",
             "3efe0ffd-2f47-4fe7-9",
         ],
+        zipcode: "66 Pyrénées-Orientales",
     },
     "Plein Fruits": {
         Address: " Plein Fruits 607 Route Royale  34700 Saint-Étienne-de-Gourgas",
@@ -56871,6 +57591,7 @@ export const merchant = {
             "fbf9e7ff-bed3-4d29-a",
             "def9908b-aac6-44d0-9",
         ],
+        zipcode: "34 Hérault",
     },
     "Mas Dieu Village": {
         Address: " Mas Dieu Village PAE LA TOURAUTOROUTE 750 SORTIE61  34570 Saint-Paul-et-Valmalle",
@@ -56958,6 +57679,7 @@ export const merchant = {
             "f048f2f9-ac5a-4aba-8",
             "1ac4392e-073b-4cbc-8",
         ],
+        zipcode: "34 Hérault",
     },
     "La Clef des Champs": {
         Address: " La Clef des Champs Ferme de Ferrussac  34520 La Vacquerie-et-Saint-Martin-de-Castries",
@@ -57036,6 +57758,7 @@ export const merchant = {
             "bf29f45a-4db5-4f10-9",
             "05d79170-b4de-4329-a",
         ],
+        zipcode: "34 Hérault",
     },
     Vexane: {
         Address: " Vexane La Roque  12370 Combret",
@@ -57125,6 +57848,7 @@ export const merchant = {
             "d0533766-d7de-4150-a",
             "d99fb42a-66f0-43b8-9",
         ],
+        zipcode: "12 Aveyron",
     },
     "Jean-Claude Pujol": {
         Address: " Jean-Claude Pujol Versols  12400 Versols-et-Lapeyre",
@@ -57191,6 +57915,7 @@ export const merchant = {
             "c94c4c55-8225-4cfd-9",
             "582fdf5d-cad8-402a-a",
         ],
+        zipcode: "12 Aveyron",
     },
     "Jean-Paul Coste": {
         Address: " Jean-Paul Coste 8 rue des Arènes  66400 Céret",
@@ -57262,6 +57987,7 @@ export const merchant = {
             "b5d4a6a6-7131-40e8-8",
             "87b16858-c0c5-4666-a",
         ],
+        zipcode: "66 Pyrénées-Orientales",
     },
     Koning: {
         Address: " Koning Le Mas del Puech  81250 Massals",
@@ -57344,6 +58070,7 @@ export const merchant = {
             "0f88be4a-9867-4139-b",
             "f3b4d95b-1a0f-483f-b",
         ],
+        zipcode: "81 Tarn",
     },
     "Le Miel de Loïc": {
         Address: " Le Miel de Loïc Maurin  34970 Lattes",
@@ -57404,6 +58131,7 @@ export const merchant = {
             "c2c4c5fc-56b5-43f1-9",
             "7b38ec3f-2e07-4a55-b",
         ],
+        zipcode: "34 Hérault",
     },
     "Les Jardins de Lamayous": {
         Address: " Les Jardins de Lamayous Lamayous  12550 Saint-Juéry",
@@ -57495,6 +58223,7 @@ export const merchant = {
             "1e51241e-0704-42a8-a",
             "1ccec9f5-8466-44f6-9",
         ],
+        zipcode: "12 Aveyron",
     },
     "Claude HERMAN": {
         Address: " Claude HERMAN Le Bélissas  12550 Saint-Juéry",
@@ -57595,6 +58324,7 @@ export const merchant = {
             "bf29f45a-4db5-4f10-9",
             "05d79170-b4de-4329-a",
         ],
+        zipcode: "12 Aveyron",
     },
     "Safran du Larzac": {
         Address: " Safran du Larzac Chemin de la Baraque  34520 Sorbs",
@@ -57662,6 +58392,7 @@ export const merchant = {
             "57ddf2e7-e7a6-4ffb-b",
             "d17f0be6-4007-4c18-9",
         ],
+        zipcode: "34 Hérault",
     },
     "Épicerie La Camionnette": {
         Address: " Épicerie La Camionnette 1348 avenue Raymond Dugrand  34000 Montpellier",
@@ -57792,6 +58523,7 @@ export const merchant = {
             "264304ef-6607-4f4b-9",
             "7b25a8a8-cf6b-4d9e-a",
         ],
+        zipcode: "34 Hérault",
     },
     "Guillaume Roux": {
         Address: " Guillaume Roux La Bourrelie  81250 Paulinet",
@@ -57870,6 +58602,7 @@ export const merchant = {
             "8b7e6d8a-0a39-4dbf-9",
             "e095d8c7-5da9-4945-8",
         ],
+        zipcode: "81 Tarn",
     },
     "Jean Sluiman": {
         Address: " Jean Sluiman Lapaloup  12550 Coupiac",
@@ -57941,6 +58674,7 @@ export const merchant = {
             "32b37740-c957-4d1d-a",
             "5e0f317c-dfc1-4eaa-9",
         ],
+        zipcode: "12 Aveyron",
     },
     "Richard Marietta et Geneviève Fournil": {
         Address: " Richard Marietta et Geneviève Fournil La Borde  81340 Trébas",
@@ -58013,6 +58747,7 @@ export const merchant = {
             "3cc432ef-b2af-485a-b",
             "1bb9f5e6-3d13-45b7-b",
         ],
+        zipcode: "81 Tarn",
     },
     "Le Pic Gourmand": {
         Address: " Le Pic Gourmand Roubercau  12480 Broquiès",
@@ -58093,6 +58828,7 @@ export const merchant = {
             "d3528ce1-ba92-401a-b",
             "cc2d474b-f84f-43e1-b",
         ],
+        zipcode: "12 Aveyron",
     },
     "Roger Gaussorgues": {
         Address: " Roger Gaussorgues Domaine d'Anglas  34190 Brissac",
@@ -58154,6 +58890,7 @@ export const merchant = {
             "3cc432ef-b2af-485a-b",
             "5d760ab3-7fd5-4645-8",
         ],
+        zipcode: "34 Hérault",
     },
     "Thierry & Maris-Pascale Vidal": {
         Address: " Thierry & Maris-Pascale Vidal Les Cuns  12230 Nant",
@@ -58215,6 +58952,7 @@ export const merchant = {
             "60f37375-dd24-4f11-8",
             "9235d007-7289-43f1-8",
         ],
+        zipcode: "12 Aveyron",
     },
     "gaec de la cepede": {
         Address: " gaec de la cepede les axous  12490 Saint-Rome-de-Tarn",
@@ -58297,6 +59035,7 @@ export const merchant = {
             "eca59891-d8d6-4352-8",
             "b9180f81-3ba1-4b3e-8",
         ],
+        zipcode: "12 Aveyron",
     },
     "Le Dépanneur": {
         Address: " Le Dépanneur Place de l'Auberge  12490 Viala-du-Tarn",
@@ -58396,6 +59135,7 @@ export const merchant = {
             "d17f0be6-4007-4c18-9",
             "d0c32817-0265-401d-8",
         ],
+        zipcode: "12 Aveyron",
     },
     "Gourmandises Permises": {
         Address: " Gourmandises Permises Le Campgrand Cantalouve  81430 Bellegarde",
@@ -58475,6 +59215,7 @@ export const merchant = {
             "a30edda6-3250-4771-b",
             "cfaec864-62b8-4438-a",
         ],
+        zipcode: "81 Tarn",
     },
     "Christophe Lailler et Anne Sautin": {
         Address: " Christophe Lailler et Anne Sautin Logement de l'écoleLe Bourg  12120 Sainte-Juliette-sur-Viaur",
@@ -58558,6 +59299,7 @@ export const merchant = {
             "7b38ec3f-2e07-4a55-b",
             "6e4f5183-64ca-4ac7-b",
         ],
+        zipcode: "12 Aveyron",
     },
     "La Ferme de Tessi": {
         Address: " La Ferme de Tessi La Plaine de Regardet  12390 Rignac",
@@ -58627,6 +59369,7 @@ export const merchant = {
             "9455a6b4-7fa0-4bd6-a",
             "8d7ee3fc-7f50-44f7-9",
         ],
+        zipcode: "12 Aveyron",
     },
     "Les Jardins de Ginestet": {
         Address: " Les Jardins de Ginestet Ginestet  12240 Castanet",
@@ -58713,6 +59456,7 @@ export const merchant = {
             "937aeea7-60ce-4375-9",
             "6fc014e9-33c1-4dff-a",
         ],
+        zipcode: "12 Aveyron",
     },
     "La Fée aux Herbes/Montredon": {
         Address: " La Fée aux Herbes/Montredon Saint Martin des Faux  12410 Salles-Curan",
@@ -58789,6 +59533,7 @@ export const merchant = {
             "94da843f-6b8f-491d-a",
             "03858e30-7f99-4f75-8",
         ],
+        zipcode: "12 Aveyron",
     },
     "Les Vents Sauvages": {
         Address: " Les Vents Sauvages Tiyos Paye  12430 Alrance",
@@ -58852,6 +59597,7 @@ export const merchant = {
             "eaf1b712-2c02-49b5-9",
             "e0e5613d-d814-4596-b",
         ],
+        zipcode: "12 Aveyron",
     },
     "Les Jardins du Batut": {
         Address: " Les Jardins du Batut Le Batut 375 route de la Margasse  12220 Roussennac",
@@ -58946,6 +59692,7 @@ export const merchant = {
             "d0c32817-0265-401d-8",
             "05d79170-b4de-4329-a",
         ],
+        zipcode: "12 Aveyron",
     },
     "Les chèvres d'oc": {
         Address: " Les chèvres d'oc Les trois pierres  12800 Cabanès",
@@ -59016,6 +59763,7 @@ export const merchant = {
             "e2f4e147-af76-48dd-8",
             "ddd66ace-de8b-40f2-9",
         ],
+        zipcode: "12 Aveyron",
     },
     "Le Sentier des Plantes": {
         Address: " Le Sentier des Plantes Chemin de l'Estèpe  12300 Firmi",
@@ -59089,6 +59837,7 @@ export const merchant = {
             "d99fb42a-66f0-43b8-9",
             "bde41646-af09-4815-9",
         ],
+        zipcode: "12 Aveyron",
     },
     "Les Jardins de l'Indien": {
         Address: " Les Jardins de l'Indien Pradals  12800 Saint-Just-sur-Viaur",
@@ -59182,6 +59931,7 @@ export const merchant = {
             "9455a6b4-7fa0-4bd6-a",
             "e12bc812-b9a7-4053-8",
         ],
+        zipcode: "12 Aveyron",
     },
     "FERME LANDIÉ": {
         Address: " FERME LANDIÉ La Borie de Brunel - NOAILHAC  12320 Conques",
@@ -59256,6 +60006,7 @@ export const merchant = {
             "28b8c875-7d40-4e66-b",
             "64895ecc-bd64-467e-8",
         ],
+        zipcode: "12 Aveyron",
     },
     "Le Fournil au Chat Noir": {
         Address: " Le Fournil au Chat Noir le bourg  12220 Vaureilles",
@@ -59317,6 +60068,7 @@ export const merchant = {
             "6fc014e9-33c1-4dff-a",
             "03858e30-7f99-4f75-8",
         ],
+        zipcode: "12 Aveyron",
     },
     "Les Jardins de Jouqueviel": {
         Address: " Les Jardins de Jouqueviel Lieu-dit Roumégous  12440 La Salvetat-Peyralès",
@@ -59392,6 +60144,7 @@ export const merchant = {
             "0a2230c5-3ed7-4da1-8",
             "c3e8ef3b-32dd-4803-9",
         ],
+        zipcode: "12 Aveyron",
     },
     "Naturellement Simples": {
         Address: " Naturellement Simples Le Cayla  12620 Saint-Laurent-de-Lévézou",
@@ -59465,6 +60218,7 @@ export const merchant = {
             "9455a6b4-7fa0-4bd6-a",
             "3f3c2b8a-5c42-4618-8",
         ],
+        zipcode: "12 Aveyron",
     },
     "GAEC Les Frères Cageot": {
         Address: " GAEC Les Frères Cageot Lieu dit Naujac.  12200 La Bastide-l'Évêque",
@@ -59535,6 +60289,7 @@ export const merchant = {
             "1ac4392e-073b-4cbc-8",
             "b9180f81-3ba1-4b3e-8",
         ],
+        zipcode: "12 Aveyron",
     },
     "Les Délices du Jardin": {
         Address: " Les Délices du Jardin Lou Pitchou ParadiseLa Gineste  12350 Brandonnet",
@@ -59615,6 +60370,7 @@ export const merchant = {
             "8d7ee3fc-7f50-44f7-9",
             "7cf85155-6fe6-478f-8",
         ],
+        zipcode: "12 Aveyron",
     },
     "Le Potager d'Antan": {
         Address: " Le Potager d'Antan Poudac  12170 Réquista",
@@ -59704,6 +60460,7 @@ export const merchant = {
             "7e64c21e-245e-478e-8",
             "24d72e4a-7dbc-4312-9",
         ],
+        zipcode: "12 Aveyron",
     },
     "LA FERME DE LA RIVE": {
         Address: " LA FERME DE LA RIVE La Rive  81190 Pampelonne",
@@ -59805,6 +60562,7 @@ export const merchant = {
             "dfce319d-1c0c-433b-8",
             "03858e30-7f99-4f75-8",
         ],
+        zipcode: "81 Tarn",
     },
     "La Muse du Verger": {
         Address: " La Muse du Verger rue du barry  12620 Saint-Beauzély",
@@ -59874,6 +60632,7 @@ export const merchant = {
             "206e8e2f-5758-4f9c-a",
             "e96f08ed-0ba7-4150-9",
         ],
+        zipcode: "12 Aveyron",
     },
     "Jordy Van Den Akker": {
         Address: " Jordy Van Den Akker Petite Terre  81340 Le Dourn",
@@ -59939,6 +60698,7 @@ export const merchant = {
             "94da843f-6b8f-491d-a",
             "b74dbdd4-0c27-4d1a-a",
         ],
+        zipcode: "81 Tarn",
     },
     "Dominique Bardou": {
         Address: " Dominique Bardou La Garenne  12220 Peyrusse-le-Roc",
@@ -60007,6 +60767,7 @@ export const merchant = {
             "9eaf1bfe-bf4d-4b89-9",
             "7e64c21e-245e-478e-8",
         ],
+        zipcode: "12 Aveyron",
     },
     "GAEC DE LA CHÂTAIGNERAIE": {
         Address: " GAEC DE LA CHÂTAIGNERAIE Seyrolles  12140 Saint-Hippolyte",
@@ -60081,6 +60842,7 @@ export const merchant = {
             "06a50824-d55c-4f03-9",
             "bb38c461-eb40-441d-8",
         ],
+        zipcode: "12 Aveyron",
     },
     "Michel Cazals": {
         Address: " Michel Cazals La Bouyssellie  12200 Sanvensa",
@@ -60140,6 +60902,7 @@ export const merchant = {
             "ef6bbdb9-bac9-47d0-b",
             "cc098c88-7763-4ed9-a",
         ],
+        zipcode: "12 Aveyron",
     },
     "Arnaud Lapeyre": {
         Address: " Arnaud Lapeyre Le Mas de Lafon  12200 Sanvensa",
@@ -60214,6 +60977,7 @@ export const merchant = {
             "3412c0c5-7171-4876-8",
             "be069719-9b53-443e-8",
         ],
+        zipcode: "12 Aveyron",
     },
     "Les Jardins de la Valette": {
         Address: " Les Jardins de la Valette Puech de Teulière  12200 Sanvensa",
@@ -60237,7 +61001,6 @@ export const merchant = {
             "panais",
             "oignon",
             "navet",
-            "",
             "maï",
             "mâche",
             "légumes",
@@ -60354,6 +61117,7 @@ export const merchant = {
             "22b1e6c9-f221-4e3c-9",
             "a810d869-99cf-4a57-a",
         ],
+        zipcode: "12 Aveyron",
     },
     'Fromagerie "La Gayrie"': {
         Address: ' Fromagerie "La Gayrie" La Gayrie  12260 Villeneuve',
@@ -60436,6 +61200,7 @@ export const merchant = {
             "2c74ba62-616c-4428-8",
             "f1e7292a-ceea-4afc-9",
         ],
+        zipcode: "12 Aveyron",
     },
     "Karine Poulnard": {
         Address: " Karine Poulnard Saint-Dalmaze  81190 Saint-Christophe",
@@ -60518,6 +61283,7 @@ export const merchant = {
             "c2c4c5fc-56b5-43f1-9",
             "bc115352-fc0c-4010-8",
         ],
+        zipcode: "81 Tarn",
     },
     Potensac: {
         Address: " Potensac Potensac  12100 Millau",
@@ -60585,6 +61351,7 @@ export const merchant = {
             "a7b60434-becf-4be4-8",
             "9c5f42f1-dee6-49f4-a",
         ],
+        zipcode: "12 Aveyron",
     },
     "Rucher des 4 Chemins": {
         Address: " Rucher des 4 Chemins Les 4 Chemins  81160 Saint-Juéry",
@@ -60668,6 +61435,7 @@ export const merchant = {
             "b7691b68-ea95-4e2d-b",
             "cddb0b52-c5a4-4ea0-9",
         ],
+        zipcode: "81 Tarn",
     },
     "Montredon du Larzac": {
         Address: " Montredon du Larzac Montredon  12100 La Roque-Sainte-Marguerite",
@@ -60731,6 +61499,7 @@ export const merchant = {
             "24d72e4a-7dbc-4312-9",
             "759b2411-41da-4ff0-a",
         ],
+        zipcode: "12 Aveyron",
     },
     "Laurent Cazottes": {
         Address: " Laurent Cazottes Le Carlus  81130 Villeneuve-sur-Vère",
@@ -60812,6 +61581,7 @@ export const merchant = {
             "de3488bb-0d6a-4d20-a",
             "5e0f317c-dfc1-4eaa-9",
         ],
+        zipcode: "81 Tarn",
     },
     "gateaux a la broche": {
         Address: " gateaux a la broche place du marché  81170 Cordes-sur-Ciel",
@@ -60873,6 +61643,7 @@ export const merchant = {
             "8475e20f-195a-44b5-a",
             "d0c32817-0265-401d-8",
         ],
+        zipcode: "81 Tarn",
     },
     "Nicolas Carrie": {
         Address: " Nicolas Carrie La Parisie  81150 Castanet",
@@ -60939,6 +61710,7 @@ export const merchant = {
             "57ddf2e7-e7a6-4ffb-b",
             "8475e20f-195a-44b5-a",
         ],
+        zipcode: "81 Tarn",
     },
     "Jean-Luc Bessou et Florence Peloux": {
         Address: " Jean-Luc Bessou et Florence Peloux La Curade  81170 Vindrac-Alayrac",
@@ -61008,6 +61780,7 @@ export const merchant = {
             "cedc970e-02b6-4c03-9",
             "2180b696-e168-4bad-8",
         ],
+        zipcode: "81 Tarn",
     },
     "Anya Soeters et Michiel Bendel": {
         Address: " Anya Soeters et Michiel Bendel Andignac  81170 Vindrac-Alayrac",
@@ -61069,6 +61842,7 @@ export const merchant = {
             "9455a6b4-7fa0-4bd6-a",
             "2c74ba62-616c-4428-8",
         ],
+        zipcode: "81 Tarn",
     },
     "GAEC DE LUEYSSE": {
         Address: " GAEC DE LUEYSSE LUEYSSE  48500 Laval-du-Tarn",
@@ -61130,6 +61904,7 @@ export const merchant = {
             "549c6436-a053-4fc2-8",
             "23443798-59fb-44ed-9",
         ],
+        zipcode: "48 Lozère",
     },
     "La ferme radieuse": {
         Address: " La ferme radieuse St Peyronis  82160 Lacapelle-Livron",
@@ -61199,6 +61974,7 @@ export const merchant = {
             "7cdcd1a4-2307-4315-9",
             "3098e3a6-5647-4515-a",
         ],
+        zipcode: "82 Tarn-et-Garonne",
     },
     "Jérôme Hyvernat": {
         Address: " Jérôme Hyvernat Le Vieux SauleGoudou  81170 Loubers",
@@ -61269,6 +62045,7 @@ export const merchant = {
             "3f3c2b8a-5c42-4618-8",
             "bae17232-9736-427a-b",
         ],
+        zipcode: "81 Tarn",
     },
     "Jean-Marie Lacaze": {
         Address: " Jean-Marie Lacaze Moulin de Nadal  46120 Labathude",
@@ -61344,6 +62121,7 @@ export const merchant = {
             "fd8f3e50-56f0-4440-9",
             "3ad4d76a-7fcd-4058-9",
         ],
+        zipcode: "46 Lot",
     },
     "GAEC des Gorges du Bès": {
         Address: " GAEC des Gorges du Bès Valiette  15110 Anterrieux",
@@ -61426,6 +62204,7 @@ export const merchant = {
             "bde41646-af09-4815-9",
             "b9180f81-3ba1-4b3e-8",
         ],
+        zipcode: "15 Cantal",
     },
     "Bernard Fabre": {
         Address: " Bernard Fabre Domaine des Cailloutis  81140 Andillac",
@@ -61492,6 +62271,7 @@ export const merchant = {
             "cbe4cc1d-6e55-4b90-9",
             "a4adc1fd-b35f-4161-a",
         ],
+        zipcode: "81 Tarn",
     },
     "Stéphane Debiée": {
         Address: " Stéphane Debiée Doujac  46160 Marcilhac-sur-Célé",
@@ -61567,6 +62347,7 @@ export const merchant = {
             "98758375-ad4d-4c0e-8",
             "9c559e1b-e467-4f03-8",
         ],
+        zipcode: "46 Lot",
     },
     ESSENTIEL: {
         Address: " ESSENTIEL Mas de Pichaudel  46160 Marcilhac-sur-Célé",
@@ -61633,6 +62414,7 @@ export const merchant = {
             "e095d8c7-5da9-4945-8",
             "c3e8ef3b-32dd-4803-9",
         ],
+        zipcode: "46 Lot",
     },
     "Des Amis": {
         Address: " Des Amis La Teulière Haute  81140 Vaour",
@@ -61705,6 +62487,7 @@ export const merchant = {
             "dacbc345-dff3-4de7-8",
             "2d73016a-c7a8-4266-9",
         ],
+        zipcode: "81 Tarn",
     },
     "Céline Coqblin": {
         Address: " Céline Coqblin Cabanes  81140 Saint-Beauzile",
@@ -61773,6 +62556,7 @@ export const merchant = {
             "1485aace-1cab-4d0f-8",
             "c3e8ef3b-32dd-4803-9",
         ],
+        zipcode: "81 Tarn",
     },
     "Mas d'ardenne - Christine GONELLA": {
         Address: " Mas d'ardenne - Christine GONELLA MAS D ARDENNE  48000 Servières",
@@ -61844,6 +62628,7 @@ export const merchant = {
             "aa043fb5-5d63-4f30-9",
             "d17f0be6-4007-4c18-9",
         ],
+        zipcode: "48 Lozère",
     },
     "Christian Clève": {
         Address: " Christian Clève Ribevenes  48150 Meyrueis",
@@ -61914,6 +62699,7 @@ export const merchant = {
             "65e22731-e95e-42dc-8",
             "3f3c2b8a-5c42-4618-8",
         ],
+        zipcode: "48 Lozère",
     },
     "Ferme du Bouysset": {
         Address: " Ferme du Bouysset Lieu-dit le Pic  81140 Penne",
@@ -61981,6 +62767,7 @@ export const merchant = {
             "c5ba7716-f287-4d5c-9",
             "8b272777-8d25-4c4f-a",
         ],
+        zipcode: "81 Tarn",
     },
     "Christophe Ramel": {
         Address: " Christophe Ramel Le Marazeil  48320 Ispagnac",
@@ -62048,6 +62835,7 @@ export const merchant = {
             "a7b60434-becf-4be4-8",
             "cbe4cc1d-6e55-4b90-9",
         ],
+        zipcode: "48 Lozère",
     },
     "Pépinière les Framboises de la Truyère": {
         Address: " Pépinière les Framboises de la Truyère le barry  15100 Alleuze",
@@ -62129,6 +62917,7 @@ export const merchant = {
             "06a50824-d55c-4f03-9",
             "c5ba7716-f287-4d5c-9",
         ],
+        zipcode: "15 Cantal",
     },
     "Ronan Bouanchaud": {
         Address: " Ronan Bouanchaud La Fajas  48400 Saint-Laurent-de-Trèves",
@@ -62205,6 +62994,7 @@ export const merchant = {
             "03858e30-7f99-4f75-8",
             "4f568df1-b9f2-4643-9",
         ],
+        zipcode: "48 Lozère",
     },
     "Karl Martin Hild": {
         Address: " Karl Martin Hild Vicary  46230 Belfort-du-Quercy",
@@ -62276,6 +63066,7 @@ export const merchant = {
             "8475e20f-195a-44b5-a",
             "cfaec864-62b8-4438-a",
         ],
+        zipcode: "46 Lot",
     },
     "La Ferme de Siran": {
         Address: " La Ferme de Siran Siran  46130 Loubressac",
@@ -62343,6 +63134,7 @@ export const merchant = {
             "ddd66ace-de8b-40f2-9",
             "5e0f317c-dfc1-4eaa-9",
         ],
+        zipcode: "46 Lot",
     },
     "David Miquel": {
         Address: " David Miquel Galessie Haut  46090 Arcambal",
@@ -62408,6 +63200,7 @@ export const merchant = {
             "b74dbdd4-0c27-4d1a-a",
             "c4342434-5448-4946-a",
         ],
+        zipcode: "46 Lot",
     },
     "Douceurs de la Xaintrie": {
         Address: " Douceurs de la Xaintrie Lacamp  19430 Goulles",
@@ -62499,6 +63292,7 @@ export const merchant = {
             "94da843f-6b8f-491d-a",
             "8b272777-8d25-4c4f-a",
         ],
+        zipcode: "19 Corrèze",
     },
     "GAEC NATUR' AGNEAU": {
         Address: " GAEC NATUR' AGNEAU VOLZAC  15100 Saint-Flour",
@@ -62573,6 +63367,7 @@ export const merchant = {
             "927cd85f-1417-4fb5-a",
             "e90c828b-b2ab-4e21-8",
         ],
+        zipcode: "15 Cantal",
     },
     "Les Fruits des Cévennes": {
         Address: " Les Fruits des Cévennes Le Mas Roger  48110 Le Pompidou",
@@ -62648,6 +63443,7 @@ export const merchant = {
             "b74dbdd4-0c27-4d1a-a",
             "78b8d2d1-eb3e-4f1f-9",
         ],
+        zipcode: "48 Lozère",
     },
     "GAEC du louveteau": {
         Address: " GAEC du louveteau lieu dit le mazas  48190 Allenc",
@@ -62724,6 +63520,7 @@ export const merchant = {
             "d99fb42a-66f0-43b8-9",
             "6e4f5183-64ca-4ac7-b",
         ],
+        zipcode: "48 Lozère",
     },
     "Guy Buannec": {
         Address: " Guy Buannec Hameau de Nozaret  30940 Saint-André-de-Valborgne",
@@ -62799,6 +63596,7 @@ export const merchant = {
             "fbf9e7ff-bed3-4d29-a",
             "5fefc504-b99b-4bd7-b",
         ],
+        zipcode: "30 Gard",
     },
     "Ferme d'Auzillargues": {
         Address: " Ferme d'Auzillargues Auzillargues  30940 Saint-André-de-Valborgne",
@@ -62875,6 +63673,7 @@ export const merchant = {
             "1ccec9f5-8466-44f6-9",
             "ec20d22a-f711-4320-9",
         ],
+        zipcode: "30 Gard",
     },
     "Djemel et Laurence Kasmi": {
         Address: " Djemel et Laurence Kasmi Carbonnet  19120 Sioniac",
@@ -62951,6 +63750,7 @@ export const merchant = {
             "e095d8c7-5da9-4945-8",
             "b5d4a6a6-7131-40e8-8",
         ],
+        zipcode: "19 Corrèze",
     },
     "Jean-Michel Martin": {
         Address: " Jean-Michel Martin Le Moulin  48110 Gabriac",
@@ -63025,6 +63825,7 @@ export const merchant = {
             "a7b60434-becf-4be4-8",
             "4907e1bc-054e-4c86-a",
         ],
+        zipcode: "48 Lozère",
     },
     "Ferme/Pépinière de la Corniche des Cevennes": {
         Address: " Ferme/Pépinière de la Corniche des Cevennes L'Adrech  48110 Gabriac",
@@ -63111,6 +63912,7 @@ export const merchant = {
             "5fefc504-b99b-4bd7-b",
             "d0c32817-0265-401d-8",
         ],
+        zipcode: "48 Lozère",
     },
     "Leila Bourad": {
         Address: " Leila Bourad Le BourgLogement Mairie  46150 Gigouzac",
@@ -63191,6 +63993,7 @@ export const merchant = {
             "94da843f-6b8f-491d-a",
             "03858e30-7f99-4f75-8",
         ],
+        zipcode: "46 Lot",
     },
     "CaféTénango Torréfaction": {
         Address: " CaféTénango Torréfaction 650 route de Negrepelisse  82350 Albias",
@@ -63258,6 +64061,7 @@ export const merchant = {
             "7a484fe0-2195-4c56-8",
             "cc2d474b-f84f-43e1-b",
         ],
+        zipcode: "82 Tarn-et-Garonne",
     },
     "Légumes martre": {
         Address: " Légumes martre Chemin de pissobi aux serres  46090 Pradines",
@@ -63374,6 +64178,7 @@ export const merchant = {
             "3412c0c5-7171-4876-8",
             "c3e8ef3b-32dd-4803-9",
         ],
+        zipcode: "46 Lot",
     },
     "Jérémie Berne": {
         Address: " Jérémie Berne La Rouvierette  30570 Saint-André-de-Majencoules",
@@ -63443,6 +64248,7 @@ export const merchant = {
             "3ad4d76a-7fcd-4058-9",
             "cc098c88-7763-4ed9-a",
         ],
+        zipcode: "30 Gard",
     },
     "Louise Chandelon": {
         Address: " Louise Chandelon Le Puech  48110 Sainte-Croix-Vallée-Française",
@@ -63513,6 +64319,7 @@ export const merchant = {
             "549c6436-a053-4fc2-8",
             "e96f08ed-0ba7-4150-9",
         ],
+        zipcode: "48 Lozère",
     },
     "Les Plantes des Cévennes": {
         Address: " Les Plantes des Cévennes Les Camboux  48110 Sainte-Croix-Vallée-Française",
@@ -63585,6 +64392,7 @@ export const merchant = {
             "24a419cb-e43e-41db-9",
             "ede0e2ff-7da1-4be1-8",
         ],
+        zipcode: "48 Lozère",
     },
     Candival: {
         Address: " Candival La Grangerie  48110 Sainte-Croix-Vallée-Française",
@@ -63649,6 +64457,7 @@ export const merchant = {
             "e2a11a09-924c-44bd-9",
             "a01c1f11-2d45-4b0f-9",
         ],
+        zipcode: "48 Lozère",
     },
     "lutin du terroir": {
         Address: " lutin du terroir village  48110 Sainte-Croix-Vallée-Française",
@@ -63719,6 +64528,7 @@ export const merchant = {
             "2a7ed06e-4f7d-44d0-b",
             "8d7ee3fc-7f50-44f7-9",
         ],
+        zipcode: "48 Lozère",
     },
     "Bruno Brossard": {
         Address: " Bruno Brossard La Rouvière  48110 Saint-Martin-de-Lansuscle",
@@ -63787,6 +64597,7 @@ export const merchant = {
             "206e8e2f-5758-4f9c-a",
             "01e715e3-83b0-4b1e-a",
         ],
+        zipcode: "48 Lozère",
     },
     "Bernard Michot Soret et Françoise Besse": {
         Address: " Bernard Michot Soret et Françoise Besse Nogardel  48110 Saint-Martin-de-Lansuscle",
@@ -63856,6 +64667,7 @@ export const merchant = {
             "2b8be3bb-0821-4c45-b",
             "270076d2-0756-424e-8",
         ],
+        zipcode: "48 Lozère",
     },
     "Florence Rousson": {
         Address: " Florence Rousson Fabrègues  48110 Saint-Martin-de-Lansuscle",
@@ -63935,6 +64747,7 @@ export const merchant = {
             "2134c166-5c28-4e4f-8",
             "06a50824-d55c-4f03-9",
         ],
+        zipcode: "48 Lozère",
     },
     "Les Jardins de Boussegures": {
         Address: " Les Jardins de Boussegures Lieu dit BOUSSEGURES  48110 Saint-Martin-de-Lansuscle",
@@ -64010,6 +64823,7 @@ export const merchant = {
             "dfce319d-1c0c-433b-8",
             "05d79170-b4de-4329-a",
         ],
+        zipcode: "48 Lozère",
     },
     "Label Terre": {
         Address: " Label Terre Campama  82220 Molières",
@@ -64133,6 +64947,7 @@ export const merchant = {
             "7961c730-e82f-43b6-9",
             "f1e7292a-ceea-4afc-9",
         ],
+        zipcode: "82 Tarn-et-Garonne",
     },
     "Cécile Camy et Anne Vétier": {
         Address: " Cécile Camy et Anne Vétier Le Viala  48240 Saint-André-de-Lancize",
@@ -64204,6 +65019,7 @@ export const merchant = {
             "ec20d22a-f711-4320-9",
             "bedd30a4-f294-40ea-b",
         ],
+        zipcode: "48 Lozère",
     },
     "Philippe & Geneviève Rhodes": {
         Address: " Philippe & Geneviève Rhodes La Graille  48240 Saint-André-de-Lancize",
@@ -64288,6 +65104,7 @@ export const merchant = {
             "ee4f8799-d969-446f-a",
             "7961c730-e82f-43b6-9",
         ],
+        zipcode: "48 Lozère",
     },
     "Jérome Bonnal": {
         Address: " Jérome Bonnal La Fare  48370 Saint-Germain-de-Calberte",
@@ -64355,6 +65172,7 @@ export const merchant = {
             "4907e1bc-054e-4c86-a",
             "be069719-9b53-443e-8",
         ],
+        zipcode: "48 Lozère",
     },
     "Léna Henkes": {
         Address: " Léna Henkes La Bastide  48370 Saint-Germain-de-Calberte",
@@ -64426,6 +65244,7 @@ export const merchant = {
             "04e83ced-0f17-4ee1-8",
             "859f8042-833e-4975-b",
         ],
+        zipcode: "48 Lozère",
     },
     "Raphaël Herman": {
         Address: " Raphaël Herman Printigarde  48370 Saint-Germain-de-Calberte",
@@ -64490,6 +65309,7 @@ export const merchant = {
             "2092de18-8aef-4b63-8",
             "8f4accb7-efd2-4723-b",
         ],
+        zipcode: "48 Lozère",
     },
     Rodrigues: {
         Address: " Rodrigues Rue de l'Interieur  30127 Bellegarde",
@@ -64557,6 +65377,7 @@ export const merchant = {
             "bc115352-fc0c-4010-8",
             "cfaec864-62b8-4438-a",
         ],
+        zipcode: "30 Gard",
     },
     "Laurent Esteve": {
         Address: " Laurent Esteve Chemin de RedessanLieu dit Mas de Rispe  30127 Bellegarde",
@@ -64628,6 +65449,7 @@ export const merchant = {
             "c2c4c5fc-56b5-43f1-9",
             "1793c3d4-5912-43b2-9",
         ],
+        zipcode: "30 Gard",
     },
     "Mas Saint-Jean": {
         Address: " Mas Saint-Jean Route de Beaucaire  30127 Bellegarde",
@@ -64704,6 +65526,7 @@ export const merchant = {
             "b74dbdd4-0c27-4d1a-a",
             "3f3c2b8a-5c42-4618-8",
         ],
+        zipcode: "30 Gard",
     },
     "Jacques Homsy": {
         Address: " Jacques Homsy C/O Nicolas REUSEMas Saint Jean  30127 Bellegarde",
@@ -64767,6 +65590,7 @@ export const merchant = {
             "8d7ee3fc-7f50-44f7-9",
             "8b272777-8d25-4c4f-a",
         ],
+        zipcode: "30 Gard",
     },
     "le savon de mon papa": {
         Address: " le savon de mon papa chemin de balandran les sources  30127 Bellegarde",
@@ -64836,6 +65660,7 @@ export const merchant = {
             "ddad5d6c-fb1c-4a78-b",
             "b9180f81-3ba1-4b3e-8",
         ],
+        zipcode: "30 Gard",
     },
     "Mas Verte Rive": {
         Address: " Mas Verte Rive 3768 Route de Nimes  30800 Saint-Gilles",
@@ -64899,6 +65724,7 @@ export const merchant = {
             "bc115352-fc0c-4010-8",
             "bde41646-af09-4815-9",
         ],
+        zipcode: "30 Gard",
     },
     "François Caizergues": {
         Address: " François Caizergues Les Bergas  30320 Bezouce",
@@ -64984,6 +65810,7 @@ export const merchant = {
             "b74dbdd4-0c27-4d1a-a",
             "4f568df1-b9f2-4643-9",
         ],
+        zipcode: "30 Gard",
     },
     "Jean-François Lorente": {
         Address: " Jean-François Lorente 9 rue des Tamaris  30510 Générac",
@@ -65054,6 +65881,7 @@ export const merchant = {
             "def9908b-aac6-44d0-9",
             "06a50824-d55c-4f03-9",
         ],
+        zipcode: "30 Gard",
     },
     "Vincent Bouet et Brigitte Navarian": {
         Address: " Vincent Bouet et Brigitte Navarian Les Magesses  30700 Sanilhac-Sagriès",
@@ -65064,7 +65892,6 @@ export const merchant = {
             "aubergine",
             "courgette",
             "légumes",
-            "",
             "pomme de terre",
             "rhubarbe",
             "tomate",
@@ -65143,6 +65970,7 @@ export const merchant = {
             "fbf9e7ff-bed3-4d29-a",
             "2b8be3bb-0821-4c45-b",
         ],
+        zipcode: "30 Gard",
     },
     "Brasserie la Lie": {
         Address: " Brasserie la Lie 65 bis, route d'Harcourt  14320 Saint-Martin-de-Fontenay",
@@ -65199,6 +66027,7 @@ export const merchant = {
             "3eac1d4b-1355-417f-a",
             "01e715e3-83b0-4b1e-a",
         ],
+        zipcode: "14 Calvados",
     },
     "Le Moulin deThibo & Caro": {
         Address: " Le Moulin deThibo & Caro 4 rue de Fontaine  14930 Maltot",
@@ -65271,6 +66100,7 @@ export const merchant = {
             "9235d007-7289-43f1-8",
             "c5ba7716-f287-4d5c-9",
         ],
+        zipcode: "14 Calvados",
     },
     "Verger de Roncheville": {
         Address: " Verger de Roncheville Roncheville  14860 Bavent",
@@ -65341,6 +66171,7 @@ export const merchant = {
             "af34ed7d-4e63-4b0a-9",
             "ed416075-44d1-4b9c-a",
         ],
+        zipcode: "14 Calvados",
     },
     "Le Jardin des Senteurs et des Saveurs": {
         Address: " Le Jardin des Senteurs et des Saveurs 24 ,Rue de Creully  14480 Saint-Gabriel-Brécy",
@@ -65404,6 +66235,7 @@ export const merchant = {
             "7c22e737-1de8-4697-9",
             "23443798-59fb-44ed-9",
         ],
+        zipcode: "14 Calvados",
     },
     "Stéphanie Demeure": {
         Address: " Stéphanie Demeure Pitot  14260 Saint-Georges-d'Aunay",
@@ -65478,6 +66310,7 @@ export const merchant = {
             "e98f0d96-b313-4921-9",
             "87204ba0-b4d8-48bf-b",
         ],
+        zipcode: "14 Calvados",
     },
     Saponette: {
         Address: " Saponette Le bourg  14240 Sainte-Honorine-de-Ducy",
@@ -65556,6 +66389,7 @@ export const merchant = {
             "859f8042-833e-4975-b",
             "be069719-9b53-443e-8",
         ],
+        zipcode: "14 Calvados",
     },
     "Au Jardin du Pré-Bocage": {
         Address: " Au Jardin du Pré-Bocage 8 rue des Epinettes  14310 Coulvain",
@@ -65657,6 +66491,7 @@ export const merchant = {
             "7b712be5-0033-4339-a",
             "d0533766-d7de-4150-a",
         ],
+        zipcode: "14 Calvados",
     },
     "La Fiamme Normande": {
         Address: " La Fiamme Normande 15 impasse des rouges gorges  14240 Cahagnes",
@@ -65732,6 +66567,7 @@ export const merchant = {
             "3098e3a6-5647-4515-a",
             "bde41646-af09-4815-9",
         ],
+        zipcode: "14 Calvados",
     },
     "Les Savons d'Orély": {
         Address: " Les Savons d'Orély Lieu-dit Marie Jolie  14170 Vaudeloges",
@@ -65802,6 +66638,7 @@ export const merchant = {
             "3d00baa1-d2c2-4d49-8",
             "4907e1bc-054e-4c86-a",
         ],
+        zipcode: "14 Calvados",
     },
     "EARL COSMHANA": {
         Address: " EARL COSMHANA Le Hamel, La Ferme de RenéSens  14710 Surrain",
@@ -65874,6 +66711,7 @@ export const merchant = {
             "e90c828b-b2ab-4e21-8",
             "6e4f5183-64ca-4ac7-b",
         ],
+        zipcode: "14 Calvados",
     },
     "La Buttinière": {
         Address: " La Buttinière 16, route de la Gervaisière  61100 Ségrie-Fontaine",
@@ -65982,6 +66820,7 @@ export const merchant = {
             "855d0ac2-cdc0-4934-b",
             "c5ba7716-f287-4d5c-9",
         ],
+        zipcode: "61 Orne",
     },
     "Thierry Heroux": {
         Address: " Thierry Heroux La Nolière  61100 La Lande-Saint-Siméon",
@@ -66039,6 +66878,7 @@ export const merchant = {
             "549c6436-a053-4fc2-8",
             "23443798-59fb-44ed-9",
         ],
+        zipcode: "61 Orne",
     },
     "Les crea": {
         Address: " Les crea 19 route d'honfleur  14130 Tourville-en-Auge",
@@ -66116,6 +66956,7 @@ export const merchant = {
             "270076d2-0756-424e-8",
             "d0c32817-0265-401d-8",
         ],
+        zipcode: "14 Calvados",
     },
     "Planète Abeilles": {
         Address: " Planète Abeilles Les Meserettes  61210 Rabodanges",
@@ -66193,6 +67034,7 @@ export const merchant = {
             "fbdde269-2737-4949-b",
             "aa043fb5-5d63-4f30-9",
         ],
+        zipcode: "61 Orne",
     },
     "Ferme de la Hogue": {
         Address: " Ferme de la Hogue 6 la Hogue  50160 Guilberville",
@@ -66257,6 +67099,7 @@ export const merchant = {
             "d2f7c482-c3c4-4026-9",
             "01e715e3-83b0-4b1e-a",
         ],
+        zipcode: "50 Manche",
     },
     "EARL des P'tites Normandes": {
         Address: " EARL des P'tites Normandes Le vieux ménage  14230 La Cambe",
@@ -66334,6 +67177,7 @@ export const merchant = {
             "cc098c88-7763-4ed9-a",
             "8b272777-8d25-4c4f-a",
         ],
+        zipcode: "14 Calvados",
     },
     "Ferme du Perriers": {
         Address: " Ferme du Perriers route de Baudre  50000 Saint-Lô",
@@ -66401,6 +67245,7 @@ export const merchant = {
             "eca59891-d8d6-4352-8",
             "dfce319d-1c0c-433b-8",
         ],
+        zipcode: "50 Manche",
     },
     Africavita: {
         Address: " Africavita La lauviere  14500 Vire",
@@ -66465,6 +67310,7 @@ export const merchant = {
             "33a93d59-5719-48de-8",
             "9c559e1b-e467-4f03-8",
         ],
+        zipcode: "14 Calvados",
     },
     "Ferme du Petit Galleron": {
         Address: " Ferme du Petit Galleron 303 impasse du pont Benard  14230 Isigny-sur-Mer",
@@ -66604,6 +67450,7 @@ export const merchant = {
             "1bb9f5e6-3d13-45b7-b",
             "cc2d474b-f84f-43e1-b",
         ],
+        zipcode: "14 Calvados",
     },
     "Ferme de l'Orangerie": {
         Address: " Ferme de l'Orangerie l'Orangerie  50620 Le Dézert",
@@ -66674,6 +67521,7 @@ export const merchant = {
             "e8d451d8-9c66-41d0-a",
             "d006b89c-9b74-4c39-9",
         ],
+        zipcode: "50 Manche",
     },
     "La ferme Dumesnil": {
         Address: " La ferme Dumesnil 221 route du castillon  76430 Saint-Vincent-Cramesnil",
@@ -66768,6 +67616,7 @@ export const merchant = {
             "bf29f45a-4db5-4f10-9",
             "8b272777-8d25-4c4f-a",
         ],
+        zipcode: "76 Seine-Maritime",
     },
     "Le Potager des Gourmets": {
         Address: " Le Potager des Gourmets Lieu-dit la Colliardère  61700 Lonlay-l'Abbaye",
@@ -66847,6 +67696,7 @@ export const merchant = {
             "60f37375-dd24-4f11-8",
             "cc2d474b-f84f-43e1-b",
         ],
+        zipcode: "61 Orne",
     },
     "GAEC L'Oasis du Désert": {
         Address: " GAEC L'Oasis du Désert Le Désert  61570 Le Château-d'Almenêches",
@@ -66943,6 +67793,7 @@ export const merchant = {
             "5fefc504-b99b-4bd7-b",
             "78b8d2d1-eb3e-4f1f-9",
         ],
+        zipcode: "61 Orne",
     },
     "Ferme du Chastel": {
         Address: " Ferme du Chastel 33 Lieu-dit Le Mesnil, rue du Mesnil  50500 Saint-Georges-de-Bohon",
@@ -66998,6 +67849,7 @@ export const merchant = {
             "a30edda6-3250-4771-b",
             "1ac4392e-073b-4cbc-8",
         ],
+        zipcode: "50 Manche",
     },
     "Damien Lemasson": {
         Address: " Damien Lemasson Le Vaucher  50570 Cametours",
@@ -67065,6 +67917,7 @@ export const merchant = {
             "9c5f42f1-dee6-49f4-a",
             "bae17232-9736-427a-b",
         ],
+        zipcode: "50 Manche",
     },
     "Tanguy Laurent": {
         Address: " Tanguy Laurent La Touche  61700 Domfront",
@@ -67134,6 +67987,7 @@ export const merchant = {
             "cd15077f-c259-43f9-8",
             "bc115352-fc0c-4010-8",
         ],
+        zipcode: "61 Orne",
     },
     "Tanguy et Adèle Laurent": {
         Address: " Tanguy et Adèle Laurent La Touche  61700 Domfront",
@@ -67216,6 +68070,7 @@ export const merchant = {
             "aa043fb5-5d63-4f30-9",
             "78b8d2d1-eb3e-4f1f-9",
         ],
+        zipcode: "61 Orne",
     },
     "Confiture La Bouyardière": {
         Address: " Confiture La Bouyardière La Bouyardière  61350 Saint-Mars-d'Égrenne",
@@ -67290,6 +68145,7 @@ export const merchant = {
             "60f37375-dd24-4f11-8",
             "5fefc504-b99b-4bd7-b",
         ],
+        zipcode: "61 Orne",
     },
     "La Ferme Sources de Vie": {
         Address: " La Ferme Sources de Vie La Boutrais  61370 Saint-Pierre-des-Loges",
@@ -67410,6 +68266,7 @@ export const merchant = {
             "2b8be3bb-0821-4c45-b",
             "de3488bb-0d6a-4d20-a",
         ],
+        zipcode: "61 Orne",
     },
     "Ecole des Semeurs": {
         Address: " Ecole des Semeurs Rue des Forges  27410 Beaumesnil",
@@ -67477,6 +68334,7 @@ export const merchant = {
             "cddb0b52-c5a4-4ea0-9",
             "be069719-9b53-443e-8",
         ],
+        zipcode: "27 Eure",
     },
     "LA CAVE D'ORGUEIL": {
         Address: " LA CAVE D'ORGUEIL 22 place Albert Roger  61390 Courtomer",
@@ -67550,6 +68408,7 @@ export const merchant = {
             "dd21e44e-ca50-482f-a",
             "ed416075-44d1-4b9c-a",
         ],
+        zipcode: "61 Orne",
     },
     "Ferme du Vastel": {
         Address: " Ferme du Vastel Le Vastel  50630 Teurthéville-Bocage",
@@ -67616,6 +68475,7 @@ export const merchant = {
             "9857fcc4-149f-4617-a",
             "1bb9f5e6-3d13-45b7-b",
         ],
+        zipcode: "50 Manche",
     },
     Barbedette: {
         Address: " Barbedette Le court champs  19 route de la boulouze  50220 Marcilly",
@@ -67684,6 +68544,7 @@ export const merchant = {
             "d3528ce1-ba92-401a-b",
             "8a10450c-83b4-4936-9",
         ],
+        zipcode: "50 Manche",
     },
     "La Ferme de Domi et Isa": {
         Address: " La Ferme de Domi et Isa 8 bis route de la Vautière  50700 Yvetot-Bocage",
@@ -67748,6 +68609,7 @@ export const merchant = {
             "dfce319d-1c0c-433b-8",
             "03858e30-7f99-4f75-8",
         ],
+        zipcode: "50 Manche",
     },
     "Les Phytophages": {
         Address: " Les Phytophages Le Bas Sannière  61380 Soligny-la-Trappe",
@@ -67811,6 +68673,7 @@ export const merchant = {
             "4907e1bc-054e-4c86-a",
             "de3488bb-0d6a-4d20-a",
         ],
+        zipcode: "61 Orne",
     },
     "Volailles du nord Mayenne": {
         Address: " Volailles du nord Mayenne Les Grands Moulins Neufs  53220 Saint-Mars-sur-la-Futaie",
@@ -67872,6 +68735,7 @@ export const merchant = {
             "98758375-ad4d-4c0e-8",
             "3cc432ef-b2af-485a-b",
         ],
+        zipcode: "53 Mayenne",
     },
     "La Ferme du Saint-Paër": {
         Address: " La Ferme du Saint-Paër 1274 Le bas Mouchel  76480 Saint-Paër",
@@ -67991,6 +68855,7 @@ export const merchant = {
             "a7b60434-becf-4be4-8",
             "e25e4e34-2441-4451-b",
         ],
+        zipcode: "76 Seine-Maritime",
     },
     "La ferme des Venelles - Frédéric Durand": {
         Address: " La ferme des Venelles - Frédéric Durand 1354 chemin du Roy  76480 Bardouville",
@@ -68051,6 +68916,7 @@ export const merchant = {
             "9c559e1b-e467-4f03-8",
             "7cf85155-6fe6-478f-8",
         ],
+        zipcode: "76 Seine-Maritime",
     },
     "LA P'TITE FERME DU LATAY": {
         Address: " LA P'TITE FERME DU LATAY 39 LE LATAY  35420 La Bazouge-du-Désert",
@@ -68122,6 +68988,7 @@ export const merchant = {
             "a5f2f735-53f4-47ae-9",
             "7c22e737-1de8-4697-9",
         ],
+        zipcode: "35 Ille-et-Vilaine",
     },
     "ferme la Falleixoise": {
         Address: " ferme la Falleixoise faleix  15190 Montboudif",
@@ -68197,6 +69064,7 @@ export const merchant = {
             "d0533766-d7de-4150-a",
             "a01c1f11-2d45-4b0f-9",
         ],
+        zipcode: "15 Cantal",
     },
     "Brasserie de la Cère": {
         Address: " Brasserie de la Cère Layrac  46600 Martel",
@@ -68265,6 +69133,7 @@ export const merchant = {
             "58f2388c-539c-48f0-9",
             "e96f08ed-0ba7-4150-9",
         ],
+        zipcode: "46 Lot",
     },
     "Le Verger de la Guillaume": {
         Address: " Le Verger de la Guillaume Les Chaussades  19300 Saint-Yrieix-le-Déjalat",
@@ -68325,6 +69194,7 @@ export const merchant = {
             "cd3e53b0-61e0-48f3-8",
             "def9908b-aac6-44d0-9",
         ],
+        zipcode: "19 Corrèze",
     },
     "Brasserie Alagnon": {
         Address: " Brasserie Alagnon La Bonale  43450 Blesle",
@@ -68382,6 +69252,7 @@ export const merchant = {
             "aa043fb5-5d63-4f30-9",
             "4f568df1-b9f2-4643-9",
         ],
+        zipcode: "43 Haute-Loire",
     },
     "Jean Maison": {
         Address: " Jean Maison Bourg  19390 Saint-Augustin",
@@ -68451,6 +69322,7 @@ export const merchant = {
             "c653c212-019a-465e-9",
             "0a2230c5-3ed7-4da1-8",
         ],
+        zipcode: "19 Corrèze",
     },
     "Les Ateliers du Zagat": {
         Address: " Les Ateliers du Zagat Le Zagat  63420 Ardes",
@@ -68511,6 +69383,7 @@ export const merchant = {
             "e9e7635a-77a7-438a-9",
             "bc115352-fc0c-4010-8",
         ],
+        zipcode: "63 Puy-de-Dôme",
     },
     "La Ferme des Vergers de Veix": {
         Address: " La Ferme des Vergers de Veix Chez Juillac  19260 Veix",
@@ -68629,6 +69502,7 @@ export const merchant = {
             "0a2230c5-3ed7-4da1-8",
             "9c5f42f1-dee6-49f4-a",
         ],
+        zipcode: "19 Corrèze",
     },
     "Domaine Imbeau": {
         Address: " Domaine Imbeau Le Clos des Monts  63340 Boudes",
@@ -68703,6 +69577,7 @@ export const merchant = {
             "60f37375-dd24-4f11-8",
             "33a93d59-5719-48de-8",
         ],
+        zipcode: "63 Puy-de-Dôme",
     },
     "Le Potager des Chenaies": {
         Address: " Le Potager des Chenaies A la Coste  46300 Fajoles",
@@ -68775,6 +69650,7 @@ export const merchant = {
             "1485aace-1cab-4d0f-8",
             "bde41646-af09-4815-9",
         ],
+        zipcode: "46 Lot",
     },
     "Les jardins de Maxime": {
         Address: " Les jardins de Maxime 2 rue Gabriel Péri  43100 Brioude",
@@ -68840,6 +69716,7 @@ export const merchant = {
             "fd8f3e50-56f0-4440-9",
             "bc115352-fc0c-4010-8",
         ],
+        zipcode: "43 Haute-Loire",
     },
     "Le Verger du Pré de Sagne": {
         Address: " Le Verger du Pré de Sagne Pradel  19240 Allassac",
@@ -68910,6 +69787,7 @@ export const merchant = {
             "927cd85f-1417-4fb5-a",
             "0defd424-00b8-4e45-a",
         ],
+        zipcode: "19 Corrèze",
     },
     "MICROBRASSERIE L'IMPRO": {
         Address: " MICROBRASSERIE L'IMPRO Chemin de Sainte Madeleine  63340 Chalus",
@@ -68982,6 +69860,7 @@ export const merchant = {
             "4298f4bc-ac2e-47f1-a",
             "e095d8c7-5da9-4945-8",
         ],
+        zipcode: "63 Puy-de-Dôme",
     },
     "L'élevage de Nathalie": {
         Address: " L'élevage de Nathalie Rue des Gaillardes  63500 Vodable",
@@ -69045,6 +69924,7 @@ export const merchant = {
             "ef6bbdb9-bac9-47d0-b",
             "fbdde269-2737-4949-b",
         ],
+        zipcode: "63 Puy-de-Dôme",
     },
     "Ferme de Fons des Ores": {
         Address: " Ferme de Fons des Ores Rue de la Gazelle  63340 Antoingt",
@@ -69117,6 +69997,7 @@ export const merchant = {
             "e9e7635a-77a7-438a-9",
             "4298f4bc-ac2e-47f1-a",
         ],
+        zipcode: "63 Puy-de-Dôme",
     },
     "la saveur des framboises et dérivés": {
         Address: " la saveur des framboises et dérivés Parpasset  63500 Le Broc",
@@ -69176,6 +70057,7 @@ export const merchant = {
             "d3528ce1-ba92-401a-b",
             "1793c3d4-5912-43b2-9",
         ],
+        zipcode: "63 Puy-de-Dôme",
     },
     "Les Délices du Gaulois": {
         Address: " Les Délices du Gaulois La rivière rt de loubignac 19520  19520 Cublac",
@@ -69247,6 +70129,7 @@ export const merchant = {
             "bc115352-fc0c-4010-8",
             "a5f2f735-53f4-47ae-9",
         ],
+        zipcode: "19 Corrèze",
     },
     "la saveur des framboises": {
         Address: " la saveur des framboises Domaine de Parpasset, le Broc  63500 Issoire",
@@ -69313,6 +70196,7 @@ export const merchant = {
             "a5f2f735-53f4-47ae-9",
             "8b7e6d8a-0a39-4dbf-9",
         ],
+        zipcode: "63 Puy-de-Dôme",
     },
     "domaine de parpasset": {
         Address: " domaine de parpasset domaine de Parpasset 63500 Le Broc  63500 Issoire",
@@ -69385,6 +70269,7 @@ export const merchant = {
             "33a93d59-5719-48de-8",
             "8b272777-8d25-4c4f-a",
         ],
+        zipcode: "63 Puy-de-Dôme",
     },
     "Savonnerie Soleya": {
         Address: " Savonnerie Soleya le bourg  24250 Saint-Martial-de-Nabirat",
@@ -69447,6 +70332,7 @@ export const merchant = {
             "d3d50bdd-0df3-493c-a",
             "d0533766-d7de-4150-a",
         ],
+        zipcode: "24 Dordogne",
     },
     "Jean-François Bouchy": {
         Address: " Jean-François Bouchy Pech Gaillard  46340 Salviac",
@@ -69525,6 +70411,7 @@ export const merchant = {
             "7a484fe0-2195-4c56-8",
             "149306aa-d693-4c27-8",
         ],
+        zipcode: "46 Lot",
     },
     "Les cochons de Coco": {
         Address: " Les cochons de Coco 17 chemin de la pierre levée  46150 Montgesty",
@@ -69595,6 +70482,7 @@ export const merchant = {
             "43cd54a5-1a3c-4b7d-b",
             "5087ddb9-7ea3-450d-b",
         ],
+        zipcode: "46 Lot",
     },
     "La Ferme du Pas": {
         Address: " La Ferme du Pas Lieu dit Le Pas  16440 Nersac",
@@ -69698,6 +70586,7 @@ export const merchant = {
             "eca59891-d8d6-4352-8",
             "87b16858-c0c5-4666-a",
         ],
+        zipcode: "16 Charente",
     },
     "Ferme de Dallignac": {
         Address: " Ferme de Dallignac 11 route des Balatries  16250 Chadurie",
@@ -69762,6 +70651,7 @@ export const merchant = {
             "41f3230c-b960-40a0-9",
             "0a2230c5-3ed7-4da1-8",
         ],
+        zipcode: "16 Charente",
     },
     "Alain Chadutaud": {
         Address: " Alain Chadutaud 4 rue des Jardins Bourras  16200 Mérignac",
@@ -69834,6 +70724,7 @@ export const merchant = {
             "3cc432ef-b2af-485a-b",
             "bbccb762-fae3-422a-a",
         ],
+        zipcode: "16 Charente",
     },
     Tappz: {
         Address: " Tappz 148 impasse des abeilles  24360 Varaignes",
@@ -69912,6 +70803,7 @@ export const merchant = {
             "270076d2-0756-424e-8",
             "5087ddb9-7ea3-450d-b",
         ],
+        zipcode: "24 Dordogne",
     },
     "ferme de l'arbre": {
         Address: " ferme de l'arbre Lieu dit \"L'Arbre\"  16220 Rouzède",
@@ -69977,6 +70869,7 @@ export const merchant = {
             "19873dc7-c2ae-4cda-9",
             "aa043fb5-5d63-4f30-9",
         ],
+        zipcode: "16 Charente",
     },
     "La Ferme de la Brissonnerie": {
         Address: " La Ferme de la Brissonnerie La Brissonnerie 16200 Nercillac  16200 Nercillac",
@@ -70051,6 +70944,7 @@ export const merchant = {
             "a7b60434-becf-4be4-8",
             "f3b4d95b-1a0f-483f-b",
         ],
+        zipcode: "16 Charente",
     },
     "Brard Blanchard": {
         Address: " Brard Blanchard 1 Chemin de Routreau  16100 Boutiers-Saint-Trojan",
@@ -70126,6 +71020,7 @@ export const merchant = {
             "d0533766-d7de-4150-a",
             "e96f08ed-0ba7-4150-9",
         ],
+        zipcode: "16 Charente",
     },
     "les Halles de la Meyfrenie": {
         Address: " les Halles de la Meyfrenie ldt la meyfrenie  24320 Verteillac",
@@ -70188,6 +71083,7 @@ export const merchant = {
             "64dc03f2-fd74-4046-a",
             "19873dc7-c2ae-4cda-9",
         ],
+        zipcode: "24 Dordogne",
     },
     "Le potager de la Meyfrenie": {
         Address: " Le potager de la Meyfrenie La Meyfrenie  24320 Verteillac",
@@ -70256,6 +71152,7 @@ export const merchant = {
             "6e4f5183-64ca-4ac7-b",
             "de3488bb-0d6a-4d20-a",
         ],
+        zipcode: "24 Dordogne",
     },
     "Le Jardin des Fées des neiges": {
         Address: " Le Jardin des Fées des neiges 4, rue fées des neiges  87600 Vayres",
@@ -70321,6 +71218,7 @@ export const merchant = {
             "2d73016a-c7a8-4266-9",
             "be069719-9b53-443e-8",
         ],
+        zipcode: "87 Haute-Vienne",
     },
     "Spiruline Val de Ré": {
         Address: " Spiruline Val de Ré 2 rue des Lilas Ré  79170 Paizay-le-Chapt",
@@ -70391,6 +71289,7 @@ export const merchant = {
             "879e995c-9221-4927-b",
             "ecb5b7cf-dc99-40d5-a",
         ],
+        zipcode: "79 Deux-Sèvres",
     },
     "Ferme du Méridien": {
         Address: " Ferme du Méridien rue de la Dronne  24490 La Roche-Chalais",
@@ -70492,13 +71391,13 @@ export const merchant = {
             "7a8b7e37-626d-49c8-9",
             "7b38ec3f-2e07-4a55-b",
         ],
+        zipcode: "24 Dordogne",
     },
     "La Grande Ouch": {
         Address: " La Grande Ouch Les Gounauds  24190 Saint-Vincent-de-Connezac",
         tel: "0553918632",
         prod: [
             "herbes et aromates",
-            "",
             "topinambour",
             "tomate",
             "salade",
@@ -70509,7 +71408,6 @@ export const merchant = {
             "poireau",
             "petits pois",
             "oignon",
-            "",
             "haricot vert",
             "échalotte",
             "courgette",
@@ -70613,6 +71511,7 @@ export const merchant = {
             "9ca50974-e3f7-4d72-8",
             "bae17232-9736-427a-b",
         ],
+        zipcode: "24 Dordogne",
     },
     "Les Apiers d'Aliénor": {
         Address: " Les Apiers d'Aliénor Rue de la liberté  17100 Courcoury",
@@ -70689,6 +71588,7 @@ export const merchant = {
             "2b280495-7ad1-4102-8",
             "b13e083d-adf6-4063-a",
         ],
+        zipcode: "17 Charente-Maritime",
     },
     "Au Chant des Fleurs": {
         Address: " Au Chant des Fleurs La Boine  24800 Saint-Jean-de-Côle",
@@ -70748,6 +71648,7 @@ export const merchant = {
             "7cdcd1a4-2307-4315-9",
             "d0c32817-0265-401d-8",
         ],
+        zipcode: "24 Dordogne",
     },
     "Les ruches de Clunie": {
         Address: " Les ruches de Clunie 22 route du 16 août 1944  17770 Juicq",
@@ -70829,6 +71730,7 @@ export const merchant = {
             "1bb9f5e6-3d13-45b7-b",
             "f1e7292a-ceea-4afc-9",
         ],
+        zipcode: "17 Charente-Maritime",
     },
     "La ferme de Sirieix": {
         Address: " La ferme de Sirieix Lieu dit sirieix  24110 Léguillac-de-l'Auche",
@@ -70931,6 +71833,7 @@ export const merchant = {
             "2a7ed06e-4f7d-44d0-b",
             "aa043fb5-5d63-4f30-9",
         ],
+        zipcode: "24 Dordogne",
     },
     "Bio Chemin": {
         Address: " Bio Chemin Grand Village  17270 Clérac",
@@ -70952,7 +71855,6 @@ export const merchant = {
             "panais",
             "oignon",
             "navet",
-            "",
             "mâche",
             "haricot vert",
             "fève",
@@ -71049,6 +71951,7 @@ export const merchant = {
             "be069719-9b53-443e-8",
             "e96f08ed-0ba7-4150-9",
         ],
+        zipcode: "17 Charente-Maritime",
     },
     "Miel & Safran par Laurence B.": {
         Address: " Miel & Safran par Laurence B. 18 route de Montvallon  17100 Fontcouverte",
@@ -71104,6 +72007,7 @@ export const merchant = {
             "bedd30a4-f294-40ea-b",
             "d2f7c482-c3c4-4026-9",
         ],
+        zipcode: "17 Charente-Maritime",
     },
     "le chant du coq": {
         Address: " le chant du coq 1 route de Bordeaux  17100 Saintes",
@@ -71181,6 +72085,7 @@ export const merchant = {
             "43cd54a5-1a3c-4b7d-b",
             "f1e7292a-ceea-4afc-9",
         ],
+        zipcode: "17 Charente-Maritime",
     },
     "La ferme des calinettes": {
         Address: " La ferme des calinettes Le chateau  24450 Firbeix",
@@ -71253,6 +72158,7 @@ export const merchant = {
             "5f0bc4c4-a1c4-48ff-a",
             "cc2d474b-f84f-43e1-b",
         ],
+        zipcode: "24 Dordogne",
     },
     "La boîte à fromages": {
         Address: " La boîte à fromages Les chaumes  16500 Abzac",
@@ -71313,6 +72219,7 @@ export const merchant = {
             "3cc432ef-b2af-485a-b",
             "0a2230c5-3ed7-4da1-8",
         ],
+        zipcode: "16 Charente",
     },
     "Miel Denis père & Fils": {
         Address: " Miel Denis père & Fils 45 route des Bourons  17810 Écurat",
@@ -71382,6 +72289,7 @@ export const merchant = {
             "00cc6c01-a75b-4ff7-8",
             "94da843f-6b8f-491d-a",
         ],
+        zipcode: "17 Charente-Maritime",
     },
     "Apes 24": {
         Address: " Apes 24 11 rue Jean Bouin  24660 Coulounieix-Chamiers",
@@ -71459,6 +72367,7 @@ export const merchant = {
             "e12bc812-b9a7-4053-8",
             "87b16858-c0c5-4666-a",
         ],
+        zipcode: "24 Dordogne",
     },
     "Le rucher de MANG": {
         Address: " Le rucher de MANG 50 Rue Saint-Gilles  17810 Pessines",
@@ -71531,6 +72440,7 @@ export const merchant = {
             "a0a25c89-a063-4c91-8",
             "bae17232-9736-427a-b",
         ],
+        zipcode: "17 Charente-Maritime",
     },
     "Les Douceurs d'Emilie": {
         Address: " Les Douceurs d'Emilie 9 rue de l'église  17400 La Benâte",
@@ -71601,6 +72511,7 @@ export const merchant = {
             "d3528ce1-ba92-401a-b",
             "270076d2-0756-424e-8",
         ],
+        zipcode: "17 Charente-Maritime",
     },
     "La miellerie d'Anaï": {
         Address: " La miellerie d'Anaï 6 route de saintes  17260 Montpellier-de-Médillan",
@@ -71673,6 +72584,7 @@ export const merchant = {
             "d3528ce1-ba92-401a-b",
             "b5d4a6a6-7131-40e8-8",
         ],
+        zipcode: "17 Charente-Maritime",
     },
     "EARL Les Paddocks de l'âge": {
         Address: " EARL Les Paddocks de l'âge lieu dit l'Age  16500 Oradour-Fanais",
@@ -71735,6 +72647,7 @@ export const merchant = {
             "ec20d22a-f711-4320-9",
             "e12bc812-b9a7-4053-8",
         ],
+        zipcode: "16 Charente",
     },
     "La Ferme des Jarouilles": {
         Address: " La Ferme des Jarouilles 36 Les Landes  33230 Coutras",
@@ -71807,6 +72720,7 @@ export const merchant = {
             "7c22e737-1de8-4697-9",
             "ddd66ace-de8b-40f2-9",
         ],
+        zipcode: "33 Gironde",
     },
     "Ferme de l'ombrail": {
         Address: " Ferme de l'ombrail Chemin du Rondart, l'ombrail  17120 Meursac",
@@ -71865,6 +72779,7 @@ export const merchant = {
             "cd3e53b0-61e0-48f3-8",
             "c2c4c5fc-56b5-43f1-9",
         ],
+        zipcode: "17 Charente-Maritime",
     },
     "le miel de Marie": {
         Address: " le miel de Marie 6 chez TOUREAU  86430 Luchapt",
@@ -71941,6 +72856,7 @@ export const merchant = {
             "60f37375-dd24-4f11-8",
             "a4adc1fd-b35f-4161-a",
         ],
+        zipcode: "86 Vienne",
     },
     "François & Isabelle Bissonnet": {
         Address: " François & Isabelle Bissonnet Le Maine sur Jard  17120 Épargnes",
@@ -72007,6 +72923,7 @@ export const merchant = {
             "bde41646-af09-4815-9",
             "87b16858-c0c5-4666-a",
         ],
+        zipcode: "17 Charente-Maritime",
     },
     "Le Potager de La Vergne": {
         Address: " Le Potager de La Vergne La vergne  24160 Clermont-d'Excideuil",
@@ -72114,6 +73031,7 @@ export const merchant = {
             "8d7ee3fc-7f50-44f7-9",
             "4f568df1-b9f2-4643-9",
         ],
+        zipcode: "24 Dordogne",
     },
     "Maison Révidat": {
         Address: " Maison Révidat Rue du pont  24160 Saint-Pantaly-d'Excideuil",
@@ -72238,6 +73156,7 @@ export const merchant = {
             "2c74ba62-616c-4428-8",
             "10e49dd4-0650-4fec-a",
         ],
+        zipcode: "24 Dordogne",
     },
     "Nadine Beaupuy": {
         Address: " Nadine Beaupuy Le change 24640 Bassillac et Auberoche  24640 Le Change",
@@ -72303,6 +73222,7 @@ export const merchant = {
             "94da843f-6b8f-491d-a",
             "b5d4a6a6-7131-40e8-8",
         ],
+        zipcode: "24 Dordogne",
     },
     "la spirale du goût": {
         Address: " la spirale du goût 7 le plantier  33620 Marcenais",
@@ -72382,6 +73302,7 @@ export const merchant = {
             "1bb9f5e6-3d13-45b7-b",
             "b74dbdd4-0c27-4d1a-a",
         ],
+        zipcode: "33 Gironde",
     },
     "Le Domaine Coquelicot": {
         Address: " Le Domaine Coquelicot Les Millaudes  24610 Carsac-de-Gurson",
@@ -72452,6 +73373,7 @@ export const merchant = {
             "1485aace-1cab-4d0f-8",
             "d17f0be6-4007-4c18-9",
         ],
+        zipcode: "24 Dordogne",
     },
     "LE JARDIN D'ANTONIN": {
         Address: " LE JARDIN D'ANTONIN 69 route des Artigues  33910 Saint-Denis-de-Pile",
@@ -72472,7 +73394,6 @@ export const merchant = {
             "panais",
             "oignon",
             "navet",
-            "",
             "légumes",
             "haricot vert",
             "fève",
@@ -72558,6 +73479,7 @@ export const merchant = {
             "85ec7f6f-e36c-4aee-b",
             "bb38c461-eb40-441d-8",
         ],
+        zipcode: "33 Gironde",
     },
     "Laurent Flandrais": {
         Address: " Laurent Flandrais La Lande des Meuniers  33920 Saint-Girons-d'Aiguevives",
@@ -72624,6 +73546,7 @@ export const merchant = {
             "9c5f42f1-dee6-49f4-a",
             "06a50824-d55c-4f03-9",
         ],
+        zipcode: "33 Gironde",
     },
     "JP & P Amoreau": {
         Address: " JP & P Amoreau Château le Puy  33570 Saint-Cibard",
@@ -72703,6 +73626,7 @@ export const merchant = {
             "bec4ed08-b2c6-4c82-a",
             "fd169ea4-587f-45a8-a",
         ],
+        zipcode: "33 Gironde",
     },
     "Daniel et Jeanne Lain": {
         Address: " Daniel et Jeanne Lain 9 les Gorges  33390 Mazion",
@@ -72773,6 +73697,7 @@ export const merchant = {
             "43cd54a5-1a3c-4b7d-b",
             "bf29f45a-4db5-4f10-9",
         ],
+        zipcode: "33 Gironde",
     },
     "Fressi'Mouss": {
         Address: " Fressi'Mouss 27, Rue du maréchal Joffre  79800 La Mothe-Saint-Héray",
@@ -72841,6 +73766,7 @@ export const merchant = {
             "6fc014e9-33c1-4dff-a",
             "b5d4a6a6-7131-40e8-8",
         ],
+        zipcode: "79 Deux-Sèvres",
     },
     "Le verger bio de Quinsac": {
         Address: " Le verger bio de Quinsac Quinsac  87500 Saint-Yrieix-la-Perche",
@@ -72914,6 +73840,7 @@ export const merchant = {
             "aa043fb5-5d63-4f30-9",
             "d99fb42a-66f0-43b8-9",
         ],
+        zipcode: "87 Haute-Vienne",
     },
     "Miel des Coteaux de Bourg": {
         Address: " Miel des Coteaux de Bourg Lieu-dit Chaudron n°8  33710 Teuillac",
@@ -72992,6 +73919,7 @@ export const merchant = {
             "def9908b-aac6-44d0-9",
             "b5d4a6a6-7131-40e8-8",
         ],
+        zipcode: "33 Gironde",
     },
     "Château Joanna & Château Les Gravettes": {
         Address: " Château Joanna & Château Les Gravettes 18 Les Hivers  33390 Berson",
@@ -73075,6 +74003,7 @@ export const merchant = {
             "c2c4c5fc-56b5-43f1-9",
             "33a93d59-5719-48de-8",
         ],
+        zipcode: "33 Gironde",
     },
     "DOMAINE DE GRIMARDY": {
         Address: " DOMAINE DE GRIMARDY 270 impasse du buisson  24230 Montazeau",
@@ -73144,6 +74073,7 @@ export const merchant = {
             "8a10450c-83b4-4936-9",
             "e96f08ed-0ba7-4150-9",
         ],
+        zipcode: "24 Dordogne",
     },
     "La Grangeotte": {
         Address: " La Grangeotte Le Bourg  24230 Saint-Vivien",
@@ -73226,6 +74156,7 @@ export const merchant = {
             "fd169ea4-587f-45a8-a",
             "af34ed7d-4e63-4b0a-9",
         ],
+        zipcode: "24 Dordogne",
     },
     Cantelaudette: {
         Address: " Cantelaudette 1 rue cantelaudette  33240 Saint-Laurent-d'Arce",
@@ -73303,6 +74234,7 @@ export const merchant = {
             "ed416075-44d1-4b9c-a",
             "01e715e3-83b0-4b1e-a",
         ],
+        zipcode: "33 Gironde",
     },
     "la landette": {
         Address: " la landette tauriac  33710 Tauriac",
@@ -73394,6 +74326,7 @@ export const merchant = {
             "aa043fb5-5d63-4f30-9",
             "a4adc1fd-b35f-4161-a",
         ],
+        zipcode: "33 Gironde",
     },
     "Ferme de la Côte": {
         Address: " Ferme de la Côte La Côte  24330 Saint-Geyrac",
@@ -73455,6 +74388,7 @@ export const merchant = {
             "ffab0110-b9fc-4c63-8",
             "06a50824-d55c-4f03-9",
         ],
+        zipcode: "24 Dordogne",
     },
     "Les Jardins de Boscornut": {
         Address: " Les Jardins de Boscornut Boscornut  24210 Sainte-Orse",
@@ -73478,7 +74412,6 @@ export const merchant = {
             "haricot vert",
             "légumes",
             "mâche",
-            "",
             "navet",
             "oignon",
             "panais",
@@ -73566,6 +74499,7 @@ export const merchant = {
             "5067d163-3fa2-406e-b",
             "c5ba7716-f287-4d5c-9",
         ],
+        zipcode: "24 Dordogne",
     },
     "LES NOIX DE FOUGEYROLLAS": {
         Address: " LES NOIX DE FOUGEYROLLAS FOUGEYROLLAS  24210 Sainte-Orse",
@@ -73633,6 +74567,7 @@ export const merchant = {
             "cbe4cc1d-6e55-4b90-9",
             "e095d8c7-5da9-4945-8",
         ],
+        zipcode: "24 Dordogne",
     },
     "La Spiruline des Deux-Sèvres": {
         Address: " La Spiruline des Deux-Sèvres 21, avenue de Paris  79260 La Crèche",
@@ -73704,6 +74639,7 @@ export const merchant = {
             "3412c0c5-7171-4876-8",
             "32b37740-c957-4d1d-a",
         ],
+        zipcode: "79 Deux-Sèvres",
     },
     "Marc Dutheil": {
         Address: " Marc Dutheil La Rebière  24270 Payzac",
@@ -73778,6 +74714,7 @@ export const merchant = {
             "451879aa-8f4a-462b-a",
             "6956b41f-dca7-491f-9",
         ],
+        zipcode: "24 Dordogne",
     },
     "Vignoble Ouzoulias": {
         Address: " Vignoble Ouzoulias 17 rue du Colonel PicotBP 93  33500 Libourne",
@@ -73850,6 +74787,7 @@ export const merchant = {
             "f3b4d95b-1a0f-483f-b",
             "3f3c2b8a-5c42-4618-8",
         ],
+        zipcode: "33 Gironde",
     },
     CBS974: {
         Address: " CBS974 12 rue albert luthuli  97410 Saint-Pierre",
@@ -73919,6 +74857,7 @@ export const merchant = {
             "05149104-8e5d-4b5c-9",
             "c3e8ef3b-32dd-4803-9",
         ],
+        zipcode: "974 La Réunion",
     },
     "En Douce Heure": {
         Address: " En Douce Heure Lieu-dit Beauchamp1 route de l'amourette  24230 Vélines",
@@ -73991,6 +74930,7 @@ export const merchant = {
             "eca59891-d8d6-4352-8",
             "9c559e1b-e467-4f03-8",
         ],
+        zipcode: "24 Dordogne",
     },
     "Domaine Ecologique Les Charbonnières": {
         Address: " Domaine Ecologique Les Charbonnières Faure Sourd  24230 Montcaret",
@@ -74103,6 +75043,7 @@ export const merchant = {
             "e90c828b-b2ab-4e21-8",
             "8a10450c-83b4-4936-9",
         ],
+        zipcode: "24 Dordogne",
     },
     "Frédéric Beauvet": {
         Address: " Frédéric Beauvet 5 route d'Enveau  87320 Darnac",
@@ -74165,6 +75106,7 @@ export const merchant = {
             "b5d4a6a6-7131-40e8-8",
             "9c559e1b-e467-4f03-8",
         ],
+        zipcode: "87 Haute-Vienne",
     },
     "Emmanuel Porcaro": {
         Address: " Emmanuel Porcaro La Peyronie Basse  24380 Cendrieux",
@@ -74232,6 +75174,7 @@ export const merchant = {
             "8f4accb7-efd2-4723-b",
             "5d760ab3-7fd5-4645-8",
         ],
+        zipcode: "24 Dordogne",
     },
     "Ô Jardin de Zephyr": {
         Address: " Ô Jardin de Zephyr Les Vigeries  24380 Cendrieux",
@@ -74300,6 +75243,7 @@ export const merchant = {
             "a01c1f11-2d45-4b0f-9",
             "de3488bb-0d6a-4d20-a",
         ],
+        zipcode: "24 Dordogne",
     },
     Descrambes: {
         Address: " Descrambes Port du Branne  33330 Saint-Sulpice-de-Faleyrens",
@@ -74376,6 +75320,7 @@ export const merchant = {
             "ee4f8799-d969-446f-a",
             "ddd66ace-de8b-40f2-9",
         ],
+        zipcode: "33 Gironde",
     },
     "L'esprit de Jeanne": {
         Address: " L'esprit de Jeanne 64, Avenue de la Dordogne  33350 Mouliets-et-Villemartin",
@@ -74443,6 +75388,7 @@ export const merchant = {
             "855d0ac2-cdc0-4934-b",
             "41f3230c-b960-40a0-9",
         ],
+        zipcode: "33 Gironde",
     },
     "Champignons Coussacois": {
         Address: " Champignons Coussacois Rotin  87500 Coussac-Bonneval",
@@ -74514,6 +75460,7 @@ export const merchant = {
             "93db4cd1-6d02-4042-b",
             "2180b696-e168-4bad-8",
         ],
+        zipcode: "87 Haute-Vienne",
     },
     "Christian David": {
         Address: " Christian David Eyssal  24520 Liorac-sur-Louyre",
@@ -74594,6 +75541,7 @@ export const merchant = {
             "af34ed7d-4e63-4b0a-9",
             "5fefc504-b99b-4bd7-b",
         ],
+        zipcode: "24 Dordogne",
     },
     "Laboratoire Paysanne": {
         Address: " Laboratoire Paysanne La Combes  19230 Ségur-le-Château",
@@ -74663,6 +75611,7 @@ export const merchant = {
             "63755168-878e-4a50-8",
             "927cd85f-1417-4fb5-a",
         ],
+        zipcode: "19 Corrèze",
     },
     "SCEA la Vagabonde": {
         Address: " SCEA la Vagabonde le champ cordonnier  19230 Ségur-le-Château",
@@ -74729,6 +75678,7 @@ export const merchant = {
             "73303c7e-07be-4a0c-a",
             "d2f7c482-c3c4-4026-9",
         ],
+        zipcode: "19 Corrèze",
     },
     "Noyeraie de Montbreton": {
         Address: " Noyeraie de Montbreton Lieu dit Montbreton  33890 Pessac-sur-Dordogne",
@@ -74805,6 +75755,7 @@ export const merchant = {
             "33a93d59-5719-48de-8",
             "9235d007-7289-43f1-8",
         ],
+        zipcode: "33 Gironde",
     },
     "Aaricia & Leslie": {
         Address: " Aaricia & Leslie 12 allée des Mimosas  17200 Royan",
@@ -74879,6 +75830,7 @@ export const merchant = {
             "036e22d6-1dc1-4597-9",
             "9455a6b4-7fa0-4bd6-a",
         ],
+        zipcode: "17 Charente-Maritime",
     },
     "Céline Leyssenne": {
         Address: " Céline Leyssenne La Chapelle  87380 Château-Chervix",
@@ -74948,6 +75900,7 @@ export const merchant = {
             "e25e4e34-2441-4451-b",
             "b9180f81-3ba1-4b3e-8",
         ],
+        zipcode: "87 Haute-Vienne",
     },
     "Bio Bulle": {
         Address: " Bio Bulle La Peyre  24260 Mauzens-et-Miremont",
@@ -75025,6 +75978,7 @@ export const merchant = {
             "aa043fb5-5d63-4f30-9",
             "7961c730-e82f-43b6-9",
         ],
+        zipcode: "24 Dordogne",
     },
     "BIO BULLE": {
         Address: " BIO BULLE La Peyre  24260 Mauzens-et-Miremont",
@@ -75104,6 +76058,7 @@ export const merchant = {
             "7961c730-e82f-43b6-9",
             "33a93d59-5719-48de-8",
         ],
+        zipcode: "24 Dordogne",
     },
     "Jean-Michel, Marie-Cécile & Baptiste Chort": {
         Address: " Jean-Michel, Marie-Cécile & Baptiste Chort Château le Peyrail  33220 Les Lèves-et-Thoumeyragues",
@@ -75179,6 +76134,7 @@ export const merchant = {
             "d17f0be6-4007-4c18-9",
             "7cf85155-6fe6-478f-8",
         ],
+        zipcode: "33 Gironde",
     },
     "LA MAISON GRAND MONTEIL": {
         Address: " LA MAISON GRAND MONTEIL 9 Route du Beroy Z.A. du lapin  33750 Beychac-et-Caillau",
@@ -75262,6 +76218,7 @@ export const merchant = {
             "3a3c518e-01ec-43ff-b",
             "8a10450c-83b4-4936-9",
         ],
+        zipcode: "33 Gironde",
     },
     "Le Rucher du Marandou": {
         Address: " Le Rucher du Marandou route du camping  24260 Saint-Avit-de-Vialard",
@@ -75330,6 +76287,7 @@ export const merchant = {
             "b74dbdd4-0c27-4d1a-a",
             "bae17232-9736-427a-b",
         ],
+        zipcode: "24 Dordogne",
     },
     "La Folie Bergère": {
         Address: " La Folie Bergère La Lézinière  86340 Nouaillé-Maupertuis",
@@ -75423,6 +76381,7 @@ export const merchant = {
             "3b3d794c-4b1b-4bfd-8",
             "bb38c461-eb40-441d-8",
         ],
+        zipcode: "86 Vienne",
     },
     "Les Jardins de Valentin": {
         Address: " Les Jardins de Valentin Lieu-dit les Martins  24240 Monestier",
@@ -75493,6 +76452,7 @@ export const merchant = {
             "635ad985-ced9-4a50-9",
             "64895ecc-bd64-467e-8",
         ],
+        zipcode: "24 Dordogne",
     },
     Gerthy: {
         Address: " Gerthy Château les Côteaux de Larchère  24240 Pomport",
@@ -75557,6 +76517,7 @@ export const merchant = {
             "1bb9f5e6-3d13-45b7-b",
             "60f37375-dd24-4f11-8",
         ],
+        zipcode: "24 Dordogne",
     },
     "Nat'Ure D'Art": {
         Address: " Nat'Ure D'Art 10 RUE DU MOULIN DAVID  17540 Le Gué-d'Alleré",
@@ -75624,6 +76585,7 @@ export const merchant = {
             "bc115352-fc0c-4010-8",
             "d3528ce1-ba92-401a-b",
         ],
+        zipcode: "17 Charente-Maritime",
     },
     "wattiez david apiculteur": {
         Address: " wattiez david apiculteur Les cadelis est  17690 Angoulins",
@@ -75706,6 +76668,7 @@ export const merchant = {
             "703da75a-8e6a-4ea2-a",
             "1485aace-1cab-4d0f-8",
         ],
+        zipcode: "17 Charente-Maritime",
     },
     "Pépinière RAINBOW": {
         Address: " Pépinière RAINBOW 12 RUE GALERNE  85450 Puyravault",
@@ -75765,6 +76728,7 @@ export const merchant = {
             "33a93d59-5719-48de-8",
             "03858e30-7f99-4f75-8",
         ],
+        zipcode: "85 Vendée",
     },
     "Nat'Ure D'Art ( chapeaux, casquettes uniques)": {
         Address: " Nat'Ure D'Art ( chapeaux, casquettes uniques) 5 rue basse  17170 Courçon",
@@ -75859,6 +76823,7 @@ export const merchant = {
             "e96f08ed-0ba7-4150-9",
             "87b16858-c0c5-4666-a",
         ],
+        zipcode: "17 Charente-Maritime",
     },
     "La Ferme des Baleines": {
         Address: " La Ferme des Baleines Route des portes  17590 Saint-Clément-des-Baleines",
@@ -75945,6 +76910,7 @@ export const merchant = {
             "7a8b7e37-626d-49c8-9",
             "d006b89c-9b74-4c39-9",
         ],
+        zipcode: "17 Charente-Maritime",
     },
     "Terre Saline": {
         Address: " Terre Saline Route des Portes  17590 Saint-Clément-des-Baleines",
@@ -76025,6 +76991,7 @@ export const merchant = {
             "5420097f-6604-43c7-b",
             "9235d007-7289-43f1-8",
         ],
+        zipcode: "17 Charente-Maritime",
     },
     "Pain bio Grosheny": {
         Address: " Pain bio Grosheny 12 rue du fief de feusse  17320 Marennes",
@@ -76093,6 +77060,7 @@ export const merchant = {
             "56a5a02e-9b81-4098-8",
             "7c22e737-1de8-4697-9",
         ],
+        zipcode: "17 Charente-Maritime",
     },
     "Apiculture Les Pass'Rose": {
         Address: " Apiculture Les Pass'Rose 21 chemin de la Seudre  17530 Arvert",
@@ -76165,6 +77133,7 @@ export const merchant = {
             "7b033df4-ddb8-4c37-8",
             "32b37740-c957-4d1d-a",
         ],
+        zipcode: "17 Charente-Maritime",
     },
     "les Fées des Herbes": {
         Address: " les Fées des Herbes 1 La petite Guyornière  85320 Les Pineaux",
@@ -76244,6 +77213,7 @@ export const merchant = {
             "f3b4d95b-1a0f-483f-b",
             "33a93d59-5719-48de-8",
         ],
+        zipcode: "85 Vendée",
     },
     "Les Agrobates": {
         Address: " Les Agrobates Beauséjour  85310 Nesmy",
@@ -76300,6 +77270,7 @@ export const merchant = {
             "b730013a-8405-439b-9",
             "d68538be-0255-4a22-b",
         ],
+        zipcode: "85 Vendée",
     },
     "Vergers de la Brunetière": {
         Address: " Vergers de la Brunetière La Brunetière  85430 Nieul-le-Dolent",
@@ -76383,6 +77354,7 @@ export const merchant = {
             "9455a6b4-7fa0-4bd6-a",
             "2b8be3bb-0821-4c45-b",
         ],
+        zipcode: "85 Vendée",
     },
     "Le Rucher d' Happy Fred": {
         Address: " Le Rucher d' Happy Fred 9 rue du Prieuré  85410 La Caillère-Saint-Hilaire",
@@ -76455,6 +77427,7 @@ export const merchant = {
             "e095d8c7-5da9-4945-8",
             "2b8be3bb-0821-4c45-b",
         ],
+        zipcode: "85 Vendée",
     },
     "fromagerie du purdeau": {
         Address: " fromagerie du purdeau le purdeau  85410 Thouarsais-Bouildroux",
@@ -76521,6 +77494,7 @@ export const merchant = {
             "bc115352-fc0c-4010-8",
             "b5d4a6a6-7131-40e8-8",
         ],
+        zipcode: "85 Vendée",
     },
     "Les Jardins Du Puyrajoux": {
         Address: " Les Jardins Du Puyrajoux Le Puyrajoux  85190 Venansault",
@@ -76594,6 +77568,7 @@ export const merchant = {
             "3098e3a6-5647-4515-a",
             "1793c3d4-5912-43b2-9",
         ],
+        zipcode: "85 Vendée",
     },
     "Le Jardin de Fangorn": {
         Address: " Le Jardin de Fangorn La Noue  85110 Sainte-Cécile",
@@ -76657,6 +77632,7 @@ export const merchant = {
             "10e49dd4-0650-4fec-a",
             "de3488bb-0d6a-4d20-a",
         ],
+        zipcode: "85 Vendée",
     },
     "Le chèvre de Sainte Cécile/EARL CHEVR'O'LAIT": {
         Address: " Le chèvre de Sainte Cécile/EARL CHEVR'O'LAIT 1 Rue de Mouchamps  85110 Sainte-Cécile",
@@ -76719,6 +77695,7 @@ export const merchant = {
             "de3488bb-0d6a-4d20-a",
             "d0c32817-0265-401d-8",
         ],
+        zipcode: "85 Vendée",
     },
     "Paul Raimbault": {
         Address: " Paul Raimbault Les Petites Vergnes  85170 Dompierre-sur-Yon",
@@ -76796,6 +77773,7 @@ export const merchant = {
             "ff538ae5-7322-45e0-8",
             "cd15077f-c259-43f9-8",
         ],
+        zipcode: "85 Vendée",
     },
     'Ferme "LES ALPINES"': {
         Address: ' Ferme "LES ALPINES" Le Buisson  85140 Sainte-Florence',
@@ -76881,6 +77859,7 @@ export const merchant = {
             "9e1b0d98-e499-4e24-a",
             "bae17232-9736-427a-b",
         ],
+        zipcode: "85 Vendée",
     },
     "La Pastourelle": {
         Address: " La Pastourelle La Martinière  79240 Vernoux-en-Gâtine",
@@ -76966,6 +77945,7 @@ export const merchant = {
             "4298f4bc-ac2e-47f1-a",
             "e90c828b-b2ab-4e21-8",
         ],
+        zipcode: "79 Deux-Sèvres",
     },
     "COEUR DE GRANGE": {
         Address: " COEUR DE GRANGE 1 les Viollières  85220 Coëx",
@@ -77086,6 +78066,7 @@ export const merchant = {
             "fbf9e7ff-bed3-4d29-a",
             "270076d2-0756-424e-8",
         ],
+        zipcode: "85 Vendée",
     },
     "Les Vergers de Pirouette": {
         Address: " Les Vergers de Pirouette La Grande Berthonnière  79310 Saint-Pardoux",
@@ -77158,6 +78139,7 @@ export const merchant = {
             "759b2411-41da-4ff0-a",
             "10e49dd4-0650-4fec-a",
         ],
+        zipcode: "79 Deux-Sèvres",
     },
     APISAM: {
         Address: " APISAM 11 Rue du four  85260 Les Brouzils",
@@ -77230,6 +78212,7 @@ export const merchant = {
             "1ccec9f5-8466-44f6-9",
             "0a2230c5-3ed7-4da1-8",
         ],
+        zipcode: "85 Vendée",
     },
     "Gustin, producteurs fermiers": {
         Address: " Gustin, producteurs fermiers la lardière  85590 Les Epesses",
@@ -77347,6 +78330,7 @@ export const merchant = {
             "a810d869-99cf-4a57-a",
             "d0c32817-0265-401d-8",
         ],
+        zipcode: "85 Vendée",
     },
     "Entrp Jeanot": {
         Address: " Entrp Jeanot 12 rue des roses  79700 Saint-Amand-sur-Sèvre",
@@ -77414,6 +78398,7 @@ export const merchant = {
             "46427942-a3ad-4828-b",
             "ddad5d6c-fb1c-4a78-b",
         ],
+        zipcode: "79 Deux-Sèvres",
     },
     "La Fermebio La Connouere": {
         Address: " La Fermebio La Connouere 42 la connouere  saint aubin de baubigne  79700 Mauléon",
@@ -77501,6 +78486,7 @@ export const merchant = {
             "d99fb42a-66f0-43b8-9",
             "b5d4a6a6-7131-40e8-8",
         ],
+        zipcode: "79 Deux-Sèvres",
     },
     "Laboratoire Body Nature": {
         Address: " Laboratoire Body Nature 100 route de Saint-Clémentin  79250 Nueil-les-Aubiers",
@@ -77566,6 +78552,7 @@ export const merchant = {
             "94da843f-6b8f-491d-a",
             "206e8e2f-5758-4f9c-a",
         ],
+        zipcode: "79 Deux-Sèvres",
     },
     "Demeter, Bio Cohérence, Agriculture biologique (AB)": {
         Address:
@@ -77630,6 +78617,7 @@ export const merchant = {
             "f727d4f9-0a05-4eb9-8",
             "5d760ab3-7fd5-4645-8",
         ],
+        zipcode: "79 Deux-Sèvres",
     },
     "LA FERME DU PRé TORDS": {
         Address: " LA FERME DU PRé TORDS 102 chemin de Bel Air  85300 Le Perrier",
@@ -77706,6 +78694,7 @@ export const merchant = {
             "715712f4-a4c1-47f7-9",
             "24d72e4a-7dbc-4312-9",
         ],
+        zipcode: "85 Vendée",
     },
     "Maison Gaborit": {
         Address: " Maison Gaborit La Grande Nillière  49360 Maulévrier",
@@ -77782,6 +78771,7 @@ export const merchant = {
             "def9908b-aac6-44d0-9",
             "b5d4a6a6-7131-40e8-8",
         ],
+        zipcode: "49 Maine-et-Loire",
     },
     "Jéröme Segouin": {
         Address: " Jéröme Segouin Conques-Bas Village  18250 Humbligny",
@@ -77839,6 +78829,7 @@ export const merchant = {
             "e12bc812-b9a7-4053-8",
             "10e49dd4-0650-4fec-a",
         ],
+        zipcode: "18 Cher",
     },
     Laboheme: {
         Address: " Laboheme 25 route du Vieux Domaine  18100 Vierzon",
@@ -77921,6 +78912,7 @@ export const merchant = {
             "a28cf12a-9df3-4450-b",
             "10e49dd4-0650-4fec-a",
         ],
+        zipcode: "18 Cher",
     },
     Biosiris: {
         Address: " Biosiris Ferme de Dady  18120 Massay",
@@ -78006,6 +78998,7 @@ export const merchant = {
             "8a10450c-83b4-4936-9",
             "c4342434-5448-4946-a",
         ],
+        zipcode: "18 Cher",
     },
     "E.A.R.L Damien": {
         Address: " E.A.R.L Damien Les Champions  18300 Menetou-Râtel",
@@ -78094,6 +79087,7 @@ export const merchant = {
             "3e92e18b-0a5d-4d3f-9",
             "9eaf1bfe-bf4d-4b89-9",
         ],
+        zipcode: "18 Cher",
     },
     "La Taupetterie": {
         Address: " La Taupetterie VAL FOUZON  36210 Parpeçay",
@@ -78167,6 +79161,7 @@ export const merchant = {
             "270076d2-0756-424e-8",
             "9235d007-7289-43f1-8",
         ],
+        zipcode: "36 Indre",
     },
     "La Petite Jardinerie": {
         Address: " La Petite Jardinerie 6-8 rue de la Lambinière  41200 Romorantin-Lanthenay",
@@ -78285,6 +79280,7 @@ export const merchant = {
             "c94c4c55-8225-4cfd-9",
             "d0533766-d7de-4150-a",
         ],
+        zipcode: "41 Loir-et-Cher",
     },
     "L'escargot en Vrille": {
         Address: " L'escargot en Vrille 314 La Vrille  58450 Neuvy-sur-Loire",
@@ -78357,6 +79353,7 @@ export const merchant = {
             "d0533766-d7de-4150-a",
             "bb38c461-eb40-441d-8",
         ],
+        zipcode: "58 Nièvre",
     },
     Astérale: {
         Address: " Astérale 21 rue de Beauce  41600 Lamotte-Beuvron",
@@ -78424,6 +79421,7 @@ export const merchant = {
             "cd15077f-c259-43f9-8",
             "94da843f-6b8f-491d-a",
         ],
+        zipcode: "41 Loir-et-Cher",
     },
     "Earl Jean Claude et Cindy Mellot": {
         Address: " Earl Jean Claude et Cindy Mellot 6 résidence le petit parc  45500 Gien",
@@ -78485,6 +79483,7 @@ export const merchant = {
             "3f3c2b8a-5c42-4618-8",
             "e12bc812-b9a7-4053-8",
         ],
+        zipcode: "45 Loiret",
     },
     "Maison RICARDEL": {
         Address: " Maison RICARDEL LA Pichonnerie  36500 Argy",
@@ -78553,6 +79552,7 @@ export const merchant = {
             "00cc6c01-a75b-4ff7-8",
             "a4adc1fd-b35f-4161-a",
         ],
+        zipcode: "36 Indre",
     },
     "Les Cailloux du Paradis": {
         Address: " Les Cailloux du Paradis Le Paradis les Cailloux  41230 Soings-en-Sologne",
@@ -78635,6 +79635,7 @@ export const merchant = {
             "270076d2-0756-424e-8",
             "f1e7292a-ceea-4afc-9",
         ],
+        zipcode: "41 Loir-et-Cher",
     },
     "La chotardière 41": {
         Address: " La chotardière 41 3 route de la Chotardière  41140 Méhers",
@@ -78708,6 +79709,7 @@ export const merchant = {
             "cc098c88-7763-4ed9-a",
             "1793c3d4-5912-43b2-9",
         ],
+        zipcode: "41 Loir-et-Cher",
     },
     "La P'tite Chipeuse": {
         Address: " La P'tite Chipeuse 17 rue  des entrepreneurs  41700 Contres",
@@ -78784,6 +79786,7 @@ export const merchant = {
             "8a10450c-83b4-4936-9",
             "c3e8ef3b-32dd-4803-9",
         ],
+        zipcode: "41 Loir-et-Cher",
     },
     "Les Terres de Vie": {
         Address: " Les Terres de Vie Les Piloux  89520 Saint-Sauveur-en-Puisaye",
@@ -78863,6 +79866,7 @@ export const merchant = {
             "19873dc7-c2ae-4cda-9",
             "549c6436-a053-4fc2-8",
         ],
+        zipcode: "89 Yonne",
     },
     "La Ferme aux Abeilles": {
         Address: " La Ferme aux Abeilles 56 route des Chevaliers  45150 Ouvrouer-les-Champs",
@@ -78926,6 +79930,7 @@ export const merchant = {
             "e98f0d96-b313-4921-9",
             "384a005f-f399-48c7-a",
         ],
+        zipcode: "45 Loiret",
     },
     "Jean Hervé": {
         Address: " Jean Hervé Rue de la République  36700 Clion",
@@ -78986,6 +79991,7 @@ export const merchant = {
             "edf5f245-15ed-462f-a",
             "3f3c2b8a-5c42-4618-8",
         ],
+        zipcode: "36 Indre",
     },
     "Ferme de la Guibaldière": {
         Address: " Ferme de la Guibaldière La Guilbardière  41120 Monthou-sur-Bièvre",
@@ -79060,6 +80066,7 @@ export const merchant = {
             "759b2411-41da-4ff0-a",
             "1793c3d4-5912-43b2-9",
         ],
+        zipcode: "41 Loir-et-Cher",
     },
     "Les abeilles de Chécy": {
         Address: " Les abeilles de Chécy 20 rue du Quillard  45430 Chécy",
@@ -79135,6 +80142,7 @@ export const merchant = {
             "1793c3d4-5912-43b2-9",
             "7cf85155-6fe6-478f-8",
         ],
+        zipcode: "45 Loiret",
     },
     Cobeia: {
         Address: " Cobeia 53 RUE DE L AMIRAL QUERVILLE 41000 BLOIS  41000 Blois",
@@ -79303,6 +80311,7 @@ export const merchant = {
             "3eac1d4b-1355-417f-a",
             "5e0f317c-dfc1-4eaa-9",
         ],
+        zipcode: "41 Loir-et-Cher",
     },
     lapeyre: {
         Address: " lapeyre la bernardie  87380 Meuzac",
@@ -79376,6 +80385,7 @@ export const merchant = {
             "bec4ed08-b2c6-4c82-a",
             "a30edda6-3250-4771-b",
         ],
+        zipcode: "87 Haute-Vienne",
     },
     Savonille: {
         Address: " Savonille Miran  46140 Luzech",
@@ -79442,6 +80452,7 @@ export const merchant = {
             "b96a8dd9-37fc-4934-b",
             "ee4f8799-d969-446f-a",
         ],
+        zipcode: "46 Lot",
     },
     "LAS PERIERES PLANTES AROMATIQUES AB": {
         Address: " LAS PERIERES PLANTES AROMATIQUES AB LES GREZES  46140 Cambayrac",
@@ -79500,6 +80511,7 @@ export const merchant = {
             "eca59891-d8d6-4352-8",
             "cfaec864-62b8-4438-a",
         ],
+        zipcode: "46 Lot",
     },
     "RUCHER DE LA TOUR": {
         Address: " RUCHER DE LA TOUR TERRE ROUGE  47150 Salles",
@@ -79575,6 +80587,7 @@ export const merchant = {
             "fbdde269-2737-4949-b",
             "5e0f317c-dfc1-4eaa-9",
         ],
+        zipcode: "47 Lot-et-Garonne",
     },
     "Philippe Hébert et Odile Marot": {
         Address: " Philippe Hébert et Odile Marot La Combe de JoffreBovila  46800 Fargues",
@@ -79646,6 +80659,7 @@ export const merchant = {
             "1ac4392e-073b-4cbc-8",
             "32b37740-c957-4d1d-a",
         ],
+        zipcode: "46 Lot",
     },
     "La Ferme de Rousset": {
         Address: " La Ferme de Rousset Rousset  47150 Monflanquin",
@@ -79717,6 +80731,7 @@ export const merchant = {
             "b96a8dd9-37fc-4934-b",
             "384a005f-f399-48c7-a",
         ],
+        zipcode: "47 Lot-et-Garonne",
     },
     "Savonnerie Saponaire": {
         Address: " Savonnerie Saponaire 47, Place des Arcade  47150 Monflanquin",
@@ -79782,6 +80797,7 @@ export const merchant = {
             "5e0f317c-dfc1-4eaa-9",
             "4f568df1-b9f2-4643-9",
         ],
+        zipcode: "47 Lot-et-Garonne",
     },
     "Patricia Poizat": {
         Address: " Patricia Poizat Escayrac  46800 Lascabanes",
@@ -79863,6 +80879,7 @@ export const merchant = {
             "e570bdc6-4a38-45c1-a",
             "8475e20f-195a-44b5-a",
         ],
+        zipcode: "46 Lot",
     },
     "Savonnerie Soleil de Mai": {
         Address: " Savonnerie Soleil de Mai Grillon  47330 Castillonnès",
@@ -79934,6 +80951,7 @@ export const merchant = {
             "4298f4bc-ac2e-47f1-a",
             "9235d007-7289-43f1-8",
         ],
+        zipcode: "47 Lot-et-Garonne",
     },
     "Earl de Marouty": {
         Address: " Earl de Marouty Jean Marouty  47290 Cancon",
@@ -80002,6 +81020,7 @@ export const merchant = {
             "cddb0b52-c5a4-4ea0-9",
             "32b37740-c957-4d1d-a",
         ],
+        zipcode: "47 Lot-et-Garonne",
     },
     "Distillerie Listincu": {
         Address: " Distillerie Listincu 16 avenue Jean Jaurès  20100 Sartène",
@@ -80065,6 +81084,7 @@ export const merchant = {
             "bf29f45a-4db5-4f10-9",
             "de3488bb-0d6a-4d20-a",
         ],
+        zipcode: "20 Corse",
     },
     "Jean-Baptiste Nicolai": {
         Address: " Jean-Baptiste Nicolai Arbitru PianuRoute de Sartene  20100 Giuncheto",
@@ -80127,6 +81147,7 @@ export const merchant = {
             "a4adc1fd-b35f-4161-a",
             "32b37740-c957-4d1d-a",
         ],
+        zipcode: "20 Corse",
     },
     RIVEMARE: {
         Address: " RIVEMARE 1111 route de la plaine  20243 Prunelli-di-Fiumorbo",
@@ -80200,6 +81221,7 @@ export const merchant = {
             "9c5f42f1-dee6-49f4-a",
             "cfaec864-62b8-4438-a",
         ],
+        zipcode: "20 Corse",
     },
     "Les Simples et Divines": {
         Address: " Les Simples et Divines U Barraconu Palavesa  20137 Porto-Vecchio",
@@ -80281,6 +81303,7 @@ export const merchant = {
             "7a484fe0-2195-4c56-8",
             "be069719-9b53-443e-8",
         ],
+        zipcode: "20 Corse",
     },
     "Ferme de la Noge": {
         Address: " Ferme de la Noge Boulevard de la Croix Saint Martin  21800 Quetigny",
@@ -80349,6 +81372,7 @@ export const merchant = {
             "23443798-59fb-44ed-9",
             "bae17232-9736-427a-b",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "La Miellerie de Magali": {
         Address: " La Miellerie de Magali 729, rue Dardelain  21160 Marsannay-la-Côte",
@@ -80432,6 +81456,7 @@ export const merchant = {
             "c3f1eb23-18d2-4bfb-a",
             "9eaf1bfe-bf4d-4b89-9",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "Ferme des Louvières": {
         Address: " Ferme des Louvières 52, Rue des Louvières  21490 Saint-Julien",
@@ -80503,6 +81528,7 @@ export const merchant = {
             "58f2388c-539c-48f0-9",
             "65e22731-e95e-42dc-8",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "Ferme Ceres": {
         Address: " Ferme Ceres Chemin de la Saule  21220 Brochon",
@@ -80590,6 +81616,7 @@ export const merchant = {
             "f727d4f9-0a05-4eb9-8",
             "2b8be3bb-0821-4c45-b",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "Domaine Isabelle Lippe": {
         Address: " Domaine Isabelle Lippe 1 rue de Fontenotte  21220 Brochon",
@@ -80666,6 +81693,7 @@ export const merchant = {
             "8826eddc-64fd-4fff-9",
             "e96f08ed-0ba7-4150-9",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     Marisson: {
         Address: " Marisson 1 rue de Champerrier  21220 Gevrey-Chambertin",
@@ -80731,6 +81759,7 @@ export const merchant = {
             "7b38ec3f-2e07-4a55-b",
             "4907e1bc-054e-4c86-a",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "GAEC du Pontot": {
         Address: " GAEC du Pontot Route de Saulon Ferme du Pontot  21220 Gevrey-Chambertin",
@@ -80809,6 +81838,7 @@ export const merchant = {
             "cab84777-1262-424c-b",
             "1e865792-8632-4a4f-9",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "Domaine Thierry Mortet": {
         Address: " Domaine Thierry Mortet 16 place des Marronniers  21220 Gevrey-Chambertin",
@@ -80875,6 +81905,7 @@ export const merchant = {
             "6fc014e9-33c1-4dff-a",
             "06a50824-d55c-4f03-9",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "Domaine Rossignol - Trapet": {
         Address: " Domaine Rossignol - Trapet 4 rue de la Petite Issue  21220 Gevrey-Chambertin",
@@ -80956,6 +81987,7 @@ export const merchant = {
             "aa043fb5-5d63-4f30-9",
             "6e4f5183-64ca-4ac7-b",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "Baum'Plantes": {
         Address: " Baum'Plantes 7, rue Ferdinand Foch  21410 Baulme-la-Roche",
@@ -81025,6 +82057,7 @@ export const merchant = {
             "05149104-8e5d-4b5c-9",
             "7c22e737-1de8-4697-9",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "Rucher du jardin de l'Iramanha": {
         Address: " Rucher du jardin de l'Iramanha 9 rue de Bessey  21110 Izeure",
@@ -81086,6 +82119,7 @@ export const merchant = {
             "a0a25c89-a063-4c91-8",
             "e2f4e147-af76-48dd-8",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "L'escargot Bourguignon": {
         Address: " L'escargot Bourguignon 3 route des Mousseneux  21120 Vernot",
@@ -81166,6 +82200,7 @@ export const merchant = {
             "1ccec9f5-8466-44f6-9",
             "7961c730-e82f-43b6-9",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "Le rucher de l'ours brun": {
         Address: " Le rucher de l'ours brun rue de Gondevin  21110 Longeault",
@@ -81234,6 +82269,7 @@ export const merchant = {
             "1485aace-1cab-4d0f-8",
             "b7691b68-ea95-4e2d-b",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "Viande Limousine de Côte d'or": {
         Address: " Viande Limousine de Côte d'or Petite rue des vignes hautes  21410 Prâlon",
@@ -81305,6 +82341,7 @@ export const merchant = {
             "9ca50974-e3f7-4d72-8",
             "dfce319d-1c0c-433b-8",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "GAEC du Pré Couvent": {
         Address: " GAEC du Pré Couvent 4 rue des Bernadines  21110 Tart-l'Abbaye",
@@ -81381,6 +82418,7 @@ export const merchant = {
             "ddad5d6c-fb1c-4a78-b",
             "de3488bb-0d6a-4d20-a",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "Ferme Fruirouge": {
         Address: " Ferme Fruirouge 2 Place de l'Eglise Hameau de Concoeur  21700 Nuits-Saint-Georges",
@@ -81452,6 +82490,7 @@ export const merchant = {
             "2a7ed06e-4f7d-44d0-b",
             "e2f4e147-af76-48dd-8",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "Au fil des cueillettes": {
         Address: " Au fil des cueillettes Hameau de Cheneroilles  21440 Vaux-Saules",
@@ -81530,6 +82569,7 @@ export const merchant = {
             "6fc014e9-33c1-4dff-a",
             "32b37740-c957-4d1d-a",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "1, 2, 3 SoMiel !": {
         Address: " 1, 2, 3 SoMiel ! Hameau de Godan  21540 Saint-Mesmin",
@@ -81603,6 +82643,7 @@ export const merchant = {
             "49a6f385-0187-4599-a",
             "eca59891-d8d6-4352-8",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "Les Maraîchers du pré velot": {
         Address: " Les Maraîchers du pré velot 33 ter route de Rainans  21130 Auxonne",
@@ -81679,6 +82720,7 @@ export const merchant = {
             "94da843f-6b8f-491d-a",
             "1ac4392e-073b-4cbc-8",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "La Ferme Biquette et Compagnie": {
         Address: " La Ferme Biquette et Compagnie 3 chemin du Lavoir, Crépey  21360 Aubaine",
@@ -81759,6 +82801,7 @@ export const merchant = {
             "d68538be-0255-4a22-b",
             "a30edda6-3250-4771-b",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "E.A.R.L La ferme O'Limousine": {
         Address: " E.A.R.L La ferme O'Limousine Clos Simonin  21130 Flagey-lès-Auxonne",
@@ -81824,6 +82867,7 @@ export const merchant = {
             "1e1da486-4433-4962-a",
             "d99fb42a-66f0-43b8-9",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "E.A.R.L Ferme La Buissière": {
         Address: " E.A.R.L Ferme La Buissière La Buissière  21130 Flagey-lès-Auxonne",
@@ -81904,6 +82948,7 @@ export const merchant = {
             "94da843f-6b8f-491d-a",
             "01e715e3-83b0-4b1e-a",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "Domaine Pinte Georges et Thierry": {
         Address: " Domaine Pinte Georges et Thierry 11 Rue du Jarron  21420 Savigny-lès-Beaune",
@@ -81971,6 +83016,7 @@ export const merchant = {
             "9c559e1b-e467-4f03-8",
             "c4342434-5448-4946-a",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "Chèvrerie des Trois Frènes": {
         Address: " Chèvrerie des Trois Frènes Tiers du MilieuRue du Bas du Crot  21350 Villeberny",
@@ -82034,6 +83080,7 @@ export const merchant = {
             "ec20d22a-f711-4320-9",
             "bb38c461-eb40-441d-8",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "Ferme des Levées": {
         Address: " Ferme des Levées Les Levées  21360 Lusigny-sur-Ouche",
@@ -82112,6 +83159,7 @@ export const merchant = {
             "3f3c2b8a-5c42-4618-8",
             "5e0f317c-dfc1-4eaa-9",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "AL'Ancienne": {
         Address: " AL'Ancienne 2 chemin de Montmirey  39290 Dammartin-Marpain",
@@ -82167,6 +83215,7 @@ export const merchant = {
             "ecb5b7cf-dc99-40d5-a",
             "8475e20f-195a-44b5-a",
         ],
+        zipcode: "39 Jura",
     },
     "Le Clos Thomas": {
         Address: " Le Clos Thomas 5 route de Fontaine-Française  21610 Saint-Maurice-sur-Vingeanne",
@@ -82240,6 +83289,7 @@ export const merchant = {
             "859f8042-833e-4975-b",
             "ddd66ace-de8b-40f2-9",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "BeCos[E]": {
         Address: " BeCos[E] 6, rue du quart  39700 Vriange",
@@ -82310,6 +83360,7 @@ export const merchant = {
             "f589e365-ba31-4516-b",
             "dfce319d-1c0c-433b-8",
         ],
+        zipcode: "39 Jura",
     },
     "GAEC Terrand": {
         Address: " GAEC Terrand Le Village  21360 Cussy-la-Colonne",
@@ -82383,6 +83434,7 @@ export const merchant = {
             "cd15077f-c259-43f9-8",
             "7b033df4-ddb8-4c37-8",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "Domaine Aurélien Febvre": {
         Address: " Domaine Aurélien Febvre 21 rue Avau  21350 Thorey-sous-Charny",
@@ -82451,6 +83503,7 @@ export const merchant = {
             "0a2230c5-3ed7-4da1-8",
             "e96f08ed-0ba7-4150-9",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "EARL du Moulin de Braux": {
         Address: " EARL du Moulin de Braux route communale Braux - Marcigny-sous-Thil  21390 Braux",
@@ -82513,6 +83566,7 @@ export const merchant = {
             "04e83ced-0f17-4ee1-8",
             "32b37740-c957-4d1d-a",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "La Ferme du Colombier": {
         Address: " La Ferme du Colombier 37, route de Beaune  21230 Saint-Prix-lès-Arnay",
@@ -82586,6 +83640,7 @@ export const merchant = {
             "0defd424-00b8-4e45-a",
             "9455a6b4-7fa0-4bd6-a",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "EARL FERRY MICHEL": {
         Address: " EARL FERRY MICHEL 1 VOIE DE PERREE  21140 Charigny",
@@ -82660,6 +83715,7 @@ export const merchant = {
             "a30edda6-3250-4771-b",
             "8d7ee3fc-7f50-44f7-9",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "Ferme du Mouton - E.A.R.L Lemoine": {
         Address: " Ferme du Mouton - E.A.R.L Lemoine Le Village  21230 Jouey",
@@ -82728,6 +83784,7 @@ export const merchant = {
             "bec4ed08-b2c6-4c82-a",
             "c2c4c5fc-56b5-43f1-9",
         ],
+        zipcode: "21 Côte-d'Or",
     },
     "la ferme de l'iserole": {
         Address: " la ferme de l'iserole ferme de l'iserole, zone artisanale  39700 Orchamps",
@@ -82812,6 +83869,7 @@ export const merchant = {
             "1ac4392e-073b-4cbc-8",
             "ed416075-44d1-4b9c-a",
         ],
+        zipcode: "39 Jura",
     },
     "Légumes du château": {
         Address: " Légumes du château 2 ROUTE DE BYANS  25440 Fourg",
@@ -82925,6 +83983,7 @@ export const merchant = {
             "b9180f81-3ba1-4b3e-8",
             "01e715e3-83b0-4b1e-a",
         ],
+        zipcode: "25 Doubs",
     },
     "Les Jardins du Plateau": {
         Address: " Les Jardins du Plateau 120 chemin du Miraux  52200 Langres",
@@ -82993,6 +84052,7 @@ export const merchant = {
             "00cc6c01-a75b-4ff7-8",
             "4f568df1-b9f2-4643-9",
         ],
+        zipcode: "52 Haute-Marne",
     },
     "LE RUCHER DU COMTOIS": {
         Address: " LE RUCHER DU COMTOIS 21 rue du refuge  25000 Besançon",
@@ -83059,6 +84119,7 @@ export const merchant = {
             "be069719-9b53-443e-8",
             "10e49dd4-0650-4fec-a",
         ],
+        zipcode: "25 Doubs",
     },
     "La Ferme du Lison": {
         Address: " La Ferme du Lison Sous le saux  25440 Échay",
@@ -83128,6 +84189,7 @@ export const merchant = {
             "4907e1bc-054e-4c86-a",
             "9235d007-7289-43f1-8",
         ],
+        zipcode: "25 Doubs",
     },
     "Brasserie la Foline": {
         Address: " Brasserie la Foline Varin  71550 Anost",
@@ -83206,6 +84268,7 @@ export const merchant = {
             "b5d4a6a6-7131-40e8-8",
             "1ac4392e-073b-4cbc-8",
         ],
+        zipcode: "71 Saône-et-Loire",
     },
     "La Ferme du Poussin": {
         Address: " La Ferme du Poussin 1 rue de la Combe du Berger  25660 Mérey-sous-Montrond",
@@ -83286,6 +84349,7 @@ export const merchant = {
             "2a1f2d10-d125-4411-9",
             "a4adc1fd-b35f-4161-a",
         ],
+        zipcode: "25 Doubs",
     },
     "Aqua Ça Pousse": {
         Address: " Aqua Ça Pousse 19 rue Voinat  25330 Nans-sous-Sainte-Anne",
@@ -83354,6 +84418,7 @@ export const merchant = {
             "1e1da486-4433-4962-a",
             "dfce319d-1c0c-433b-8",
         ],
+        zipcode: "25 Doubs",
     },
     "Marjorie Bourgeois": {
         Address: " Marjorie Bourgeois 16 rue de la forge  25330 Éternoz",
@@ -83422,6 +84487,7 @@ export const merchant = {
             "f1e7292a-ceea-4afc-9",
             "eca59891-d8d6-4352-8",
         ],
+        zipcode: "25 Doubs",
     },
     "La ferme de FloGaë": {
         Address: " La ferme de FloGaë 6 route de nans sous sainte Anne  25330 Éternoz",
@@ -83494,6 +84560,7 @@ export const merchant = {
             "c4342434-5448-4946-a",
             "8b272777-8d25-4c4f-a",
         ],
+        zipcode: "25 Doubs",
     },
     "Ferme paysanne Les Volubiles": {
         Address: " Ferme paysanne Les Volubiles route du Martinet  25290 Ornans",
@@ -83578,6 +84645,7 @@ export const merchant = {
             "384a005f-f399-48c7-a",
             "9455a6b4-7fa0-4bd6-a",
         ],
+        zipcode: "25 Doubs",
     },
     "Histoire de goûts": {
         Address: " Histoire de goûts 11 RUE SAINT MARTIN  25640 Pouligney-Lusans",
@@ -83651,6 +84719,7 @@ export const merchant = {
             "c4342434-5448-4946-a",
             "cfaec864-62b8-4438-a",
         ],
+        zipcode: "25 Doubs",
     },
     "GAEC DES GRANDS GENETS": {
         Address: " GAEC DES GRANDS GENETS La Montagne  71190 Dettey",
@@ -83716,6 +84785,7 @@ export const merchant = {
             "ddad5d6c-fb1c-4a78-b",
             "3f3c2b8a-5c42-4618-8",
         ],
+        zipcode: "71 Saône-et-Loire",
     },
     "Emile Jacoby": {
         Address: " Emile Jacoby Route de Vesoul  70160 Fleurey-lès-Faverney",
@@ -83785,6 +84855,7 @@ export const merchant = {
             "7a484fe0-2195-4c56-8",
             "a01c1f11-2d45-4b0f-9",
         ],
+        zipcode: "70 Haute-Saône",
     },
     "La chèver'rit à corcelles": {
         Address: " La chèver'rit à corcelles corcelles  71320 Montmort",
@@ -83859,6 +84930,7 @@ export const merchant = {
             "6c3a21f0-d155-487e-8",
             "65e22731-e95e-42dc-8",
         ],
+        zipcode: "71 Saône-et-Loire",
     },
     "L'Arrêt Galettes": {
         Address: " L'Arrêt Galettes 24 Av Corneille  22000 Saint-Brieuc",
@@ -83929,6 +85001,7 @@ export const merchant = {
             "fd169ea4-587f-45a8-a",
             "be069719-9b53-443e-8",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     Toutipousse: {
         Address: " Toutipousse 19 rue des grinsailles  22440 Ploufragan",
@@ -84035,6 +85108,7 @@ export const merchant = {
             "a030f567-abff-49cf-a",
             "0f88be4a-9867-4139-b",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "Les Volailles d'Armor": {
         Address: " Les Volailles d'Armor Les Madrettes  22410 Plourhan",
@@ -84094,6 +85168,7 @@ export const merchant = {
             "4907e1bc-054e-4c86-a",
             "2b8be3bb-0821-4c45-b",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "Spiruline d'Armor": {
         Address: " Spiruline d'Armor La Ville Robert  22150 Hénon",
@@ -84180,6 +85255,7 @@ export const merchant = {
             "e25e4e34-2441-4451-b",
             "94da843f-6b8f-491d-a",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "ANIK Crèmerie Paysanne": {
         Address:
@@ -84258,6 +85334,7 @@ export const merchant = {
             "d3528ce1-ba92-401a-b",
             "c5ba7716-f287-4d5c-9",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "A la ferme du rocher": {
         Address: " A la ferme du rocher 84 le rocher  22800 Lanfains",
@@ -84335,6 +85412,7 @@ export const merchant = {
             "0b94923b-010a-46ed-8",
             "aa043fb5-5d63-4f30-9",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "Micro-ferme de Carcouet": {
         Address: " Micro-ferme de Carcouet 3 le petit lescouet  22640 Plestan",
@@ -84448,6 +85526,7 @@ export const merchant = {
             "7a484fe0-2195-4c56-8",
             "04e83ced-0f17-4ee1-8",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "le jardin de la perrière": {
         Address: " le jardin de la perrière launay chauvin  22270 Plédéliac",
@@ -84464,7 +85543,6 @@ export const merchant = {
             "poireau",
             "panais",
             "navet",
-            "",
             "légumes",
             "haricot vert",
             "fève",
@@ -84542,6 +85620,7 @@ export const merchant = {
             "3eac1d4b-1355-417f-a",
             "149306aa-d693-4c27-8",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "le Jardin de l'Arguenon": {
         Address: " le Jardin de l'Arguenon 29 la Tourelle / le Plessis Camet  22270 Plédéliac",
@@ -84698,6 +85777,7 @@ export const merchant = {
             "98758375-ad4d-4c0e-8",
             "7a8b7e37-626d-49c8-9",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "Mes Trésors Verts": {
         Address: " Mes Trésors Verts 5 Kertanguy  22260 Quemper-Guézennec",
@@ -84776,6 +85856,7 @@ export const merchant = {
             "e095d8c7-5da9-4945-8",
             "c4342434-5448-4946-a",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "Esatco Plourivo": {
         Address: " Esatco Plourivo 10 Chemin Louis Armez  22860 Plourivo",
@@ -84886,6 +85967,7 @@ export const merchant = {
             "e12bc812-b9a7-4053-8",
             "8b272777-8d25-4c4f-a",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "TY LOCAL": {
         Address: " TY LOCAL Groesquer Bras  22200 Moustéru",
@@ -85022,6 +86104,7 @@ export const merchant = {
             "cd15077f-c259-43f9-8",
             "0defd424-00b8-4e45-a",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "Bergerie de Penn Krec'h": {
         Address: " Bergerie de Penn Krec'h Penn Krec'h  22140 Landebaëron",
@@ -85086,6 +86169,7 @@ export const merchant = {
             "1fba8491-fc45-43bf-9",
             "7cf85155-6fe6-478f-8",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "Clément Doedens": {
         Address: " Clément Doedens Kermathan Bihan  22540 Pédernec",
@@ -85172,6 +86256,7 @@ export const merchant = {
             "3eac1d4b-1355-417f-a",
             "04e83ced-0f17-4ee1-8",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "Le Fournil de Quévran": {
         Address: " Le Fournil de Quévran 35 Quévran  22230 Laurenan",
@@ -85236,6 +86321,7 @@ export const merchant = {
             "19873dc7-c2ae-4cda-9",
             "a01c1f11-2d45-4b0f-9",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "Ferme La Doudoutière": {
         Address: " Ferme La Doudoutière 2 kerlanduren Ferme La Doduoutière  22530 Saint-Connec",
@@ -85368,6 +86454,7 @@ export const merchant = {
             "5d760ab3-7fd5-4645-8",
             "f3b4d95b-1a0f-483f-b",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "Les P'tites Douceurs De Mymy": {
         Address: " Les P'tites Douceurs De Mymy La ville Guyomard  22210 Plémet",
@@ -85436,6 +86523,7 @@ export const merchant = {
             "9ca50974-e3f7-4d72-8",
             "02e9bba2-17cc-4d4a-8",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "Le Cochon des Cas Champs": {
         Address: " Le Cochon des Cas Champs Les Cas Champs  22210 Plémet",
@@ -85500,6 +86588,7 @@ export const merchant = {
             "87b16858-c0c5-4666-a",
             "ddd66ace-de8b-40f2-9",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "Brigitte Plunian": {
         Address: " Brigitte Plunian Lieu-dit Toul Hotten  22110 Trémargat",
@@ -85561,6 +86650,7 @@ export const merchant = {
             "dfe5e7c0-f350-4630-8",
             "dacbc345-dff3-4de7-8",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "Viva Cité La pépinière des petits fruitiers": {
         Address: " Viva Cité La pépinière des petits fruitiers Lieu-dit Kerverzot  22450 Pommerit-Jaudy",
@@ -85626,6 +86716,7 @@ export const merchant = {
             "63755168-878e-4a50-8",
             "c5ba7716-f287-4d5c-9",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "Ferme de la Cavalerie, St GONNERY": {
         Address: " Ferme de la Cavalerie, St GONNERY la Cavalerie  56920 Saint-Gonnery",
@@ -85696,6 +86787,7 @@ export const merchant = {
             "def9908b-aac6-44d0-9",
             "c4342434-5448-4946-a",
         ],
+        zipcode: "56 Morbihan",
     },
     "La Ferme du B": {
         Address: " La Ferme du B 19 la ville es coupeaux  22230 Merdrignac",
@@ -85824,6 +86916,7 @@ export const merchant = {
             "78b8d2d1-eb3e-4f1f-9",
             "ddd66ace-de8b-40f2-9",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "Paul et Pascale Salliou": {
         Address: " Paul et Pascale Salliou Kermenguy  22140 Pluzunet",
@@ -85894,6 +86987,7 @@ export const merchant = {
             "ddad5d6c-fb1c-4a78-b",
             "c3e8ef3b-32dd-4803-9",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "Pépinière des Korrigans": {
         Address: " Pépinière des Korrigans Lan Vras  22810 Loc-Envel",
@@ -85978,6 +87072,7 @@ export const merchant = {
             "aa043fb5-5d63-4f30-9",
             "a30edda6-3250-4771-b",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "Rucher des Lauriers": {
         Address: " Rucher des Lauriers 1 lot des lauriers  22250 Plumaugat",
@@ -86043,6 +87138,7 @@ export const merchant = {
             "ced47d1e-04df-4b86-a",
             "84c3b9b8-9d0a-4503-8",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "BREIZH SÈVE": {
         Address: " BREIZH SÈVE 1 Guern An Leyour  22160 La Chapelle-Neuve",
@@ -86105,6 +87201,7 @@ export const merchant = {
             "7961c730-e82f-43b6-9",
             "bf29f45a-4db5-4f10-9",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "Le Cellier de Boäl": {
         Address: " Le Cellier de Boäl Le Chesnay Barbot  22350 Caulnes",
@@ -86169,6 +87266,7 @@ export const merchant = {
             "7b38ec3f-2e07-4a55-b",
             "4298f4bc-ac2e-47f1-a",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "Le Lavandier Charcutier Pontivy": {
         Address: " Le Lavandier Charcutier Pontivy Avenue des Cités Unies  56300 Pontivy",
@@ -86252,6 +87350,7 @@ export const merchant = {
             "206e8e2f-5758-4f9c-a",
             "1ac4392e-073b-4cbc-8",
         ],
+        zipcode: "56 Morbihan",
     },
     "BRASSERIE DE TORLANN": {
         Address: " BRASSERIE DE TORLANN BRASSERIE DE TORLANN, Torlann Malguenac  56300 Malguénac",
@@ -86321,6 +87420,7 @@ export const merchant = {
             "2a1f2d10-d125-4411-9",
             "2c74ba62-616c-4428-8",
         ],
+        zipcode: "56 Morbihan",
     },
     "Un Simple Jardin": {
         Address: " Un Simple Jardin Le quinquis  22780 Loguivy-Plougras",
@@ -86334,7 +87434,6 @@ export const merchant = {
             "rhubarbe",
             "poireau",
             "oignon",
-            "",
             "légumes",
             "épinard",
             "cresson",
@@ -86450,6 +87549,7 @@ export const merchant = {
             "e25e4e34-2441-4451-b",
             "05d79170-b4de-4329-a",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "La Grobul' Factory": {
         Address: " La Grobul' Factory Place du Triskell  22110 Mellionnec",
@@ -86519,6 +87619,7 @@ export const merchant = {
             "ddd66ace-de8b-40f2-9",
             "bb38c461-eb40-441d-8",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "Gaec Lait Vach'rie": {
         Address: " Gaec Lait Vach'rie Le bois rieux  35290 Saint-Méen-le-Grand",
@@ -86593,6 +87694,7 @@ export const merchant = {
             "e90c828b-b2ab-4e21-8",
             "5fefc504-b99b-4bd7-b",
         ],
+        zipcode: "35 Ille-et-Vilaine",
     },
     "Plants B": {
         Address: " Plants B Cosquerou Servel  22300 Lannion",
@@ -86661,6 +87763,7 @@ export const merchant = {
             "0f6df93b-b1ff-4bb2-9",
             "94da843f-6b8f-491d-a",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "Les Volailles du pré BIottés": {
         Address: " Les Volailles du pré BIottés La ville es bottés  56120 Lanouée",
@@ -86734,6 +87837,7 @@ export const merchant = {
             "b1409b12-db5f-400d-8",
             "6956b41f-dca7-491f-9",
         ],
+        zipcode: "56 Morbihan",
     },
     "Ferme de la Salamandre": {
         Address: " Ferme de la Salamandre La Cour Neuve  22630 Le Quiou",
@@ -86818,6 +87922,7 @@ export const merchant = {
             "f7ca07d7-024f-44ee-a",
             "7b38ec3f-2e07-4a55-b",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "Jérôme Kuntz": {
         Address: " Jérôme Kuntz 11, Saint-Georges  56310 Guern",
@@ -86883,6 +87988,7 @@ export const merchant = {
             "a810d869-99cf-4a57-a",
             "2b8be3bb-0821-4c45-b",
         ],
+        zipcode: "56 Morbihan",
     },
     "Ferme des Aulnays": {
         Address: " Ferme des Aulnays La Touche  22630 Évran",
@@ -86954,6 +88060,7 @@ export const merchant = {
             "bbccb762-fae3-422a-a",
             "c2c4c5fc-56b5-43f1-9",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "Domaine du triskell rouge": {
         Address: " Domaine du triskell rouge 7 La Roseraie  22630 Évran",
@@ -87016,6 +88123,7 @@ export const merchant = {
             "cbe4cc1d-6e55-4b90-9",
             "cfaec864-62b8-4438-a",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "Arôm'éthic": {
         Address: " Arôm'éthic Le Plessix  22630 Évran",
@@ -87037,7 +88145,6 @@ export const merchant = {
             "poireau",
             "petits pois",
             "oignon",
-            "",
             "mâche",
             "légumes",
             "haricot vert",
@@ -87143,6 +88250,7 @@ export const merchant = {
             "1e51241e-0704-42a8-a",
             "8b7e6d8a-0a39-4dbf-9",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "Le Rucher des Faluns": {
         Address: " Le Rucher des Faluns Bourg  22630 Évran",
@@ -87215,6 +88323,7 @@ export const merchant = {
             "8a10450c-83b4-4936-9",
             "f1e7292a-ceea-4afc-9",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "La Fontaine Airmeth": {
         Address: " La Fontaine Airmeth 4 KERIO  56160 Ploërdut",
@@ -87292,6 +88401,7 @@ export const merchant = {
             "bc115352-fc0c-4010-8",
             "05d79170-b4de-4329-a",
         ],
+        zipcode: "56 Morbihan",
     },
     "Ferme du Lannic": {
         Address: " Ferme du Lannic Le Lannic  56160 Ploërdut",
@@ -87354,6 +88464,7 @@ export const merchant = {
             "f9212d19-7bf1-4198-a",
             "f7ca07d7-024f-44ee-a",
         ],
+        zipcode: "56 Morbihan",
     },
     "Terre du milieu": {
         Address: " Terre du milieu Roscato  56160 Ploërdut",
@@ -87420,6 +88531,7 @@ export const merchant = {
             "270076d2-0756-424e-8",
             "bae17232-9736-427a-b",
         ],
+        zipcode: "56 Morbihan",
     },
     "La Malvoisine": {
         Address: " La Malvoisine Malvoisin  56160 Ploërdut",
@@ -87487,6 +88599,7 @@ export const merchant = {
             "a0a25c89-a063-4c91-8",
             "7b033df4-ddb8-4c37-8",
         ],
+        zipcode: "56 Morbihan",
     },
     "GAEC de Namohic (Kerourin)": {
         Address: " GAEC de Namohic (Kerourin) Kerourin  56160 Ploërdut",
@@ -87556,6 +88669,7 @@ export const merchant = {
             "149306aa-d693-4c27-8",
             "01e715e3-83b0-4b1e-a",
         ],
+        zipcode: "56 Morbihan",
     },
     "Brasserie Carabo": {
         Address: " Brasserie Carabo 10 rue du Cordonnier  22630 Saint-Judoce",
@@ -87614,6 +88728,7 @@ export const merchant = {
             "d32463e7-95bb-487e-9",
             "b45aaf1c-db59-44f3-9",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "GAEC du Pressoir": {
         Address: " GAEC du Pressoir 2 place de la Poste  35190 Saint-Pern",
@@ -87680,6 +88795,7 @@ export const merchant = {
             "bf29f45a-4db5-4f10-9",
             "e96f08ed-0ba7-4150-9",
         ],
+        zipcode: "35 Ille-et-Vilaine",
     },
     "Ferme Ty nevez": {
         Address: " Ferme Ty nevez Ty nevez  56540 Saint-Tugdual",
@@ -87752,6 +88868,7 @@ export const merchant = {
             "7b25a8a8-cf6b-4d9e-a",
             "6e4f5183-64ca-4ac7-b",
         ],
+        zipcode: "56 Morbihan",
     },
     "les ptits clics bio": {
         Address: " les ptits clics bio Les cliques  35360 Montauban-de-Bretagne",
@@ -87779,7 +88896,6 @@ export const merchant = {
             "lentilles",
             "mâche",
             "maï",
-            "",
             "navet",
             "oignon",
             "panais",
@@ -87855,6 +88971,7 @@ export const merchant = {
             "f727d4f9-0a05-4eb9-8",
             "87b16858-c0c5-4666-a",
         ],
+        zipcode: "35 Ille-et-Vilaine",
     },
     "Le Domaine de Dana": {
         Address: " Le Domaine de Dana KERIDAN  56930 Pluméliau",
@@ -87929,6 +89046,7 @@ export const merchant = {
             "ffab0110-b9fc-4c63-8",
             "b74dbdd4-0c27-4d1a-a",
         ],
+        zipcode: "56 Morbihan",
     },
     "Jean-François Prié": {
         Address: " Jean-François Prié La Ruée  35360 Boisgervilly",
@@ -87947,7 +89065,6 @@ export const merchant = {
             "panais",
             "oignon",
             "navet",
-            "",
             "maï",
             "mâche",
             "haricot vert",
@@ -88031,6 +89148,7 @@ export const merchant = {
             "c6b81788-ae25-46fc-b",
             "3098e3a6-5647-4515-a",
         ],
+        zipcode: "35 Ille-et-Vilaine",
     },
     "La Ferme de la Ruée": {
         Address: " La Ferme de la Ruée 213 la Ruée  35360 Boisgervilly",
@@ -88057,7 +89175,6 @@ export const merchant = {
             "haricot vert",
             "mâche",
             "maï",
-            "",
             "navet",
             "oignon",
             "petits pois",
@@ -88136,6 +89253,7 @@ export const merchant = {
             "06a50824-d55c-4f03-9",
             "1ac4392e-073b-4cbc-8",
         ],
+        zipcode: "35 Ille-et-Vilaine",
     },
     "La Rigadelle": {
         Address: " La Rigadelle Kernabat 29270 carhaix  29270 Carhaix-Plouguer",
@@ -88238,6 +89356,7 @@ export const merchant = {
             "036e22d6-1dc1-4597-9",
             "1793c3d4-5912-43b2-9",
         ],
+        zipcode: "29 Finistère",
     },
     "La fabrique du potager": {
         Address: " La fabrique du potager 78 rue de kernevez  22560 Trébeurden",
@@ -88319,6 +89438,7 @@ export const merchant = {
             "f048f2f9-ac5a-4aba-8",
             "036e22d6-1dc1-4597-9",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "La Ferme De Kernon": {
         Address: " La Ferme De Kernon KERNON  22340 Tréogan",
@@ -88388,6 +89508,7 @@ export const merchant = {
             "384a005f-f399-48c7-a",
             "cc098c88-7763-4ed9-a",
         ],
+        zipcode: "22 Côtes-d'Armor",
     },
     "Philippe et Pascale Fevre": {
         Address: " Philippe et Pascale Fevre Stang Ar Floch  29640 Scrignac",
@@ -88456,6 +89577,7 @@ export const merchant = {
             "cedc970e-02b6-4c03-9",
             "bec4ed08-b2c6-4c82-a",
         ],
+        zipcode: "29 Finistère",
     },
     "la ferme le beller": {
         Address: " la ferme le beller Bieuzen  56310 Bubry",
@@ -88538,6 +89660,7 @@ export const merchant = {
             "03858e30-7f99-4f75-8",
             "de3488bb-0d6a-4d20-a",
         ],
+        zipcode: "56 Morbihan",
     },
     "Fermette de Stivel": {
         Address: " Fermette de Stivel Stivel  56310 Bubry",
@@ -88607,6 +89730,7 @@ export const merchant = {
             "859f8042-833e-4975-b",
             "dfce319d-1c0c-433b-8",
         ],
+        zipcode: "56 Morbihan",
     },
     "La bouquetière": {
         Address: " La bouquetière Kerguédalen  56540 Saint-Caradec-Trégomel",
@@ -88672,6 +89796,7 @@ export const merchant = {
             "10e49dd4-0650-4fec-a",
             "03858e30-7f99-4f75-8",
         ],
+        zipcode: "56 Morbihan",
     },
     "Ferme de Gourhert": {
         Address: " Ferme de Gourhert 4 gourhert 56800 Ploërmel  56800 Ploërmel",
@@ -88833,6 +89958,7 @@ export const merchant = {
             "fcd03660-47b8-4f22-8",
             "c4342434-5448-4946-a",
         ],
+        zipcode: "56 Morbihan",
     },
     "Ferme Pemoch Buoch": {
         Address: " Ferme Pemoch Buoch Kersager  56310 Quistinic",
@@ -88917,6 +90043,7 @@ export const merchant = {
             "e12bc812-b9a7-4053-8",
             "ddd66ace-de8b-40f2-9",
         ],
+        zipcode: "56 Morbihan",
     },
     "GAEC l'Abeille de Lanvaux": {
         Address: " GAEC l'Abeille de Lanvaux 26 rue du govéro  56660 Saint-Jean-Brévelay",
@@ -88990,6 +90117,7 @@ export const merchant = {
             "c2c883b4-8522-4368-9",
             "6fc014e9-33c1-4dff-a",
         ],
+        zipcode: "56 Morbihan",
     },
     "l'étable ronde": {
         Address: " l'étable ronde les Noës plélan le grand  35380 Plélan-le-Grand",
@@ -89062,6 +90190,7 @@ export const merchant = {
             "149306aa-d693-4c27-8",
             "c3e8ef3b-32dd-4803-9",
         ],
+        zipcode: "35 Ille-et-Vilaine",
     },
     "L'EARL de l'Aulne": {
         Address: " L'EARL de l'Aulne Le Pas de L'Ane  35630 Langouet",
@@ -89146,6 +90275,7 @@ export const merchant = {
             "7961c730-e82f-43b6-9",
             "dfce319d-1c0c-433b-8",
         ],
+        zipcode: "35 Ille-et-Vilaine",
     },
     "Ferme de Véro": {
         Address: " Ferme de Véro Le Tertre Malouas  35270 Combourg",
@@ -89217,6 +90347,7 @@ export const merchant = {
             "cd15077f-c259-43f9-8",
             "c5ba7716-f287-4d5c-9",
         ],
+        zipcode: "35 Ille-et-Vilaine",
     },
     "Ona'turel": {
         Address: " Ona'turel Kermouel  56240 Plouay",
@@ -89318,6 +90449,7 @@ export const merchant = {
             "036e22d6-1dc1-4597-9",
             "8475e20f-195a-44b5-a",
         ],
+        zipcode: "56 Morbihan",
     },
     "Le Coucou": {
         Address: " Le Coucou Bel Air  35520 Montreuil-le-Gast",
@@ -89377,6 +90509,7 @@ export const merchant = {
             "ff538ae5-7322-45e0-8",
             "60f37375-dd24-4f11-8",
         ],
+        zipcode: "35 Ille-et-Vilaine",
     },
     "La marchande de crèpes": {
         Address: " La marchande de crèpes Sainte seve  29600 Sainte-Sève",
@@ -89451,6 +90584,7 @@ export const merchant = {
             "8b7e6d8a-0a39-4dbf-9",
             "3098e3a6-5647-4515-a",
         ],
+        zipcode: "29 Finistère",
     },
     Ecotones: {
         Address: " Ecotones La Ville Boscher  56380 Guer",
@@ -89537,6 +90671,7 @@ export const merchant = {
             "451e9a52-6dd8-46f7-a",
             "582fdf5d-cad8-402a-a",
         ],
+        zipcode: "56 Morbihan",
     },
     "A La Jumenterie desCrinières Blanches": {
         Address: " A La Jumenterie des  Crinières Blanches lieu dit KENERDU 56110 Roudouallec  56110 Roudouallec",
@@ -89613,6 +90748,7 @@ export const merchant = {
             "fd8f3e50-56f0-4440-9",
             "ed416075-44d1-4b9c-a",
         ],
+        zipcode: "56 Morbihan",
     },
     "Lambig'ouden": {
         Address: " Lambig'ouden 7 Saint Eloi  56560 Guiscriff",
@@ -89675,6 +90811,7 @@ export const merchant = {
             "33a93d59-5719-48de-8",
             "7cf85155-6fe6-478f-8",
         ],
+        zipcode: "56 Morbihan",
     },
     "Douceurs épicées": {
         Address: " Douceurs épicées 7 Saint Eloi  56560 Guiscriff",
@@ -89741,6 +90878,7 @@ export const merchant = {
             "d3528ce1-ba92-401a-b",
             "e90c828b-b2ab-4e21-8",
         ],
+        zipcode: "56 Morbihan",
     },
     Biopom: {
         Address: " Biopom Kergarrec Penquesten  56650 Inzinzac-Lochrist",
@@ -89817,6 +90955,7 @@ export const merchant = {
             "8475e20f-195a-44b5-a",
             "78b8d2d1-eb3e-4f1f-9",
         ],
+        zipcode: "56 Morbihan",
     },
     "Victoria Skoczek - La Ferme de Kerdossen": {
         Address: " Victoria Skoczek - La Ferme de Kerdossen Kerdossen  56390 Locqueltas",
@@ -89881,6 +91020,7 @@ export const merchant = {
             "9c5f42f1-dee6-49f4-a",
             "bb38c461-eb40-441d-8",
         ],
+        zipcode: "56 Morbihan",
     },
     "Bernard Schmitt": {
         Address: " Bernard Schmitt Le Chêne  35580 Baulon",
@@ -89955,6 +91095,7 @@ export const merchant = {
             "00cc6c01-a75b-4ff7-8",
             "33a93d59-5719-48de-8",
         ],
+        zipcode: "35 Ille-et-Vilaine",
     },
     "Ferme-brasserie DRAO": {
         Address: " Ferme-brasserie DRAO Servaude  35520 Melesse",
@@ -90031,6 +91172,7 @@ export const merchant = {
             "9d889b4d-4e91-45ba-9",
             "a7b60434-becf-4be4-8",
         ],
+        zipcode: "35 Ille-et-Vilaine",
     },
     "Les Petits Chapelais": {
         Address: " Les Petits Chapelais Lieu-dit Les Petits Chapelais  35310 Chavagne",
@@ -90113,6 +91255,7 @@ export const merchant = {
             "5fefc504-b99b-4bd7-b",
             "8d7ee3fc-7f50-44f7-9",
         ],
+        zipcode: "35 Ille-et-Vilaine",
     },
     "Bergerie des Ifs": {
         Address: " Bergerie des Ifs Ker Maez  29520 Laz",
@@ -90190,6 +91333,7 @@ export const merchant = {
             "149306aa-d693-4c27-8",
             "8a10450c-83b4-4936-9",
         ],
+        zipcode: "29 Finistère",
     },
     "Au Four et au Moulin": {
         Address: " Au Four et au Moulin Le Rocher de Ropenard  35330 Maure-de-Bretagne",
@@ -90260,6 +91404,7 @@ export const merchant = {
             "65e22731-e95e-42dc-8",
             "32b37740-c957-4d1d-a",
         ],
+        zipcode: "35 Ille-et-Vilaine",
     },
     "Awen Nature": {
         Address: " Awen Nature 14 bis route des Fonderies  35250 Chevaigné",
@@ -90336,6 +91481,7 @@ export const merchant = {
             "f9212d19-7bf1-4198-a",
             "152b105a-1c6e-41af-9",
         ],
+        zipcode: "35 Ille-et-Vilaine",
     },
     "Ferme de Carafray": {
         Address: " Ferme de Carafray Kerbricon  56230 Molac",
@@ -90395,6 +91541,7 @@ export const merchant = {
             "4af7c468-e4db-4751-8",
             "aa043fb5-5d63-4f30-9",
         ],
+        zipcode: "56 Morbihan",
     },
     "Ferme de Mangorvernec": {
         Address: " Ferme de Mangorvernec Ferme de MangorvernecRue de la Briqueterie  56890 Saint-Avé",
@@ -90488,6 +91635,7 @@ export const merchant = {
             "3e242a93-b5aa-4ac2-8",
             "c4342434-5448-4946-a",
         ],
+        zipcode: "56 Morbihan",
     },
     "Les Framboises de Calavret": {
         Address: " Les Framboises de Calavret CALAVRET  56550 Locoal-Mendon",
@@ -90569,6 +91717,7 @@ export const merchant = {
             "7b38ec3f-2e07-4a55-b",
             "e095d8c7-5da9-4945-8",
         ],
+        zipcode: "56 Morbihan",
     },
     "Ferme de la Perrière": {
         Address: " Ferme de la Perrière La Perrière  35580 Guichen",
@@ -90630,6 +91779,7 @@ export const merchant = {
             "2c74ba62-616c-4428-8",
             "bde41646-af09-4815-9",
         ],
+        zipcode: "35 Ille-et-Vilaine",
     },
     "SAM'BRASSE DE LA BIÈRE": {
         Address: " SAM'BRASSE DE LA BIÈRE N°27 Kergavalan  56530 Quéven",
@@ -90701,6 +91851,7 @@ export const merchant = {
             "a810d869-99cf-4a57-a",
             "0f88be4a-9867-4139-b",
         ],
+        zipcode: "56 Morbihan",
     },
     "la ferme de Coët-Navalen": {
         Address: " la ferme de Coët-Navalen Coet-navalen  56250 Sulniac",
@@ -90793,6 +91944,7 @@ export const merchant = {
             "d17f0be6-4007-4c18-9",
             "01e715e3-83b0-4b1e-a",
         ],
+        zipcode: "56 Morbihan",
     },
     "Bios du Château": {
         Address: " Bios du Château Parc de Bois du Château  56100 Lorient",
@@ -90905,6 +92057,7 @@ export const merchant = {
             "1ccec9f5-8466-44f6-9",
             "c3e8ef3b-32dd-4803-9",
         ],
+        zipcode: "56 Morbihan",
     },
     "Savonnerie La Dryade": {
         Address: " Savonnerie La Dryade La Dryade7 les Ruelles  35890 Laillé",
@@ -90982,6 +92135,7 @@ export const merchant = {
             "cc098c88-7763-4ed9-a",
             "bde41646-af09-4815-9",
         ],
+        zipcode: "35 Ille-et-Vilaine",
     },
     "Ferme du bout du chemin": {
         Address: " Ferme du bout du chemin La Connelais  35890 Laillé",
@@ -91040,6 +92194,7 @@ export const merchant = {
             "8f6a6486-485a-4bc8-b",
             "1ccec9f5-8466-44f6-9",
         ],
+        zipcode: "35 Ille-et-Vilaine",
     },
     "Ferme de La Maison Neuve": {
         Address: " Ferme de La Maison Neuve La maison neuve  56230 Questembert",
@@ -91139,6 +92294,7 @@ export const merchant = {
             "1e1da486-4433-4962-a",
             "bde41646-af09-4815-9",
         ],
+        zipcode: "56 Morbihan",
     },
     "Le champ des possibles": {
         Address: " Le champ des possibles 13 rue de la gare  50170 Tanis",
@@ -91214,6 +92370,7 @@ export const merchant = {
             "3f3c2b8a-5c42-4618-8",
             "8b272777-8d25-4c4f-a",
         ],
+        zipcode: "50 Manche",
     },
     "Christophe Royer": {
         Address: " Christophe Royer La Ville Janvier  56200 Cournon",
@@ -91304,6 +92461,7 @@ export const merchant = {
             "3b3d794c-4b1b-4bfd-8",
             "7cf85155-6fe6-478f-8",
         ],
+        zipcode: "56 Morbihan",
     },
     "Les jardins du Clérigo": {
         Address: " Les jardins du Clérigo 2 rue des Lavandières  56450 Theix",
@@ -91381,6 +92539,7 @@ export const merchant = {
             "eca59891-d8d6-4352-8",
             "ed416075-44d1-4b9c-a",
         ],
+        zipcode: "56 Morbihan",
     },
     "Le goût de la mer": {
         Address: " Le goût de la mer Route du Badel  56860 Séné",
@@ -91451,5 +92610,6 @@ export const merchant = {
             "a4adc1fd-b35f-4161-a",
             "06a50824-d55c-4f03-9",
         ],
+        zipcode: "56 Morbihan",
     },
 };

@@ -1,17 +1,15 @@
 import * as React from "react";
 
-import FormControl from "@mui/material/FormControl";
-import Select from "@mui/material/Select";
-import MenuItem from "@mui/material/MenuItem";
-import InputLabel from "@mui/material/InputLabel";
-
 import { ListMarket } from "../../components";
-import { villes } from "../../data/villes";
 import { marketsData } from "../../data/markets";
-import MarketDetail from "../MarketDetail";
+// import MarketDetail from "../MarketDetail";
+
+import { Outlet, useNavigate, useParams } from "react-router-dom";
+import { AppBarMarket } from "../../components/AppBar";
 
 const Market = () => {
-    const [ville, setVille] = React.useState("Montpellier");
+    const navigate = useNavigate();
+    const { city = "Montpellier" } = useParams();
     const [markets, setMarkets] = React.useState({});
     const [dates, setDates] = React.useState([]);
     const [selected, setSelected] = React.useState(null);
@@ -21,57 +19,41 @@ const Market = () => {
         return new Intl.DateTimeFormat("fr-FR", options).format(date);
     };
 
-    const handleChange = (event) => {
-        setVille(event.target.value);
-        getMarkets();
-    };
-
-    const getMarkets = async () => {
-        let _dates = [];
-        const _markets = {};
-        Object.keys(marketsData).map((doc) => {
-            if (ville && marketsData[doc].city !== ville) return;
-            const data = marketsData[doc];
-            _dates.push(data.date * 1000);
-            if (!_markets[formatDate(new Date(data.date * 1000))])
-                _markets[formatDate(new Date(data.date * 1000))] = [];
-            _markets[formatDate(new Date(data.date * 1000))].push({ id: doc, ...data });
-        });
-        _dates = [...new Set(_dates)];
-        _dates.sort((a, b) => a - b);
-        _dates = _dates.map((date) => formatDate(new Date(date)));
-        setMarkets(_markets);
-        setDates(_dates);
+    const chooseMarket = (id) => {
+        setSelected(id);
+        navigate(`/search/market/${city}/${id}`);
     };
 
     React.useEffect(() => {
+        console.log({ coucou: city });
+        const getMarkets = async () => {
+            let _dates = [];
+            const _markets = {};
+            Object.keys(marketsData).map((doc) => {
+                if (city && marketsData[doc].city !== city) return;
+                const data = marketsData[doc];
+                _dates.push(data.date * 1000);
+                if (!_markets[formatDate(new Date(data.date * 1000))])
+                    _markets[formatDate(new Date(data.date * 1000))] = [];
+                _markets[formatDate(new Date(data.date * 1000))].push({ id: doc, ...data });
+            });
+            _dates = [...new Set(_dates)];
+            _dates.sort((a, b) => a - b);
+            _dates = _dates.map((date) => formatDate(new Date(date)));
+            setMarkets(_markets);
+            setDates(_dates);
+        };
         getMarkets();
-    }, []);
+    }, [city]);
 
     return (
-        <div style={{ display: "flex", height: "100vh" }}>
-            <div>
-                <FormControl sx={{ m: 1, minWidth: 160 }}>
-                    <InputLabel id="demo-simple-select-autowidth-label">Villes/Villages</InputLabel>
-                    <Select
-                        labelId="demo-simple-select-autowidth-label"
-                        id="demo-simple-select-autowidth"
-                        value={ville}
-                        onChange={handleChange}
-                        autoWidth
-                        label="Age"
-                    >
-                        {villes.map((_ville) => (
-                            <MenuItem key={_ville} value={_ville}>
-                                {_ville}
-                            </MenuItem>
-                        ))}
-                    </Select>
-                </FormControl>
-                <ListMarket {...{ markets, dates }} selected={selected} setSelected={setSelected} />
+        <>
+            <AppBarMarket />
+            <div style={{ display: "flex", height: "calc(100vh - 72px)" }}>
+                <ListMarket {...{ markets, dates }} selected={selected} chooseMarket={chooseMarket} />
+                <Outlet />
             </div>
-            <MarketDetail selected={selected} />
-        </div>
+        </>
     );
 };
 
