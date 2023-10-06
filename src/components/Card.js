@@ -14,7 +14,7 @@ export const CardMarket = ({ title, date, timing, dist, categs }) => {
                     gutterBottom
                     variant="h5"
                     component="div"
-                    style={{ fontWeight: 700, color: "#608efd", textTransform: "uppercase" }}
+                    style={{ fontWeight: 700, color: "#608efd", textTransform: "uppercase", marginTop: 10}}
                 >
                     {title}
                 </Typography>
@@ -28,7 +28,8 @@ export const CardMarket = ({ title, date, timing, dist, categs }) => {
                 >
                     {timing}
                 </Typography>
-                <Typography variant="body2" color="green" align="right" position="absolute" top={15} right={25}>
+                <Typography variant="body2" color="green" align="right" position="absolute" top={15} right={25}
+>
                     {dist} <i className="fa-solid fa-circle fa-fade fa-beat" />
                 </Typography>
                 <Divider variant="middle" style={{ marginTop: 12, marginBottom: 12 }}>
