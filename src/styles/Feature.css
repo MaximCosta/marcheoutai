@@ -86,7 +86,6 @@
     margin: auto;
 }
 
-/* Media Query for Responsive Layout */
 @media (min-width: 651px) and (max-width: 1600px) {
     .row {
         flex-wrap: wrap;
@@ -110,3 +109,13 @@
     }
 }
 
+.in-progress-message {
+    width: 170px;
+    margin: -30px auto 0 auto;
+    color: #007bff; 
+    font-size: 18px; 
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+}

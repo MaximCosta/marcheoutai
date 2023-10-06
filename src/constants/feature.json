@@ -163,22 +163,26 @@
       {
         "icon": "fa-solid fa-shop",
         "title": "Trouve ton marché",
-        "text": "Désormais, les utilisateurs peuvent facilement découvrir et explorer les marchés locaux à proximité, offrant ainsi une expérience d'achat authentique et engageante. Cette fonctionnalité donne vie à la vision d'une communauté connectée, encourageant le commerce local et offrant aux consommateurs une chance de soutenir les entrepreneurs de leur région. Explorez votre quartier de manière nouvelle et passionnante avec notre fonction de recherche de marchés locaux, renforçant ainsi les liens au sein de votre communauté tout en découvrant des trésors uniques à chaque coin de rue."
+        "text": "Désormais, les utilisateurs peuvent facilement découvrir et explorer les marchés locaux à proximité, favorisant ainsi une expérience d'achat authentique et engageante. Cette fonctionnalité vise à créer une communauté connectée, promouvant le commerce local et permettant aux consommateurs de soutenir les entrepreneurs locaux. Avec la fonction de recherche de marchés locaux, vous pouvez explorer votre quartier de manière nouvelle et passionnante, renforçant les liens au sein de votre communauté tout en découvrant des trésors uniques à chaque coin de rue.",
+        "inProgress": false
       },
       {
         "icon": "fa-solid fa-address-card",
         "title": "Trouve ton marchand",
-        "text": "Explorez une abondance de produits frais et authentiques provenant directement des agriculteurs et producteurs de votre région. Cultivez une relation directe avec votre source alimentaire grâce à notre fonction de recherche de producteurs locaux, transformant chaque achat en une expérience qui soutient l'agriculture locale tout en offrant des produits d'une fraîcheur exceptionnelle."
+        "text": "Explorez une abondance de produits frais et authentiques provenant directement des agriculteurs et producteurs de votre région. Cultivez une relation directe avec votre source alimentaire grâce à notre fonction de recherche de producteurs locaux, transformant chaque achat en une expérience qui soutient l'agriculture locale tout en offrant des produits d'une fraîcheur exceptionnelle.",
+        "inProgress": false
       },
       {
         "icon": "fa-solid fa-carrot",
         "title": "Trouve ton produit frais",
-        "text": "Votre guide infaillible pour des choix alimentaires sains et délicieux ! Explorez notre sélection de produits frais de qualité supérieure, triés sur le volet pour vous garantir fraîcheur et saveur. Que vous cherchiez des légumes croquants, des viandes tendres ou des produits laitiers crémeux, notre outil vous aide à dénicher les trésors culinaires qui feront briller votre table."
+        "text": "Votre guide infaillible pour des choix alimentaires sains et délicieux ! Explorez notre sélection de produits frais de qualité supérieure, triés sur le volet pour vous garantir fraîcheur et saveur. Que vous cherchiez des légumes croquants, des viandes tendres ou des produits laitiers crémeux, notre outil vous aide à dénicher les trésors culinaires qui feront briller votre table.",
+        "inProgress": false
       },
       {
-        "icon": "fa-solid fa-wand-magic-sparkles",
-        "title": "Lorem ipsum",
-        "text": "In progress..."
+        "icon": "fa-solid fa-square-poll-vertical",
+        "title": "Avis et Évaluations",
+        "text": "Découvrez ce que nos clients disent de nous ! Lisez et partagez vos avis sur les marchés, les marchands et les produits que vous avez appréciés. Votre feedback nous aide à améliorer continuellement notre service et à maintenir la qualité que vous méritez. Partagez vos expériences et contribuez à bâtir une communauté d'acheteurs informés.",
+        "inProgress": true
       }
     ]
   }

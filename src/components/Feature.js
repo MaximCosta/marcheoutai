@@ -1,6 +1,7 @@
 import React from "react";
 import CircularProgress from "@mui/material/CircularProgress";
 import Box from "@mui/material/Box";
+import Typewriter from "typewriter-effect"; // Import Typewriter from typewriter-effect
 import "../styles/Feature.css";
 
 const Feature = ({ data }) => {
@@ -16,6 +17,18 @@ const Feature = ({ data }) => {
                             <div key={index} className="feature">
                                 <i className={feature.icon}></i>
                                 <h3>{feature.title}</h3>
+                                {feature.inProgress && (
+                                    <div className="in-progress-message">
+                                        <Typewriter
+                                            options={{
+                                                strings: ["Work in Progress..."],
+                                                autoStart: true,
+                                                loop: true,
+                                                delay: 100,
+                                            }}
+                                        />
+                                    </div>
+                                )}
                                 <p>{feature.text}</p>
                             </div>
                         ))
