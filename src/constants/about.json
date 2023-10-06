@@ -1,7 +1,12 @@
 {
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        "Why": ["Lorem ipsum dolor", "Tempor incididunt", "Lorem ipsum dolor", "Incididunt ut labore"],
+        "paragraph": "Nous sommes un groupe d'étudiants de l'EPSI, fraîchement inscrits en bachelor, qui se sont réunis lors d'un atelier workshop. Nous avons collaboré pour créer un projet visant à répertorier tous les marchés de notre commune et sur toute la france. Notre objectif est d'aider les habitants à trouver facilement le marché le plus proche de chez eux et à découvrir les marchands ainsi que leurs produits.",
+        "Why": [
+            "Expertise Locale : Notre connaissance approfondie de la commune garantit une localisation précise des marchés.",
+            "Engagement envers la Communauté : Nous sommes investis dans le bien-être de la communauté locale.",
+            "Créativité Collaborative : Nous favorisons la collaboration créative pour des solutions innovantes.",
+            "Solutions Concrètes : Notre détermination à résoudre un problème réel pour améliorer la vie quotidienne des habitants."
+        ],
         "Why2": ["Aliquip ex ea commodo", "Lorem ipsum dolor", "Exercitation ullamco", "Lorem ipsum dolor"]
     }
 }
