@@ -9,17 +9,24 @@ import MenuItem from "@mui/material/MenuItem";
 import FormControl from "@mui/material/FormControl";
 import Select from "@mui/material/Select";
 import InputLabel from "@mui/material/InputLabel";
+
+import AgricultureIcon from "@mui/icons-material/Agriculture";
+import PersonSearchIcon from "@mui/icons-material/PersonSearch";
+
 import { useNavigate, useParams } from "react-router-dom";
 
 import { villes } from "../data/villes";
 import { regions } from "../data/regions";
+import { merchantData } from "../data/merchant";
 
 import "./AppBar.css";
+import { Autocomplete, TextField } from "@mui/material";
 
 export function AppBarMarket() {
     const navigate = useNavigate();
     const { city } = useParams();
     const [ville, setVille] = React.useState(city || "Montpellier");
+    const [search, setSearch] = React.useState("");
 
     const handleChange = (event) => {
         navigate(`/search/market/${event.target.value}`);
@@ -65,6 +72,66 @@ export function AppBarMarket() {
                             {"Marchand"}
                         </Button>
                     </Box>
+                    <Box sx={{ flexGrow: 0, display: { xs: "none", md: "flex" } }}>
+                        <Autocomplete
+                            id="country-select-demo"
+                            sx={{ width: 300, display: "flex", alignItems: "center", color: "white" }}
+                            options={Object.entries(merchantData)
+                                .filter((v) => v[0].toLowerCase().includes(search.toLowerCase()))
+                                .slice(0, 50)}
+                            onInputChange={(event, newInputValue) => {
+                                setSearch(newInputValue);
+                            }}
+                            onChange={(event, value) => {
+                                if (!value) return;
+                                navigate(`/search/merchant/${value[1].zipcode}/${value[0]}`);
+                            }}
+                            autoHighlight
+                            getOptionLabel={(option) => option[0]}
+                            renderOption={(props, option) => (
+                                <Box
+                                    component="li"
+                                    sx={{
+                                        display: "flex",
+                                        justifyContent: "space-between",
+                                        alignItems: "center",
+                                    }}
+                                    {...props}
+                                >
+                                    <div
+                                        style={{
+                                            display: "flex",
+                                            alignItems: "center",
+                                            marginTop: 5,
+                                        }}
+                                    >
+                                        <AgricultureIcon style={{ color: "gray", marginRight: 10 }} />
+                                        <div>{option[0]}</div>
+                                    </div>
+                                </Box>
+                            )}
+                            renderInput={(params) => {
+                                params.InputProps.endAdornment = (
+                                    <>
+                                        {params.InputProps.endAdornment}
+                                        <div>
+                                            <PersonSearchIcon style={{ color: "white" }} />
+                                        </div>
+                                    </>
+                                );
+                                return (
+                                    <TextField
+                                        {...params}
+                                        label="Recherche"
+                                        inputProps={{
+                                            ...params.inputProps,
+                                            autoComplete: "new-password", // disable autocomplete and autofill
+                                        }}
+                                    />
+                                );
+                            }}
+                        />
+                    </Box>
 
                     <Box sx={{ flexGrow: 0 }}>
                         <FormControl sx={{ m: 1, minWidth: 160 }}>
@@ -79,7 +146,7 @@ export function AppBarMarket() {
                                 autoWidth
                                 label="Régions"
                                 style={{
-                                    height: "2.5rem",
+                                    height: "3rem",
                                     color: "white",
                                 }}
                             >
@@ -101,6 +168,7 @@ export function AppBarMerchant() {
     const navigate = useNavigate();
     const { region = "34 Hérault" } = useParams();
     const [ville, setVille] = React.useState(region);
+    const [search, setSearch] = React.useState("");
 
     const handleChange = (event) => {
         navigate(`/search/merchant/${event.target.value}`);
@@ -146,6 +214,66 @@ export function AppBarMerchant() {
                             {"Marchand"}
                         </Button>
                     </Box>
+                    <Box sx={{ flexGrow: 0, display: { xs: "none", md: "flex" } }}>
+                        <Autocomplete
+                            id="country-select-demo"
+                            sx={{ width: 300, display: "flex", alignItems: "center", color: "white" }}
+                            options={Object.entries(merchantData)
+                                .filter((v) => v[0].toLowerCase().includes(search.toLowerCase()))
+                                .slice(0, 50)}
+                            onInputChange={(event, newInputValue) => {
+                                setSearch(newInputValue);
+                            }}
+                            onChange={(event, value) => {
+                                if (!value) return;
+                                navigate(`/search/merchant/${value[1].zipcode}/${value[0]}`);
+                            }}
+                            autoHighlight
+                            getOptionLabel={(option) => option[0]}
+                            renderOption={(props, option) => (
+                                <Box
+                                    component="li"
+                                    sx={{
+                                        display: "flex",
+                                        justifyContent: "space-between",
+                                        alignItems: "center",
+                                    }}
+                                    {...props}
+                                >
+                                    <div
+                                        style={{
+                                            display: "flex",
+                                            alignItems: "center",
+                                            marginTop: 5,
+                                        }}
+                                    >
+                                        <AgricultureIcon style={{ color: "gray", marginRight: 10 }} />
+                                        <div>{option[0]}</div>
+                                    </div>
+                                </Box>
+                            )}
+                            renderInput={(params) => {
+                                params.InputProps.endAdornment = (
+                                    <>
+                                        {params.InputProps.endAdornment}
+                                        <div>
+                                            <PersonSearchIcon style={{ color: "white" }} />
+                                        </div>
+                                    </>
+                                );
+                                return (
+                                    <TextField
+                                        {...params}
+                                        label="Recherche"
+                                        inputProps={{
+                                            ...params.inputProps,
+                                            autoComplete: "new-password", // disable autocomplete and autofill
+                                        }}
+                                    />
+                                );
+                            }}
+                        />
+                    </Box>
                     <Box sx={{ flexGrow: 0 }}>
                         <FormControl sx={{ m: 1, minWidth: 160 }}>
                             <InputLabel id="demo-simple-select-autowidth-label" style={{ color: "white" }}>
@@ -159,7 +287,7 @@ export function AppBarMerchant() {
                                 autoWidth
                                 label="Régions"
                                 style={{
-                                    height: "2.5rem",
+                                    height: "3rem",
                                     color: "white",
                                 }}
                             >

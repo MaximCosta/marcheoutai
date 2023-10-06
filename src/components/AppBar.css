@@ -6,3 +6,20 @@
 .MuiSelect-icon {
     color: white !important;
 }
+
+.MuiAutocomplete-inputRoot {
+    height: 3rem !important;
+}
+
+#country-select-demo-label {
+    color: white !important;
+    line-height: 18px;
+}
+
+.MuiAutocomplete-inputRoot .MuiSvgIcon-fontSizeMedium {
+    color: white;
+}
+
+#country-select-demo {
+    color: white;
+}
