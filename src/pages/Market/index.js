@@ -25,7 +25,6 @@ const Market = () => {
     };
 
     React.useEffect(() => {
-        console.log({ coucou: city });
         const getMarkets = async () => {
             let _dates = [];
             const _markets = {};

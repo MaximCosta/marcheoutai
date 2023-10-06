@@ -6,7 +6,6 @@ import Typography from "@mui/material/Typography";
 import Container from "@mui/material/Container";
 import Button from "@mui/material/Button";
 import MenuItem from "@mui/material/MenuItem";
-import AdbIcon from "@mui/icons-material/Adb";
 import FormControl from "@mui/material/FormControl";
 import Select from "@mui/material/Select";
 import InputLabel from "@mui/material/InputLabel";
@@ -59,11 +58,11 @@ export function AppBarMarket() {
                             {"Marché"}
                         </Button>
                         <Button
-                            key={"Marchant"}
+                            key={"Marchand"}
                             sx={{ my: 2, color: "white", display: "block" }}
                             href="/search/merchant"
                         >
-                            {"Marchant"}
+                            {"Marchand"}
                         </Button>
                     </Box>
 
@@ -112,7 +111,11 @@ export function AppBarMerchant() {
         <AppBar position="static" style={{ background: "linear-gradient(to right, #6372ff 0%, #5ca9fb 100%)" }}>
             <Container maxWidth="xl">
                 <Toolbar disableGutters>
-                    <AdbIcon sx={{ display: { xs: "flex" }, mr: 1 }} />
+                    <img
+                        style={{ display: "flex", mr: 1, height: 40, width: "auto", marginRight: 12 }}
+                        src={require("./logo.png")}
+                        alt="logo"
+                    />
                     <Typography
                         variant="h6"
                         noWrap
@@ -136,14 +139,13 @@ export function AppBarMerchant() {
                             {"Marché"}
                         </Button>
                         <Button
-                            key={"Marchant"}
+                            key={"Marchand"}
                             sx={{ my: 2, color: "white", display: "block" }}
                             href="/search/merchant"
                         >
-                            {"Marchant"}
+                            {"Marchand"}
                         </Button>
                     </Box>
-
                     <Box sx={{ flexGrow: 0 }}>
                         <FormControl sx={{ m: 1, minWidth: 160 }}>
                             <InputLabel id="demo-simple-select-autowidth-label" style={{ color: "white" }}>

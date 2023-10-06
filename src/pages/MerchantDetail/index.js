@@ -146,7 +146,7 @@ const MerchantDetail = () => {
 
     return (
         <Card sx={{ margin: 10, padding: 5, width: "100%" }}>
-            <h1 style={{ fontWeight: 700, color: "#608efd", textTransform: "uppercase" }}>Marchant : {idMerchant}</h1>
+            <h1 style={{ fontWeight: 700, color: "#608efd", textTransform: "uppercase" }}>Marchand : {idMerchant}</h1>
             <Divider style={{ marginBottom: 20 }}>Information</Divider>
             <Grid container spacing={2}>
                 <Grid item xs={6}>

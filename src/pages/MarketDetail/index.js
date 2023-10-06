@@ -228,7 +228,7 @@ const MarketDetail = () => {
                     </Typography>
                 </Grid>
             </Grid>
-            <Divider style={{ marginTop: 20, marginBottom: 20 }}>Marchant</Divider>
+            <Divider style={{ marginTop: 20, marginBottom: 20 }}>Marchand</Divider>
             <List
                 sx={{
                     width: "100%",
